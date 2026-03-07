@@ -51,6 +51,10 @@
     <display-name lang="it">Twenty Seven</display-name>
     <url>http://www.guidatv.sky.it</url>
   </channel>
+  <channel id="Motor Trend">
+    <display-name lang="it">Motor Trend</display-name>
+    <url>http://www.warnertv.it</url>
+  </channel>
   <channel id="MEZZO">
     <display-name lang="pl">MEZZO</display-name>
     <display-name lang="pl">MEZZO HD</display-name>
@@ -8285,6 +8289,276 @@
     <icon src="https://guidatv.sky.it/uuid/9c9e207a-ba6a-42c2-af69-12fae1509607/cover?territory=IT&amp;md5ChecksumParam=0e6c0468a3faa819f0e7d41e65b3b3ea" />
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20260307001500 +0100" stop="20260307021000 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote</title>
+    <sub-title lang="it">Mazda RX7 - Citroen 2CV</sub-title>
+    <desc lang="it">Mazda RX7 - Citroen 2CV - Mike va alla ricerca di rottami da trasformare con Edd in auto da sogno.</desc>
+    <episode-num system="onscreen">S11 E2</episode-num>
+  </programme>
+  <programme start="20260307021000 +0100" stop="20260307040000 +0100" channel="Motor Trend">
+    <title lang="it">Reperti d'assalto</title>
+    <sub-title lang="it">St.9 Ep.2</sub-title>
+    <desc lang="it">St.9 Ep.2 - Michael e il suo instancabile team proseguono la loro ricerca di mezzi militari, dismessi o problematici, da rimettere accuratamente a nuovo.</desc>
+    <episode-num system="onscreen">S9 E2</episode-num>
+  </programme>
+  <programme start="20260307040000 +0100" stop="20260307054000 +0100" channel="Motor Trend">
+    <title lang="it">Reperti d'assalto</title>
+    <sub-title lang="it">St.9 Ep.3</sub-title>
+    <desc lang="it">St.9 Ep.3 - Michael e il suo instancabile team proseguono la loro ricerca di mezzi militari, dismessi o problematici, da rimettere accuratamente a nuovo.</desc>
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20260307054000 +0100" stop="20260307060000 +0100" channel="Motor Trend">
+    <title lang="it">Come e' fatto</title>
+    <sub-title lang="it">St.10 Ep.3</sub-title>
+    <desc lang="it">St.10 Ep.3 - Passiamo altri oggetti d'uso quotidiano sotto la lente d'ingrandimento, come le livelle, gli hot dog, le grane abrasive e la carta vetrata.</desc>
+    <episode-num system="onscreen">S10 E3</episode-num>
+  </programme>
+  <programme start="20260307060000 +0100" stop="20260307062500 +0100" channel="Motor Trend">
+    <title lang="it">Marchio di fabbrica</title>
+    <sub-title lang="it">St.8 Ep.2</sub-title>
+    <desc lang="it">St.8 Ep.2 - Com'e' progettata e realizzata la pista da bowling del futuro? Come viene alzato e abbassato il Tower Bridge di Londra? E come e' possibile produrre milioni di caramelle al giorno?</desc>
+    <episode-num system="onscreen">S8 E2</episode-num>
+  </programme>
+  <programme start="20260307062500 +0100" stop="20260307065500 +0100" channel="Motor Trend">
+    <title lang="it">Come e' fatto</title>
+    <sub-title lang="it">St.17 Ep.6</sub-title>
+    <desc lang="it">St.17 Ep.6 - Vi siete mai chiesti come sono fatti e prodotti gli oggetti di uso quotidiano, come wafer arrotolati, pellet in legno e anelli di laurea.</desc>
+    <episode-num system="onscreen">S17 E6</episode-num>
+  </programme>
+  <programme start="20260307065500 +0100" stop="20260307072000 +0100" channel="Motor Trend">
+    <title lang="it">Come e' fatto</title>
+    <sub-title lang="it">St.21 Ep.16</sub-title>
+    <desc lang="it">St.21 Ep.16 - Analizziamo diversi oggetti di uso quotidiano e scopriamo come vengono prodotti i volanti estraibili delle Indy-Car, l'insalata mista e le turbine eoliche.</desc>
+    <episode-num system="onscreen">S21 E16</episode-num>
+  </programme>
+  <programme start="20260307072000 +0100" stop="20260307081500 +0100" channel="Motor Trend">
+    <title lang="it">Reperti d'assalto</title>
+    <sub-title lang="it">St.5 Ep.7</sub-title>
+    <desc lang="it">St.5 Ep.7 - Michael Manousakis, insieme al suo straordinario team, va alla ricerca di vecchi veicoli militari dismessi da restaurare accuratamente.</desc>
+    <episode-num system="onscreen">S5 E7</episode-num>
+  </programme>
+  <programme start="20260307081500 +0100" stop="20260307091000 +0100" channel="Motor Trend">
+    <title lang="it">Reperti d'assalto</title>
+    <sub-title lang="it">St.5 Ep.8</sub-title>
+    <desc lang="it">St.5 Ep.8 - Michael Manousakis, insieme al suo straordinario team, va alla ricerca di vecchi veicoli militari dismessi da restaurare accuratamente.</desc>
+    <episode-num system="onscreen">S5 E8</episode-num>
+  </programme>
+  <programme start="20260307091000 +0100" stop="20260307100500 +0100" channel="Motor Trend">
+    <title lang="it">Reperti d'assalto</title>
+    <sub-title lang="it">St.5 Ep.9</sub-title>
+    <desc lang="it">St.5 Ep.9 - Michael Manousakis, insieme al suo straordinario team, va alla ricerca di vecchi veicoli militari dismessi da restaurare accuratamente.</desc>
+    <episode-num system="onscreen">S5 E9</episode-num>
+  </programme>
+  <programme start="20260307100500 +0100" stop="20260307110500 +0100" channel="Motor Trend">
+    <title lang="it">Reperti d'assalto</title>
+    <sub-title lang="it">St.5 Ep.10</sub-title>
+    <desc lang="it">St.5 Ep.10 - Michael Manousakis, insieme al suo straordinario team, va alla ricerca di vecchi veicoli militari dismessi da restaurare accuratamente.</desc>
+    <episode-num system="onscreen">S5 E10</episode-num>
+  </programme>
+  <programme start="20260307110500 +0100" stop="20260307121500 +0100" channel="Motor Trend">
+    <title lang="it">Reperti d'assalto</title>
+    <sub-title lang="it">St.5 Ep.11</sub-title>
+    <desc lang="it">St.5 Ep.11 - Michael Manousakis, insieme al suo straordinario team, va alla ricerca di vecchi veicoli militari dismessi da restaurare accuratamente.</desc>
+    <episode-num system="onscreen">S5 E11</episode-num>
+  </programme>
+  <programme start="20260307121500 +0100" stop="20260307142500 +0100" channel="Motor Trend">
+    <title lang="it">Reperti d'assalto</title>
+    <sub-title lang="it">St.7 Ep.2</sub-title>
+    <desc lang="it">St.7 Ep.2 - Michael Manousakis e il suo straordinario team sono alla ricerca di vecchi veicoli militari dismessi da restaurare accuratamente.</desc>
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme start="20260307142500 +0100" stop="20260307161000 +0100" channel="Motor Trend">
+    <title lang="it">Le auto che hanno fatto l'America con Roby PMG</title>
+    <sub-title lang="it">St.1 Ep.2</sub-title>
+    <desc lang="it">St.1 Ep.2 - Roby PMG gli anni '20/'30, vero spartiacque dell'auto USA: Ford, GM e Chrysler imboccano tre strade diverse tra innovazione, marketing aggressivo e produzione di massa.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260307161000 +0100" stop="20260307181500 +0100" channel="Motor Trend">
+    <title lang="it">Reperti d'assalto</title>
+    <sub-title lang="it">St.7 Ep.3</sub-title>
+    <desc lang="it">St.7 Ep.3 - Michael Manousakis e il suo straordinario team sono alla ricerca di vecchi veicoli militari dismessi da restaurare accuratamente.</desc>
+    <episode-num system="onscreen">S7 E3</episode-num>
+  </programme>
+  <programme start="20260307181500 +0100" stop="20260307192000 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote</title>
+    <sub-title lang="it">Citroen HY Van</sub-title>
+    <desc lang="it">Citroen HY Van - Mike va in Francia alla ricerca di una Citroen HY Van retro'. Edd non si lascia impressionare dai numerosi guasti ed e' consapevole che costera' molto restaurarla. I due riusciranno a trovare un acquirente?</desc>
+    <episode-num system="onscreen">S12 E16</episode-num>
+  </programme>
+  <programme start="20260307192000 +0100" stop="20260307201500 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote</title>
+    <sub-title lang="it">VW Corrado VR6</sub-title>
+    <desc lang="it">VW Corrado VR6 - Mike e' entusiasta quando riesce ad accaparrarsi una VW Corrado Coupe' ad un prezzo speciale. Ma le automobili economiche possono nascondere sorprese costose!</desc>
+    <episode-num system="onscreen">S12 E17</episode-num>
+  </programme>
+  <programme start="20260307201500 +0100" stop="20260307211500 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote</title>
+    <sub-title lang="it">Honda S2000</sub-title>
+    <desc lang="it">Honda S2000 - I ragazzi si occupano della loro prima Honda, ma trovare una S2000 economica e' davvero dura. Mike scommette su un'auto su cui ha speso gia' circa 4.000 sterline. Si pentira'?</desc>
+    <episode-num system="onscreen">S12 E18</episode-num>
+  </programme>
+  <programme start="20260307211500 +0100" stop="20260307221500 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote</title>
+    <sub-title lang="it">Noble M12 GTO 2.5</sub-title>
+    <desc lang="it">Noble M12 GTO 2.5 - Mike arriva in Italia per acquistare un'autentica supercar. Ma quando ritorna in Gran Bretagna, Edd intuisce che c'e' un grande lavoro da fare. Otterranno qualche profitto?</desc>
+    <episode-num system="onscreen">S12 E19</episode-num>
+  </programme>
+  <programme start="20260307221500 +0100" stop="20260307234500 +0100" channel="Motor Trend">
+    <title lang="it">Vintage Garage - 1^TV</title>
+    <sub-title lang="it">St.10 Ep.1</sub-title>
+    <desc lang="it">St.10 Ep.1 - Baptiste Fougere seleziona la migliore officina per restaurare auto famose.</desc>
+    <episode-num system="onscreen">S10 E1</episode-num>
+  </programme>
+  <programme start="20260307234500 +0100" stop="20260308000000 +0100" channel="Motor Trend">
+    <title lang="it">Vintage Garage</title>
+    <sub-title lang="it">St.9 Ep.9</sub-title>
+    <desc lang="it">St.9 Ep.9 - FranCois Allain seleziona la migliore officina per restaurare auto famose.</desc>
+    <episode-num system="onscreen">S9 E9</episode-num>
+  </programme>
+  <programme start="20260308000000 +0100" stop="20260308013000 +0100" channel="Motor Trend">
+    <title lang="it">Vintage Garage</title>
+    <sub-title lang="it">St.9 Ep.9</sub-title>
+    <desc lang="it">St.9 Ep.9 - FranCois Allain seleziona la migliore officina per restaurare auto famose.</desc>
+    <episode-num system="onscreen">S9 E9</episode-num>
+  </programme>
+  <programme start="20260308013000 +0100" stop="20260308031000 +0100" channel="Motor Trend">
+    <title lang="it">Vintage Garage</title>
+    <sub-title lang="it">St.9 Ep.10</sub-title>
+    <desc lang="it">St.9 Ep.10 - FranCois Allain seleziona la migliore officina per restaurare auto famose.</desc>
+    <episode-num system="onscreen">S9 E10</episode-num>
+  </programme>
+  <programme start="20260308031000 +0100" stop="20260308044500 +0100" channel="Motor Trend">
+    <title lang="it">Vintage Garage</title>
+    <sub-title lang="it">St.9 Ep.11</sub-title>
+    <desc lang="it">St.9 Ep.11 - FranCois Allain seleziona la migliore officina per restaurare auto famose.</desc>
+    <episode-num system="onscreen">S9 E11</episode-num>
+  </programme>
+  <programme start="20260308044500 +0100" stop="20260308053000 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote</title>
+    <sub-title lang="it">Porsche 924</sub-title>
+    <desc lang="it">Porsche 924 - Assistiamo alla nascita della serie cult di Discovery. Mike Brewer ed Edd China si occuperanno di una classica Porsche 924 di seconda mano. Riusciranno a generare profitti da un rottame?</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260308053000 +0100" stop="20260308060000 +0100" channel="Motor Trend">
+    <title lang="it">Come e' fatto</title>
+    <sub-title lang="it">St.21 Ep.3</sub-title>
+    <desc lang="it">St.21 Ep.3 - Analizziamo diversi oggetti di uso quotidiano e scopriamo come vengono prodotti i volanti estraibili delle Indy-Car, l'insalata mista e le turbine eoliche.</desc>
+    <episode-num system="onscreen">S21 E3</episode-num>
+  </programme>
+  <programme start="20260308060000 +0100" stop="20260308062500 +0100" channel="Motor Trend">
+    <title lang="it">Marchio di fabbrica</title>
+    <sub-title lang="it">St.8 Ep.3</sub-title>
+    <desc lang="it">St.8 Ep.3 - Com'e' gestito il carcere di Rykers Island, uno dei piu' grandi al mondo? Come vengono prodotte le famose buche delle lettere inglesi? E come si trasforma la frutta in marmellata?</desc>
+    <episode-num system="onscreen">S8 E3</episode-num>
+  </programme>
+  <programme start="20260308062500 +0100" stop="20260308065500 +0100" channel="Motor Trend">
+    <title lang="it">Come e' fatto</title>
+    <sub-title lang="it">St.17 Ep.7</sub-title>
+    <desc lang="it">St.17 Ep.7 - Vi siete mai chiesti come sono fatti e prodotti gli oggetti di uso quotidiano, come: pattini da corsa, gomma sintetica, fave di cacao e cioccolato.</desc>
+    <episode-num system="onscreen">S17 E7</episode-num>
+  </programme>
+  <programme start="20260308065500 +0100" stop="20260308072000 +0100" channel="Motor Trend">
+    <title lang="it">Come e' fatto</title>
+    <sub-title lang="it">St.21 Ep.17</sub-title>
+    <desc lang="it">St.21 Ep.17 - Analizziamo diversi oggetti di uso quotidiano e scopriamo come vengono realizzate le porte anti-esplosivo, i rossetti, le palme artificiali e le targhe in ottone.</desc>
+    <episode-num system="onscreen">S21 E17</episode-num>
+  </programme>
+  <programme start="20260308072000 +0100" stop="20260308075000 +0100" channel="Motor Trend">
+    <title lang="it">Marchio di fabbrica</title>
+    <sub-title lang="it">St.8 Ep.4</sub-title>
+    <desc lang="it">St.8 Ep.4 - Come sono fatte le carte da gioco a prova di imbroglio? Come si producono miliardi di bottiglie di birra all'anno? E come si costruiscono i jet privati piu' lussuosi del mondo?</desc>
+    <episode-num system="onscreen">S8 E4</episode-num>
+  </programme>
+  <programme start="20260308075000 +0100" stop="20260308081500 +0100" channel="Motor Trend">
+    <title lang="it">Come e' fatto</title>
+    <sub-title lang="it">St.17 Ep.8</sub-title>
+    <desc lang="it">St.17 Ep.8 - Vi siete mai chiesti come sono fatti e prodotti gli oggetti di uso quotidiano come: volanti, alimentazione, torte di mele e radiatori.</desc>
+    <episode-num system="onscreen">S17 E8</episode-num>
+  </programme>
+  <programme start="20260308081500 +0100" stop="20260308091000 +0100" channel="Motor Trend">
+    <title lang="it">Cantieri impossibili: Germania</title>
+    <sub-title lang="it">St.4 Ep.1</sub-title>
+    <desc lang="it">St.4 Ep.1 - Seguiamo l'incessante lavoro di alcuni operai in Germania.</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  <programme start="20260308091000 +0100" stop="20260308100500 +0100" channel="Motor Trend">
+    <title lang="it">Cantieri impossibili: Germania</title>
+    <sub-title lang="it">St.4 Ep.2</sub-title>
+    <desc lang="it">St.4 Ep.2 - Seguiamo l'incessante lavoro di alcuni operai in Germania.</desc>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20260308100500 +0100" stop="20260308110000 +0100" channel="Motor Trend">
+    <title lang="it">Cantieri impossibili: Germania</title>
+    <sub-title lang="it">St.4 Ep.3</sub-title>
+    <desc lang="it">St.4 Ep.3 - Seguiamo l'incessante lavoro di alcuni operai in Germania.</desc>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20260308110000 +0100" stop="20260308120000 +0100" channel="Motor Trend">
+    <title lang="it">Cantieri impossibili: Germania</title>
+    <sub-title lang="it">St.4 Ep.4</sub-title>
+    <desc lang="it">St.4 Ep.4 - Seguiamo l'incessante lavoro di alcuni operai in Germania.</desc>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20260308120000 +0100" stop="20260308131500 +0100" channel="Motor Trend">
+    <title lang="it">Vintage Garage</title>
+    <sub-title lang="it">Citroen 2</sub-title>
+    <desc lang="it">Citroen 2 - FranCois Allain seleziona la migliore officina per restaurare, in soli 15 giorni, prestigiose auto vintage da rimettere subito sul mercato.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20260308131500 +0100" stop="20260308143000 +0100" channel="Motor Trend">
+    <title lang="it">Vintage Garage</title>
+    <sub-title lang="it">New Axa</sub-title>
+    <desc lang="it">New Axa - FranCois Allain seleziona la migliore officina per restaurare, in soli 15 giorni, prestigiose auto vintage da rimettere subito sul mercato.</desc>
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20260308143000 +0100" stop="20260308153500 +0100" channel="Motor Trend">
+    <title lang="it">Vintage Garage</title>
+    <sub-title lang="it">Corvette Stingray</sub-title>
+    <desc lang="it">Corvette Stingray - FranCois Allain seleziona la migliore officina per restaurare, in soli 15 giorni, prestigiose auto vintage da rimettere subito sul mercato.</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
+  </programme>
+  <programme start="20260308153500 +0100" stop="20260308165000 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote Francia</title>
+    <sub-title lang="it">St.5 Ep.11</sub-title>
+    <desc lang="it">St.5 Ep.11 - Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo alcune delle automobili piu' belle presenti sul mercato.</desc>
+    <episode-num system="onscreen">S5 E11</episode-num>
+  </programme>
+  <programme start="20260308165000 +0100" stop="20260308180500 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote Francia</title>
+    <sub-title lang="it">St.5 Ep.12</sub-title>
+    <desc lang="it">St.5 Ep.12 - Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo alcune delle automobili piu' belle presenti sul mercato.</desc>
+    <episode-num system="onscreen">S5 E12</episode-num>
+  </programme>
+  <programme start="20260308180500 +0100" stop="20260308192000 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote Francia</title>
+    <sub-title lang="it">St.6 Ep.1</sub-title>
+    <desc lang="it">St.6 Ep.1 - Tornano Gerry e Aurelien. Il duo meccanico e' pronto ad acquistare, a restaurare e a rivendere al miglior prezzo automobili iconiche e bellissime.</desc>
+    <episode-num system="onscreen">S6 E1</episode-num>
+  </programme>
+  <programme start="20260308192000 +0100" stop="20260308203500 +0100" channel="Motor Trend">
+    <title lang="it">Affari a quattro ruote Francia</title>
+    <sub-title lang="it">St.6 Ep.2</sub-title>
+    <desc lang="it">St.6 Ep.2 - Ritorna il duo meccanico piu' amato di Francia! Gerry e Aurelien sono pronti ad acquistare, restaurare e rivendere al miglior prezzo automobili iconiche e bellissime.</desc>
+    <episode-num system="onscreen">S6 E2</episode-num>
+  </programme>
+  <programme start="20260308203500 +0100" stop="20260308221500 +0100" channel="Motor Trend">
+    <title lang="it">Le auto che hanno fatto l'America con Roby PMG</title>
+    <sub-title lang="it">St.1 Ep.2</sub-title>
+    <desc lang="it">St.1 Ep.2 - Roby PMG gli anni '20/'30, vero spartiacque dell'auto USA: Ford, GM e Chrysler imboccano tre strade diverse tra innovazione, marketing aggressivo e produzione di massa.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260308221500 +0100" stop="20260308230500 +0100" channel="Motor Trend">
+    <title lang="it">Invenzioni che hanno cambiato il mondo - 1^TV</title>
+    <sub-title lang="it">Rivoluzioni domestiche</sub-title>
+    <desc lang="it">Rivoluzioni domestiche - Scopriamo i progetti ingegneristici piu' iconici.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20260308230500 +0100" stop="20260309000000 +0100" channel="Motor Trend">
+    <title lang="it">Invenzioni che hanno cambiato il mondo</title>
+    <sub-title lang="it">Tesla contro Marconi</sub-title>
+    <desc lang="it">Tesla contro Marconi - Scopriamo i progetti ingegneristici piu' iconici.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
   <programme start="20260306002500 +0100" stop="20260306021700 +0100" channel="MEZZO">
     <title lang="pl">Jonas Kaufmann, Ludovic Tézier - Verdi, Ponchielli - Baden-Baden</title>
