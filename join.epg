@@ -27,6 +27,10 @@
     <display-name lang="it">SKY Sport F1</display-name>
     <url>http://www.guidatv.sky.it</url>
   </channel>
+  <channel id="EuroSport">
+    <display-name lang="de">EuroSport</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
   <channel id="Eurosport 2">
     <display-name lang="de">Eurosport 2</display-name>
     <url>http://www.tv.blue.ch</url>
@@ -4071,6 +4075,361 @@
     <category lang="it">Motori</category>
     <icon src="https://guidatv.sky.it/uuid/69df7712-56d1-46e1-a38f-474896c02a24/cover?territory=IT&amp;md5ChecksumParam=13d0630c29bfee23d5875a422aba0af0" />
     <country lang="it">ITA</country>
+  </programme>
+  <programme start="20260307030000 +0000" stop="20260307043000 +0000" channel="EuroSport">
+    <title lang="it">UCI Europe Tour: Uomini</title>
+    <sub-title lang="it">Le Samyn</sub-title>
+    <desc lang="it">Le gare del UCI Europe Tour maschile.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26319497bdh10ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307043000 +0000" stop="20260307053000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Val di Fassa: Discesa femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307053000 +0000" stop="20260307070000 +0000" channel="EuroSport">
+    <title lang="it">IBU Biathlon: Kontiolahti: Individuale uomini</title>
+    <desc lang="it">La Coppa del Mondo di biathlon propone nove tappe da non perdere: si parte da Östersund, in Svezia, a fine novembre, e si chiude a marzo a Oslo, in Norvegia.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17775811bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="EuroSport">
+    <title lang="it">Tutti Gli Sport</title>
+    <desc lang="it">Un viaggio nelle vite e nei luoghi degli atleti degli sport invernali italiani. Scopriamo da dove vengono, come sono cresciuti e cosa li ha resi campioni, alla scoperta del legame profondo tra territorio, passione e identità.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20057002ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260307073000 +0000" stop="20260307081500 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Val di Fassa: Discesa femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307081500 +0000" stop="20260307093000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Kranjska Gora, Gigante maschile: 1a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260307093000 +0000" stop="20260307111500 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Val di Fassa: Discesa femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260307111500 +0000" stop="20260307123000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Kranjska Gora, Gigante maschile: 2a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260307123000 +0000" stop="20260307132500 +0000" channel="EuroSport">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Kontiolahti - Mass Start donne</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260307132500 +0000" stop="20260307141500 +0000" channel="EuroSport">
+    <title lang="it">FIS Combinata Nordica Coppa del Mondo</title>
+    <sub-title lang="it">Lahti - Misto</sub-title>
+    <desc lang="it">Highlights delle migliori gare di FIS Combinata Nordica.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9763139bdh10ac_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260307141500 +0000" stop="20260307142500 +0000" channel="EuroSport">
+    <title lang="it">Giochi Olimpici</title>
+    <sub-title lang="it">Magazine</sub-title>
+    <desc lang="it">Storie e temi che raccontano lo sport con occhi nuovi e uno sguardo sempre rivolto alle Olimpiadi.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p456368bdh8ae_Backdrop_W660.webp" />
+    <country lang="it">GB</country>
+  </programme>
+  <programme start="20260307142500 +0000" stop="20260307155500 +0000" channel="EuroSport">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Kontiolahti, Uomini: Staffetta 4x7.5km</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260307155500 +0000" stop="20260307174500 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci di fondo Coppa del Mondo</title>
+    <sub-title lang="it">Lahti - HS130 uomini</sub-title>
+    <desc lang="it">Non perdetevi nemmeno un salto: da Lillehammer a Planica potrete vedere in azione i migliori saltatori al mondo durante la stagione della Coppa del Mondo di salto con gli sci.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9035328ih8ae_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <premiere />
+  </programme>
+  <programme start="20260307174500 +0000" stop="20260307183000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci di fondo</title>
+    <sub-title lang="it">Lahti - Sprint TL Men And Women</sub-title>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p14938007bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">DE</country>
+  </programme>
+  <programme start="20260307183000 +0000" stop="20260307190000 +0000" channel="EuroSport">
+    <title lang="it">Slittino</title>
+    <sub-title lang="it">Altenberg - Doppio uomini (2a manche)</sub-title>
+    <desc lang="it">Da dicembre a marzo, la Coppa del Mondo di slittino mette in pista le migliori atlete e i migliori atleti internazionali in 48 gare tra singolo, doppio e a squadre.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8381175bdh10aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307190000 +0000" stop="20260307193000 +0000" channel="EuroSport">
+    <title lang="it">Slittino</title>
+    <sub-title lang="it">Altenberg - Doppio uomini (2a manche)</sub-title>
+    <desc lang="it">Da dicembre a marzo, la Coppa del Mondo di slittino mette in pista le migliori atlete e i migliori atleti internazionali in 48 gare tra singolo, doppio e a squadre.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8381175bdh10aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307193000 +0000" stop="20260307200000 +0000" channel="EuroSport">
+    <title lang="it">UCI WorldTour: Donne: Strade Bianche</title>
+    <desc lang="it">Tutte le gare del UCI Women's WorldTour, il ciclismo su strada femminile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26272741bdh10ac_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307200000 +0000" stop="20260307210000 +0000" channel="EuroSport">
+    <title lang="it">UCI WorldTour: Uomini: Strade Bianche</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307210000 +0000" stop="20260307213000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Kranjska Gora, Gigante maschile: 1a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307213000 +0000" stop="20260307220000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Kranjska Gora, Gigante maschile: 2a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307220000 +0000" stop="20260307230000 +0000" channel="EuroSport">
+    <title lang="it">MMA</title>
+    <sub-title lang="it">Magazine</sub-title>
+    <desc lang="it">Entriamo nell'ottagono con gli eventi imperdibili della UFC, la principale organizzazione di MMA al mondo, dove spettacolo e adrenalina sono garantiti.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9039413bdh10aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260307230000 +0000" stop="20260308000000 +0000" channel="EuroSport">
+    <title lang="it">MMA</title>
+    <sub-title lang="it">Magazine</sub-title>
+    <desc lang="it">Entriamo nell'ottagono con gli eventi imperdibili della UFC, la principale organizzazione di MMA al mondo, dove spettacolo e adrenalina sono garantiti.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9039413bdh10aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260308000000 +0000" stop="20260308010000 +0000" channel="EuroSport">
+    <title lang="it">Tutti Gli Sport</title>
+    <desc lang="it">Un viaggio nelle vite e nei luoghi degli atleti degli sport invernali italiani. Scopriamo da dove vengono, come sono cresciuti e cosa li ha resi campioni, alla scoperta del legame profondo tra territorio, passione e identità.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20057002ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260308010000 +0000" stop="20260308020000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci di fondo Coppa del Mondo</title>
+    <sub-title lang="it">Lahti - HS130 uomini</sub-title>
+    <desc lang="it">Non perdetevi nemmeno un salto: da Lillehammer a Planica potrete vedere in azione i migliori saltatori al mondo durante la stagione della Coppa del Mondo di salto con gli sci.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9035328ih8ae_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260308020000 +0000" stop="20260308030000 +0000" channel="EuroSport">
+    <title lang="it">UCI WorldTour: Donne: Strade Bianche</title>
+    <desc lang="it">Tutte le gare del UCI Women's WorldTour, il ciclismo su strada femminile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26272741bdh10ac_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260308030000 +0000" stop="20260308043000 +0000" channel="EuroSport">
+    <title lang="it">UCI WorldTour: Uomini: Strade Bianche</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260308043000 +0000" stop="20260308051500 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Kranjska Gora, Gigante maschile: 1a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260308051500 +0000" stop="20260308060000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Kranjska Gora, Gigante maschile: 2a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260308060000 +0000" stop="20260308070000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Val di Fassa: Discesa femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260308070000 +0000" stop="20260308080000 +0000" channel="EuroSport">
+    <title lang="it">Tutti Gli Sport</title>
+    <desc lang="it">Un viaggio nelle vite e nei luoghi degli atleti degli sport invernali italiani. Scopriamo da dove vengono, come sono cresciuti e cosa li ha resi campioni, alla scoperta del legame profondo tra territorio, passione e identità.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20057002ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260308080000 +0000" stop="20260308081500 +0000" channel="EuroSport">
+    <title lang="it">Giochi Olimpici</title>
+    <sub-title lang="it">Magazine</sub-title>
+    <desc lang="it">Storie e temi che raccontano lo sport con occhi nuovi e uno sguardo sempre rivolto alle Olimpiadi.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p456368bdh8ae_Backdrop_W660.webp" />
+    <country lang="it">GB</country>
+  </programme>
+  <programme start="20260308081500 +0000" stop="20260308093000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Kranjska Gora, Slalom, Uomini: 1a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260308093000 +0000" stop="20260308111500 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Val di Fassa, Donne: SuperG</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260308111500 +0000" stop="20260308123000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Kranjska Gora, Slalom, Uomini: 2a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260308123000 +0000" stop="20260308134500 +0000" channel="EuroSport">
+    <title lang="it">IBU Biathlon Coppa del Mondo</title>
+    <desc lang="it">La Coppa del Mondo di biathlon propone nove tappe da non perdere: si parte da Östersund, in Svezia, a fine novembre, e si chiude a marzo a Oslo, in Norvegia.</desc>
+    <credits>
+      <director>Christoph Sumann</director>
+      <director>Dietmar Wolff</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19124330bdh8ab_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260308134500 +0000" stop="20260308154500 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci di fondo Coppa del Mondo</title>
+    <sub-title lang="it">Lahti - Super Team uomini</sub-title>
+    <desc lang="it">Non perdetevi nemmeno un salto: da Lillehammer a Planica potrete vedere in azione i migliori saltatori al mondo durante la stagione della Coppa del Mondo di salto con gli sci.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9035328ih8ae_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <premiere />
+  </programme>
+  <programme start="20260308154500 +0000" stop="20260308164000 +0000" channel="EuroSport">
+    <title lang="it">IBU Biathlon Coppa del Mondo</title>
+    <desc lang="it">La Coppa del Mondo di biathlon propone nove tappe da non perdere: si parte da Östersund, in Svezia, a fine novembre, e si chiude a marzo a Oslo, in Norvegia.</desc>
+    <credits>
+      <director>Christoph Sumann</director>
+      <director>Dietmar Wolff</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19124330bdh8ab_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260308164000 +0000" stop="20260308171000 +0000" channel="EuroSport">
+    <title lang="it">Slittino</title>
+    <sub-title lang="it">Altenberg - Singolo uomini (2a manche)</sub-title>
+    <desc lang="it">Da dicembre a marzo, la Coppa del Mondo di slittino mette in pista le migliori atlete e i migliori atleti internazionali in 48 gare tra singolo, doppio e a squadre.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8381175bdh10aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260308171000 +0000" stop="20260308174000 +0000" channel="EuroSport">
+    <title lang="it">Slittino</title>
+    <sub-title lang="it">Altenberg - Singolo uomini (2a manche)</sub-title>
+    <desc lang="it">Da dicembre a marzo, la Coppa del Mondo di slittino mette in pista le migliori atlete e i migliori atleti internazionali in 48 gare tra singolo, doppio e a squadre.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8381175bdh10aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260308174000 +0000" stop="20260308182500 +0000" channel="EuroSport">
+    <title lang="it">Slittino</title>
+    <sub-title lang="it">Altenberg - Staffetta mista</sub-title>
+    <desc lang="it">Da dicembre a marzo, la Coppa del Mondo di slittino mette in pista le migliori atlete e i migliori atleti internazionali in 48 gare tra singolo, doppio e a squadre.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8381175bdh10aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260308182500 +0000" stop="20260308190000 +0000" channel="EuroSport">
+    <title lang="it">Ciclismo</title>
+    <desc lang="it">Giro d'Italia e Tour De France, grandi Classiche, corse in linea e tutte le gare della stagione ciclistica in corso.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p361949bdh10ad_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308200000 +0000" channel="EuroSport">
+    <title lang="it">FIM Campionato mondiale di motocross: Argentina - MX2 - Gara 1</title>
+    <desc lang="it">Si scaldano i motori per la 70a edizione del mondiale di motocross. Venti appuntamenti dall'Argentina all'Australia con due tappe italiane in Sardegna e Toscana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10708282ih10ab_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308210000 +0000" channel="EuroSport">
+    <title lang="it">FIM Campionato mondiale di motocross: Argentina - MXGP - Gara 1</title>
+    <desc lang="it">Si scaldano i motori per la 70a edizione del Mondiale di motocross. Venti appuntamenti dall'Argentina all'Australia con due tappe italiane in Sardegna e Toscana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10708282ih10ab_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260308210000 +0000" stop="20260308220000 +0000" channel="EuroSport">
+    <title lang="it">FIM Campionato mondiale di motocross: Argentina - MX2 - Gara 2</title>
+    <desc lang="it">Si scaldano i motori per la 70a edizione del Mondiale di motocross. Venti appuntamenti dall'Argentina all'Australia con due tappe italiane in Sardegna e Toscana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10708282ih10ab_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="EuroSport">
+    <title lang="it">FIM Campionato mondiale di motocross: Argentina - MXGP - Gara 2</title>
+    <desc lang="it">Si scaldano i motori per la 70a edizione del Mondiale di motocross. Venti appuntamenti dall'Argentina all'Australia con due tappe italiane in Sardegna e Toscana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10708282ih10ab_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="EuroSport">
+    <title lang="it">Tutti Gli Sport</title>
+    <desc lang="it">Un viaggio nelle vite e nei luoghi degli atleti degli sport invernali italiani. Scopriamo da dove vengono, come sono cresciuti e cosa li ha resi campioni, alla scoperta del legame profondo tra territorio, passione e identità.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20057002ih10ad_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309003000 +0000" channel="EuroSport">
+    <title lang="it">World Snooker Tour: The Masters - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260309003000 +0000" stop="20260309020000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci di fondo Coppa del Mondo</title>
+    <sub-title lang="it">Lahti - Super Team uomini</sub-title>
+    <desc lang="it">Non perdetevi nemmeno un salto: da Lillehammer a Planica potrete vedere in azione i migliori saltatori al mondo durante la stagione della Coppa del Mondo di salto con gli sci.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9035328ih8ae_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260309020000 +0000" stop="20260309030000 +0000" channel="EuroSport">
+    <title lang="it">UCI WorldTour: Uomini: Strade Bianche</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260309030000 +0000" stop="20260309040000 +0000" channel="EuroSport">
+    <title lang="it">Ciclismo</title>
+    <desc lang="it">Giro d'Italia e Tour De France, grandi Classiche, corse in linea e tutte le gare della stagione ciclistica in corso.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p361949bdh10ad_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260309040000 +0000" stop="20260309050000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Val di Fassa, Donne: SuperG</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
   </programme>
   <programme start="20260307030000 +0000" stop="20260307043000 +0000" channel="Eurosport 2">
     <title lang="it">IBU Biathlon: Kontiolahti: Individuale uomini</title>
