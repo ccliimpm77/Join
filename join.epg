@@ -7,6 +7,10 @@
     <display-name lang="de">RSI La 2</display-name>
     <url>http://www.tv.blue.ch</url>
   </channel>
+  <channel id="CNN International">
+    <display-name lang="it">CNN International</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
   <channel id="Rai News 24">
     <display-name lang="it">Rai News 24</display-name>
     <url>http://www.guidatv.sky.it</url>
@@ -1502,6 +1506,482 @@
     <date>2026</date>
     <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
     <country lang="it">CH</country>
+  </programme>
+  <programme start="20260307050000 +0000" stop="20260307060000 +0000" channel="CNN International">
+    <title lang="it">The Story Is With Elex Michaelson</title>
+    <desc lang="it">S2 Ep93 - Saturday, March 7, 2026 12am ET - Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307060000 +0000" stop="20260307070000 +0000" channel="CNN International">
+    <title lang="it">The Story Is With Elex Michaelson</title>
+    <desc lang="it">S2 Ep94 - Saturday, March 7, 2026 1am ET - Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep227 - Saturday, March 7, 2026 2am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307073000 +0000" stop="20260307080000 +0000" channel="CNN International">
+    <title lang="it">African Voices</title>
+    <desc lang="it">S26 Ep223 - Nomzamo Mbatha - Actress Nomzamo Mbatha is filming the final season of the popular series "Shaka iLembe" and speaks with Madowo on set at the Cradle of Humankind.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307080000 +0000" stop="20260307083000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep331 - Saturday, March 7, 2026 3am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307083000 +0000" stop="20260307090000 +0000" channel="CNN International">
+    <title lang="it">Connecting Africa</title>
+    <desc lang="it">S6 Ep3 - March 2026 - We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307090000 +0000" stop="20260307093000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep435 - Saturday, March 7, 2026 4am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307093000 +0000" stop="20260307100000 +0000" channel="CNN International">
+    <title lang="it">CNN Creators</title>
+    <desc lang="it">S1 Ep9 - Thursday, March 5, 2026 1130am ET - Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307100000 +0000" stop="20260307110000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep123 - Saturday, March 7, 2026 5am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307110000 +0000" stop="20260307113000 +0000" channel="CNN International">
+    <title lang="it">African Voices</title>
+    <desc lang="it">S26 Ep223 - Nomzamo Mbatha - Actress Nomzamo Mbatha is filming the final season of the popular series "Shaka iLembe" and speaks with Madowo on set at the Cradle of Humankind.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307113000 +0000" stop="20260307120000 +0000" channel="CNN International">
+    <title lang="it">Blueprint</title>
+    <desc lang="it">S2 Ep1 - Angola - It takes a village to feed a nation. In a country rich in so many resources, Angola sees its path to prosperity not in its oil, but in its soil.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307120000 +0000" stop="20260307130000 +0000" channel="CNN International">
+    <title lang="it">CNN Saturday Morning Table for Five</title>
+    <desc lang="it">S26 Ep10 - Saturday, March 7, 2026 10AM - ... Five. Join CNN Saturday Morning for an insightful and provocative discussion of the week's biggest stories.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307130000 +0000" stop="20260307140000 +0000" channel="CNN International">
+    <title lang="it">CNN This Morning Weekend</title>
+    <desc lang="it">S26 Ep38 - Saturday, March 7, 2026 7AM - Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307140000 +0000" stop="20260307150000 +0000" channel="CNN International">
+    <title lang="it">Smerconish</title>
+    <desc lang="it">S26 Ep10 - Saturday, March 7, 2026 9AM - Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307150000 +0000" stop="20260307153000 +0000" channel="CNN International">
+    <title lang="it">CNN Creators</title>
+    <desc lang="it">S1 Ep9 - Thursday, March 5, 2026 1130am ET - Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307153000 +0000" stop="20260307160000 +0000" channel="CNN International">
+    <title lang="it">Inside Africa</title>
+    <desc lang="it">S26 Ep720 - STEMpower: Africa's Hands-On STEM Network - A pan-African NGO is expanding lab-style STEM centers across Sub-Saharan Africa, giving young people hands-on exposure to science, and mathematics.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307160000 +0000" stop="20260307170000 +0000" channel="CNN International">
+    <title lang="it">The Amanpour Hour</title>
+    <desc lang="it">S26 Ep10 - Saturday, March 7, 2026 11AM - Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307170000 +0000" stop="20260307173000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep541 - Saturday, March 7, 2026 12pm ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307173000 +0000" stop="20260307174500 +0000" channel="CNN International">
+    <title lang="it">Marketplace Middle East</title>
+    <desc lang="it">S7 Ep52 - Episode 52 - The latest business headlines, events and developments in and around the Middle East.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307174500 +0000" stop="20260307180000 +0000" channel="CNN International">
+    <title lang="it">Marketplace Africa</title>
+    <desc lang="it">S4 Ep596 - Nigeria's Smallholder Farmers and Soil Tech; Olasunkanmi Owoyemi - Rural Farmers Hub leverages AI, GPS coordinates and satellite to empower farmers to address issues and improve crop production.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307180000 +0000" stop="20260307200000 +0000" channel="CNN International">
+    <title lang="it">Smerconish</title>
+    <desc lang="it">S26 Ep10 - Saturday, March 7, 2026 9AM - Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307200000 +0000" stop="20260307210000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Saturday</title>
+    <desc lang="it">S26 Ep76 - Saturday, March 7, 2026 3PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307210000 +0000" stop="20260307220000 +0000" channel="CNN International">
+    <title lang="it">The Whole Story With Anderson Cooper</title>
+    <desc lang="it">S5 Ep4 - Immigration Crackdown: A Year of Enforcement - Omar reports on the escalation of US Immigration &amp; Customs Enforcement tactics since Trump took office and how immigration policies are unfolding.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307220000 +0000" stop="20260307223000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep645 - Saturday, March 7, 2026 5pm ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307223000 +0000" stop="20260307230000 +0000" channel="CNN International">
+    <title lang="it">CNN Creators</title>
+    <desc lang="it">S1 Ep9 - Thursday, March 5, 2026 1130am ET - Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260307230000 +0000" stop="20260308000000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Saturday</title>
+    <desc lang="it">S26 Ep79 - Saturday, March 7, 2026 6PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308000000 +0000" stop="20260308010000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Saturday</title>
+    <desc lang="it">S26 Ep80 - Saturday, March 7, 2026 7PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308010000 +0000" stop="20260308020000 +0000" channel="CNN International">
+    <title lang="it">Smerconish</title>
+    <desc lang="it">S26 Ep10 - Saturday, March 7, 2026 9AM - Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308020000 +0000" stop="20260308023000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep645 - Saturday, March 7, 2026 5pm ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308023000 +0000" stop="20260308030000 +0000" channel="CNN International">
+    <title lang="it">Blueprint</title>
+    <desc lang="it">S2 Ep1 - Angola - It takes a village to feed a nation. In a country rich in so many resources, Angola sees its path to prosperity not in its oil, but in its soil.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="CNN International">
+    <title lang="it">Inside Africa</title>
+    <desc lang="it">S26 Ep720 - STEMpower: Africa's Hands-On STEM Network - A pan-African NGO is expanding lab-style STEM centers across Sub-Saharan Africa, giving young people hands-on exposure to science, and mathematics.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308033000 +0000" stop="20260308040000 +0000" channel="CNN International">
+    <title lang="it">African Voices</title>
+    <desc lang="it">S26 Ep223 - Nomzamo Mbatha - Actress Nomzamo Mbatha is filming the final season of the popular series "Shaka iLembe" and speaks with Madowo on set at the Cradle of Humankind.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308040000 +0000" stop="20260308043000 +0000" channel="CNN International">
+    <title lang="it">Connecting Africa</title>
+    <desc lang="it">S6 Ep3 - March 2026 - We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308043000 +0000" stop="20260308044500 +0000" channel="CNN International">
+    <title lang="it">Marketplace Middle East</title>
+    <desc lang="it">S7 Ep52 - Episode 52 - The latest business headlines, events and developments in and around the Middle East.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308044500 +0000" stop="20260308050000 +0000" channel="CNN International">
+    <title lang="it">Marketplace Africa</title>
+    <desc lang="it">S4 Ep596 - Nigeria's Smallholder Farmers and Soil Tech; Olasunkanmi Owoyemi - Rural Farmers Hub leverages AI, GPS coordinates and satellite to empower farmers to address issues and improve crop production.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308050000 +0000" stop="20260308053000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep20 - Sunday, March 8, 2026 12am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308053000 +0000" stop="20260308060000 +0000" channel="CNN International">
+    <title lang="it">Blueprint</title>
+    <desc lang="it">S2 Ep1 - Angola - It takes a village to feed a nation. In a country rich in so many resources, Angola sees its path to prosperity not in its oil, but in its soil.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308060000 +0000" stop="20260308063000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep124 - Sunday, March 8, 2026 1am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="CNN International">
+    <title lang="it">Inside Africa</title>
+    <desc lang="it">S26 Ep720 - STEMpower: Africa's Hands-On STEM Network - A pan-African NGO is expanding lab-style STEM centers across Sub-Saharan Africa, giving young people hands-on exposure to science, and mathematics.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308070000 +0000" stop="20260308073000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep332 - Sunday, March 8, 2026 3am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308073000 +0000" stop="20260308074500 +0000" channel="CNN International">
+    <title lang="it">Marketplace Middle East</title>
+    <desc lang="it">S7 Ep52 - Episode 52 - The latest business headlines, events and developments in and around the Middle East.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308074500 +0000" stop="20260308080000 +0000" channel="CNN International">
+    <title lang="it">Marketplace Africa</title>
+    <desc lang="it">S4 Ep596 - Nigeria's Smallholder Farmers and Soil Tech; Olasunkanmi Owoyemi - Rural Farmers Hub leverages AI, GPS coordinates and satellite to empower farmers to address issues and improve crop production.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308080000 +0000" stop="20260308090000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep20 - Sunday, March 8, 2026 4am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308090000 +0000" stop="20260308100000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep124 - Sunday, March 8, 2026 5am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308103000 +0000" channel="CNN International">
+    <title lang="it">Connecting Africa</title>
+    <desc lang="it">S6 Ep3 - March 2026 - We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308103000 +0000" stop="20260308110000 +0000" channel="CNN International">
+    <title lang="it">Inside Africa</title>
+    <desc lang="it">S26 Ep720 - STEMpower: Africa's Hands-On STEM Network - A pan-African NGO is expanding lab-style STEM centers across Sub-Saharan Africa, giving young people hands-on exposure to science, and mathematics.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308110000 +0000" stop="20260308120000 +0000" channel="CNN International">
+    <title lang="it">CNN This Morning Weekend</title>
+    <desc lang="it">S26 Ep40 - Sunday, March 8, 2026 7AM - Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308130000 +0000" channel="CNN International">
+    <title lang="it">Inside Politics With Manu Raju</title>
+    <desc lang="it">S26 Ep10 - Sunday, March 8, 2026 8AM - Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308130000 +0000" stop="20260308140000 +0000" channel="CNN International">
+    <title lang="it">State of the Union with Jake Tapper and Dana Bash</title>
+    <desc lang="it">S26 Ep10 - Sunday, March 8, 2026 9AM - ... Tapper and Dana Bash. Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308150000 +0000" channel="CNN International">
+    <title lang="it">Fareed Zakaria GPS</title>
+    <desc lang="it">S26 Ep10 - Sunday, March 8, 2026 10AM - Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308150000 +0000" stop="20260308160000 +0000" channel="CNN International">
+    <title lang="it">Inside Politics With Manu Raju</title>
+    <desc lang="it">S26 Ep10 - Sunday, March 8, 2026 8AM - Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep646 - Sunday, March 8, 2026 5pm ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="CNN International">
+    <title lang="it">Inside Africa</title>
+    <desc lang="it">S26 Ep720 - STEMpower: Africa's Hands-On STEM Network - A pan-African NGO is expanding lab-style STEM centers across Sub-Saharan Africa, giving young people hands-on exposure to science, and mathematics.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308170000 +0000" stop="20260308173000 +0000" channel="CNN International">
+    <title lang="it">African Voices</title>
+    <desc lang="it">S26 Ep223 - Nomzamo Mbatha - Actress Nomzamo Mbatha is filming the final season of the popular series "Shaka iLembe" and speaks with Madowo on set at the Cradle of Humankind.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308173000 +0000" stop="20260308180000 +0000" channel="CNN International">
+    <title lang="it">Blueprint</title>
+    <desc lang="it">S2 Ep1 - Angola - It takes a village to feed a nation. In a country rich in so many resources, Angola sees its path to prosperity not in its oil, but in its soil.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Sunday</title>
+    <desc lang="it">S26 Ep64 - Sunday, March 8, 2026 2PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308210000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Sunday</title>
+    <desc lang="it">S26 Ep66 - Sunday, March 8, 2026 4PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308210000 +0000" stop="20260308213000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep646 - Sunday, March 8, 2026 5pm ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308213000 +0000" stop="20260308220000 +0000" channel="CNN International">
+    <title lang="it">Connecting Africa</title>
+    <desc lang="it">S6 Ep3 - March 2026 - We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Sunday</title>
+    <desc lang="it">S26 Ep68 - Sunday, March 8, 2026 6PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Sunday</title>
+    <desc lang="it">S26 Ep69 - Sunday, March 8, 2026 7PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="CNN International">
+    <title lang="it">The Whole Story With Anderson Cooper</title>
+    <desc lang="it">S5 Ep2 - The Rise of Christian Nationalism - Pamela Brown examines the growing influence of Christian nationalism in American society; exploring how the movement has gained political power.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260309010000 +0000" stop="20260309020000 +0000" channel="CNN International">
+    <title lang="it">Fareed Zakaria GPS</title>
+    <desc lang="it">S26 Ep10 - Sunday, March 8, 2026 10AM - Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260309020000 +0000" stop="20260309023000 +0000" channel="CNN International">
+    <title lang="it">African Voices</title>
+    <desc lang="it">S26 Ep223 - Nomzamo Mbatha - Actress Nomzamo Mbatha is filming the final season of the popular series "Shaka iLembe" and speaks with Madowo on set at the Cradle of Humankind.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260309023000 +0000" stop="20260309024500 +0000" channel="CNN International">
+    <title lang="it">Marketplace Middle East</title>
+    <desc lang="it">S7 Ep52 - Episode 52 - The latest business headlines, events and developments in and around the Middle East.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260309024500 +0000" stop="20260309030000 +0000" channel="CNN International">
+    <title lang="it">Marketplace Africa</title>
+    <desc lang="it">S4 Ep596 - Nigeria's Smallholder Farmers and Soil Tech; Olasunkanmi Owoyemi - Rural Farmers Hub leverages AI, GPS coordinates and satellite to empower farmers to address issues and improve crop production.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260309030000 +0000" stop="20260309033000 +0000" channel="CNN International">
+    <title lang="it">Blueprint</title>
+    <desc lang="it">S2 Ep1 - Angola - It takes a village to feed a nation. In a country rich in so many resources, Angola sees its path to prosperity not in its oil, but in its soil.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260309033000 +0000" stop="20260309040000 +0000" channel="CNN International">
+    <title lang="it">Inside Africa</title>
+    <desc lang="it">S26 Ep720 - STEMpower: Africa's Hands-On STEM Network - A pan-African NGO is expanding lab-style STEM centers across Sub-Saharan Africa, giving young people hands-on exposure to science, and mathematics.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
   </programme>
   <programme start="20260307050000 +0000" stop="20260307051900 +0000" channel="Rai News 24">
     <title lang="it">Titoli</title>
