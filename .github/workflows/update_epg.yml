@@ -1,0 +1,36 @@
+name: Update Daily EPG
+
+on:
+  schedule:
+    # 5:00 UTC sono le 6:00 in Italia (CET)
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Permette di avviarlo manualmente per test
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permesso necessario per caricare il file nel repo
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run merge script
+      run: python merge_epg.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add join.epg
+        git commit -m "Aggiornamento automatico join.epg $(date +'%Y-%m-%d %H:%M')" || echo "Nessuna modifica da salvare"
+        git push
