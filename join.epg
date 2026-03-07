@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="ccliimpm77-EPG-Merger"><channel id="RSI La 1">
+<tv generator-info-name="ccliimpm77-Advanced-Merger"><channel id="RSI La 1">
     <display-name lang="de">RSI La 1</display-name>
     <url>http://www.tv.blue.ch</url>
   </channel>
@@ -42,6 +42,23 @@
   <channel id="Twenty Seven">
     <display-name lang="it">Twenty Seven</display-name>
     <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Stingray Classica">
+    <display-name lang="pl">Stingray Classica</display-name>
+    <display-name lang="pl">Stingray Classica PL</display-name>
+    <display-name lang="pl">Stingray Classica HD</display-name>
+    <icon src="http://epg.ovh/logo/Stingray+Classica.png" />
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Sport 1">
+    <display-name lang="cs">Sport 1</display-name>
+    <icon src="http://epg.ovh/logo/Sport+1.png" />
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Sport 2">
+    <display-name lang="cs">Sport 2</display-name>
+    <icon src="http://epg.ovh/logo/Sport+2.png" />
+    <url>http://www.epg.ovh</url>
   </channel>
   <programme start="20260307032000 +0000" stop="20260307040000 +0000" channel="RSI La 1">
     <title lang="it">Telegiornale</title>
@@ -7427,23 +7444,6 @@
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <channel id="Stingray Classica">
-    <display-name lang="pl">Stingray Classica</display-name>
-    <display-name lang="pl">Stingray Classica PL</display-name>
-    <display-name lang="pl">Stingray Classica HD</display-name>
-    <icon src="http://epg.ovh/logo/Stingray+Classica.png" />
-    <url>http://www.epg.ovh</url>
-  </channel>
-  <channel id="Sport 1">
-    <display-name lang="cs">Sport 1</display-name>
-    <icon src="http://epg.ovh/logo/Sport+1.png" />
-    <url>http://www.epg.ovh</url>
-  </channel>
-  <channel id="Sport 2">
-    <display-name lang="cs">Sport 2</display-name>
-    <icon src="http://epg.ovh/logo/Sport+2.png" />
-    <url>http://www.epg.ovh</url>
-  </channel>
   <programme start="20260305000000 +0100" stop="20260305020100 +0100" channel="Stingray Classica">
     <title lang="pl">Dvorák - Rusalka</title>
     <desc lang="pl">Opéra de Limoges, France. Bulgarian conductor Pavel Baleff conducts the Orchestra and Choir of the Opéra de Limoges in a performance of Antonín Dvorák's lyric fairytale opera Rusalka (1900). The work's libretto is written by Czech poet Jaroslav Kvapil. Rusalka, an elusive water nymph, falls in love with the Prince, who happens to swim in her lake. Rusalka longs to become human herself so that she can be together with the Prince. The witch Jezibaba is willing to help Rusalka, but warns her that the transition to a mortal human being comes at a high price: the nymph will lose the power of speech. What is more, if mute Rusalka cannot keep the love of a human, she will be damned for eternity. Stage director Nicola Raab and TV director Arnaud Lalanne created a truly filmic production of Dvorák's masterpiece. Among the soloists are Ruzan Mantashyan, Adam Smith, Rafal Pawnuk, Marie-Adeline Henry, Marion Lebegue, and Alexandra Marcellier. This performance was recorded at the Opéra de Limoges, France, in February 2021.</desc>
