@@ -1,3 +1,2 @@
-https://raw.githubusercontent.com/ccliimpm77/01/refs/heads/main/epg.xml
 https://raw.githubusercontent.com/ccliimpm77/03/refs/heads/main/epg.xml
 https://raw.githubusercontent.com/ccliimpm77/02/refs/heads/main/02.epg
