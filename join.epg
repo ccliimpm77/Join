@@ -86,126 +86,7 @@
 <channel id="max-sport-2"><display-name>MAX Sport 2</display-name><display-name>MAX Sport 2 HD</display-name><icon src="https://iptvx.one/picons/max-sport-2.png" /></channel>
 <channel id="max-sport-3"><display-name>MAX Sport 3</display-name><display-name>MAX Sport 3 HD</display-name><icon src="https://iptvx.one/picons/max-sport-3.png" /></channel>
 <channel id="max-sport-4"><display-name>MAX Sport 4</display-name><display-name>MAX Sport 4 HD</display-name><icon src="https://iptvx.one/picons/max-sport-4.png" /></channel>
-<programme start="20260311021300 +0100" stop="20260311034300 +0100" channel="MEZZO">
-    <title lang="pl">Concorso internazionale di direzione d'orchestra Rotterdam 2025</title>
-    <credits>
-      <director>Nander Cirkel</director>
-    </credits>
-    <date>2025</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260311034300 +0100" stop="20260311045200 +0100" channel="MEZZO">
-    <title lang="pl">Sonya Yoncheva, Malcolm Martineau - Rencontres Musicales d'Evian</title>
-    <credits>
-      <director>Mariano Nante</director>
-    </credits>
-    <date>2024</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260311045200 +0100" stop="20260311070400 +0100" channel="MEZZO">
-    <title lang="pl">Verdi: Falstaff - Opera di Lille</title>
-    <desc lang="pl">Falstaff 'Commedia lirica' in three acts by Giuseppe Verdi (1813-1901) Libretto by Arrigo Boito First performance in Milan, Teatro alla Scala, February 9, 1893 Orchestre National de Lille, Cheur de l'Opéra de Lille Antonello Allemandi (conductor) Denis Podalydes (stage director) Éric Ruf (sets), Christian Lacroix (costumes), Bertrand Couderc (lights) Tassis Christoyannis (Falstaff) Gabrielle Philiponet (Alice Ford) Julie Robard-Gendre (Meg Page) Silvia Beltrami (Mrs Quickly) Clara Guillon (Nannetta) Gezim Myshketa (Ford) Kevin Amiel (Fenton) Luca Lombardo (Dr Caius) Loic Felix (Bardolfo) Damien Pass (Pistola) Laurent Podalydes, Léo Reynaud (actors) Lille, Opera, May 14, 2023.</desc>
-    <date>2023</date>
-    <category lang="pl">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028629.jpg" />
-  </programme>
-  <programme start="20260311070400 +0100" stop="20260311102000 +0100" channel="MEZZO">
-    <title lang="pl">Concorso Pianistico Internazionale di Leeds</title>
-    <desc lang="pl">Leeds International Piano Competition Royal Liverpool Philharmonic Orchestra, Domingo Hindoyan (direzione) JTomharu Ushida (Giappone) - Vincitore del Premio del Pubblico Medici Franz Schubert 1797 - 1828 Sonata per pianoforte in si bemolle D960 Khanh Nhi Luong (Vietnam) - 3° Premio Kate Whitley 1975 - Cinque pezzi per pianoforte Sergei Prokofiev 1891 - 1953 Concerto per pianoforte n. 3 in do Maggiore, op. 26 Junyan Chen (Cina) - 2° Premio Franz Liszt 1811 - 1886 Funérailles (da Harmonies Poétiques et Religieuses) Sergei Rachmaninov 1873 - 1943 Concerto per pianoforte n. 4 in sol minore, op. 40 Jaeden Izik-Dzurko (Canada) - 1° Premio Maurice Ravel 1875 - 1937 Oiseaux Tristes (da Miroirs) Johannes Brahms 1833 - 1897 Concerto per pianoforte n. 2 in si bemolle maggiore op. 83 Leeds International Piano Competition, 20-21 settembre 2024 Oggi seguiremo il viaggio di tre partecipanti al Leeds International Piano Competition. Dall'11 al 21 settembre 2024, giovani pianisti provenienti da tutto il mondo sono venuti in questa città dell'Inghilterra centrale per sottoporsi alla giuria presieduta da Imogen Cooper. Chi di loro aggiungerà il proprio nome a Radu Lupu, Murray Perahia, Mitsuko Uchida, András Schiff, Lars Vogt, Sunwook Kim o Alim Beisembayev, ex vincitori di questa competizione? Lo scoprirete ascoltando questi tre artisti durante la seconda fase, la semifinale e la finale, durante la quale saranno accompagnati dalla Royal Liverpool Philharmonic Orchestra e da Domingo Hindoyan.</desc>
-    <date>2024</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260311102000 +0100" stop="20260311122000 +0100" channel="MEZZO">
-    <title lang="pl">Elisabeth Leonskaja, Quatuor Danel: Shostakovich, Weinberg - Théâtre du Capitole, Tolosa</title>
-    <date>2026</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260311122000 +0100" stop="20260311133300 +0100" channel="MEZZO">
-    <title lang="pl">Festival di musica da camera di Gerusalemme 2022: Weinberg, Bruch, Schubert</title>
-    <credits>
-      <director>John Blanch</director>
-    </credits>
-    <date>2022</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260311133300 +0100" stop="20260311134400 +0100" channel="MEZZO">
-    <title lang="pl">InterMezzo</title>
-    <category lang="pl">programma musicale</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260311134400 +0100" stop="20260311143600 +0100" channel="MEZZO">
-    <title lang="pl">Carl Nielsen - Tra cielo e terra</title>
-    <credits>
-      <director>Magdalena Zięba-Schwind</director>
-    </credits>
-    <date>2022</date>
-    <category lang="pl">film documentario</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984456.jpg" />
-  </programme>
-  <programme start="20260311143600 +0100" stop="20260311155600 +0100" channel="MEZZO">
-    <title lang="pl">Cappella Mediterranea: Amore siciliano - Leonardo García Alarcón</title>
-    <desc lang="pl">Cappella Mediterranea, Leonardo García Alarcón (musical direction) Ana Vieira Leite (soprano), Mariana Flores (soprano), Léo Fernique (countertenor), Valerio Contaldo (tenor), Matteo Bellotto (bass) Vincenzo Tozzi (1612 - 1679) Qual Suono Roland de Lassus (1532 -1594) Kyrie eleison Anonimo Fermarono i cieli Tommaso Carapella (1665 -1736) Ho vinto, Amor Anonimo U Ciucciu Cataldo Amodei (1650 -1695) Va, ché l'hai fatto a me Anonimo La canzone di Cecilia Sigismondo d'India (1582 -1629) Mercé ! Grido piangendo Pasquale Carroza Amantissime Jesu (Sinfonia) Cataldo Amodei In solitare arene Corrado Bonfiglio Caro amante José Marín (1618- 1699) Ojos, pues me desdenáis Giovanni M. Trabaci (1575 - 1647) Canzona francesa cromatica Sigismondo d'India Dispietata Pietate Cataldo Amodei La Parca Tirannide Vezzosa Anonimo A riturnella Santiago de Murcia (1673-1739) Tarantela Espanola Alessandro Scarlatti (1660 -1725) Mori mi dici Sigismondo d'India Piangono al pianger moi Leonardo García Alarcón (1976 - ) Madrigal in 5 in fugue on La Canzone di Cecilia Chantilly, Les Coups de Ceur de Chantilly, 12 October 2025.</desc>
-    <credits>
-      <director>Julien Condemine</director>
-    </credits>
-    <date>2025</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260311155600 +0100" stop="20260311172000 +0100" channel="MEZZO">
-    <title lang="pl">Christian Spuck: Poppea // Poppea - Gauthier Dance</title>
-    <desc lang="pl">POPPEA // POPPEA di Christian Spuck Coreografia di Christian Spuck per Gauthier Dance Musica di Martin Donner, Claudio Monteverdi e altri Gauthier Dance Emma Ryott - Scenografa, costumista Dunja Funke - Drammaturgia Reinhard Traub - Luci Eric Gauthier - Ballerina Anneleen Dedroog - Ballerina Miriam Gronwald - Ballerina Anna Süheyla Harms - Ballerina Maria Prat Balasch - Ballerina Rosario Guerra - Ballerina Florian Lochner - Ballerino William Moragas - Ballerino David Stiven Valencia Martinez - Ballerino Tars Vandebeek - Ballerino Diretto da Nikolai Vialkowitsch Stoccarda, Theaterhaus Stuttgart, 2013.</desc>
-    <credits>
-      <director>Nikolai Vialkowitsch</director>
-    </credits>
-    <date>2017</date>
-    <category lang="pl">balletto</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
-  </programme>
-  <programme start="20260311172000 +0100" stop="20260311182400 +0100" channel="MEZZO">
-    <title lang="pl">Martha Argerich, Maxim Vengerov, Mischa Maisky: Beethoven, Saint-Saëns</title>
-    <credits>
-      <director>Christophe Boula</director>
-    </credits>
-    <date>2021</date>
-    <category lang="pl">concerto classico</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260311182400 +0100" stop="20260311203000 +0100" channel="MEZZO">
-    <title lang="pl">Ted Brandsen: Mata Hari - Balletto Nazionale Olandese</title>
-    <desc lang="pl">Mata Hari Coreografia di Ted Brandsen Libretto di Janine Brogt Musica di Tarik O'Regan Dutch Ballet Orchestra Matthew Rowe, direttore d'orchestra, scenografie, costumi Clement &amp; Sanôu, Francis-Christmas Cherpin Artur Shesterikov Shiva - Young Gyu Choi Temple Dancer - Wen Ting Guan Frieda McLeod - Emanuel Merdjanova Isadora Duncan - Erica Horwood The Lady - Nadia Yanowsky MC - Edo Wijnen M. Guimet - Anatole Babenko Tenente Ladoux - Roman Artyushkin Zie - Wendeline Wijkstra, Pascalle Paerel e Hannah de Gli zii Klein - Wolfgang Tietze, Peter Leung e Matthew Pawlicki-Sinclair Gli zii Klein - Wolfgang Tietze, Peter Leung e Matthew Pawlicki-Sinclair</desc>
-    <credits>
-      <director>Jeff Tudor</director>
-    </credits>
-    <date>2015</date>
-    <category lang="pl">balletto</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
-  </programme>
-  <programme start="20260311203000 +0100" stop="20260311230200 +0100" channel="MEZZO">
-    <title lang="pl">Karlsson: Melancholia – Opera reale svedese</title>
-    <desc lang="pl">Melancholia Opéra in due atti di Mikael Karlsson Libretto di Royce Vavrek basato sul film di Lars von Trier Orchestra reale svedese, Coro dell'Opera reale svedese, Andrea Molino (direttore d'orchestra) Sláva Daubnerová (regista di scena) Boris Kudlicka (scenografia), Chrisi Karvonides-Dushenko (costumi), Tom Visser (light design), Avgoustos Psillas (sound design), Bartek Macias (Video), Charlotta Öfverholm (Coreografia) Lauren Snouffer (Justine) Rihab Chaieb (Claire) Anne Sofie von Otter (Gaby) Jens Herrmann (Michael) Ola Eliasson (John) Johan Edholm (Jack) Mikael Stenbaek (Tim) Diretto da Andreas Morell Stoccolma, Opera reale svedese, 7 ottobre 2023.</desc>
-    <credits>
-      <director>Andreas Morell</director>
-    </credits>
-    <date>2023</date>
-    <category lang="pl">opera</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028629.jpg" />
-  </programme>
-  <programme start="20260311230200 +0100" stop="20260312003000 +0100" channel="MEZZO">
-    <title lang="pl">Youn Sun Nah Quartetto - Annecy</title>
-    <credits>
-      <director>Samuel Thiebaut</director>
-    </credits>
-    <date>2023</date>
-    <category lang="pl">concerto jazz</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
-  </programme>
-  <programme start="20260312003000 +0100" stop="20260312014100 +0100" channel="MEZZO">
+<programme start="20260312003000 +0100" stop="20260312014100 +0100" channel="MEZZO">
     <title lang="pl">Joachim Kühn in concerto - Estate pianistica</title>
     <credits>
       <director>Dieter Hens</director>
@@ -922,84 +803,142 @@
     <category lang="pl">balletto</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
   </programme>
-  <programme start="20260311011500 +0100" stop="20260311031500 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Como - Inter</sub-title>
-    <desc lang="cs">Coppa Italia, semifinaleCoppa Italia, semifinale.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260317010200 +0100" stop="20260317021700 +0100" channel="MEZZO">
+    <title lang="pl">Festival di musica da camera di Gerusalemme: Rachmaninov, Weinberg</title>
+    <credits>
+      <director>John Blanch</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311031500 +0100" stop="20260311051500 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Lazio - Atalanta</sub-title>
-    <desc lang="cs">Coppa Italia, semifinaleCoppa Italia, semifinale.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260317021700 +0100" stop="20260317030100 +0100" channel="MEZZO">
+    <title lang="pl">Dizzy Gillespie Quartet - Berliner Jazztage</title>
+    <credits>
+      <director>Sigrid Schröder</director>
+    </credits>
+    <date>1976</date>
+    <category lang="pl">concerto jazz</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311051500 +0100" stop="20260311054500 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <category lang="cs">Sport</category>
+  <programme start="20260317030100 +0100" stop="20260317034500 +0100" channel="MEZZO">
+    <title lang="pl">Gil Evans Orchestra e McCoy Tyner Sextet - Berliner Jazztage</title>
+    <credits>
+      <director>Oskar Krüger</director>
+    </credits>
+    <date>1976</date>
+    <category lang="pl">concerto jazz</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311054500 +0100" stop="20260311060000 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Made in Italy, Samuele Ricci</sub-title>
-    <category lang="cs">Sport</category>
+  <programme start="20260317034500 +0100" stop="20260317042600 +0100" channel="MEZZO">
+    <title lang="pl">Oregon - Jazztage berlinese</title>
+    <credits>
+      <director>Dieter Krause</director>
+    </credits>
+    <date>1980</date>
+    <category lang="pl">concerto jazz</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311060000 +0100" stop="20260311073000 +0100" channel="Sport 1">
-    <title lang="cs">Acquisti televisivi</title>
-    <category lang="cs">Sport</category>
+  <programme start="20260317042600 +0100" stop="20260317050900 +0100" channel="MEZZO">
+    <title lang="pl">Jimmy Witherspoon Quartet - Multiplatino</title>
+    <credits>
+      <director>Sandro Pedrazzetti</director>
+    </credits>
+    <date>1985</date>
+    <category lang="pl">concerto jazz</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311073000 +0100" stop="20260311100000 +0100" channel="Sport 1">
-    <title lang="cs">Hockey su ghiaccio</title>
-    <sub-title lang="cs">Frölunda - Lulea</sub-title>
-    <desc lang="cs">CHL, finaleCHL, finale.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260317050900 +0100" stop="20260317065000 +0100" channel="MEZZO">
+    <title lang="pl">Orchestra Sinfonica di Londra, Simon Rattle: Jolas, Messiaen</title>
+    <date>2023</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311100000 +0100" stop="20260311110000 +0100" channel="Sport 1">
-    <title lang="cs">Acquisti televisivi</title>
-    <category lang="cs">Sport</category>
+  <programme start="20260317065000 +0100" stop="20260317084100 +0100" channel="MEZZO">
+    <title lang="pl">Orchestra Sinfonica di Londra, Simon Rattle: Sibelius, Bruckner</title>
+    <date>2022</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311110000 +0100" stop="20260311130000 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Como - Inter</sub-title>
-    <desc lang="cs">Coppa Italia, semifinaleCoppa Italia, semifinale.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260317084100 +0100" stop="20260317100000 +0100" channel="MEZZO">
+    <title lang="pl">Itzhak Perlman, Daniel Barenboim, Dale Clevenger - Brahms: Sonata per violino n. 3, Trio di corni</title>
+    <credits>
+      <director>Janos Darvas</director>
+    </credits>
+    <date>1989</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311130000 +0100" stop="20260311150000 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Lazio - Atalanta</sub-title>
-    <desc lang="cs">Coppa Italia, semifinaleCoppa Italia, semifinale.</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260317100000 +0100" stop="20260317123000 +0100" channel="MEZZO">
+    <title lang="pl">Verdi: Falstaff - Opera di Lille</title>
+    <desc lang="pl">Falstaff 'Commedia lirica' in three acts by Giuseppe Verdi (1813-1901) Libretto by Arrigo Boito First performance in Milan, Teatro alla Scala, February 9, 1893 Orchestre National de Lille, Cheur de l'Opéra de Lille Antonello Allemandi (conductor) Denis Podalydes (stage director) Éric Ruf (sets), Christian Lacroix (costumes), Bertrand Couderc (lights) Tassis Christoyannis (Falstaff) Gabrielle Philiponet (Alice Ford) Julie Robard-Gendre (Meg Page) Silvia Beltrami (Mrs Quickly) Clara Guillon (Nannetta) Gezim Myshketa (Ford) Kevin Amiel (Fenton) Luca Lombardo (Dr Caius) Loic Felix (Bardolfo) Damien Pass (Pistola) Laurent Podalydes, Léo Reynaud (actors) Lille, Opera, May 14, 2023.</desc>
+    <date>2023</date>
+    <category lang="pl">opera</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028629.jpg" />
   </programme>
-  <programme start="20260311150000 +0100" stop="20260311170000 +0100" channel="Sport 1">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Serie A, 28. kolo</sub-title>
-    <category lang="cs">Sport</category>
+  <programme start="20260317123000 +0100" stop="20260317140300 +0100" channel="MEZZO">
+    <title lang="pl">Martha Argerich, Maria Joao Pires, Orchestre de la Suisse Romande, Daniel Harding: Mozart, Mahler</title>
+    <credits>
+      <director>Andy Sommer</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311170000 +0100" stop="20260311174500 +0100" channel="Sport 1">
-    <title lang="cs">MVP</title>
-    <sub-title lang="cs">Rozhovory o sportu, Richard Varga</sub-title>
-    <category lang="cs">Sport</category>
+  <programme start="20260317140300 +0100" stop="20260317153500 +0100" channel="MEZZO">
+    <title lang="pl">Orchestra Filarmonica di Monaco, Daniel Harding, Leonidas Kavakos: Čajkovskij, Dvorak</title>
+    <date>2022</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311174500 +0100" stop="20260311204500 +0100" channel="Sport 1">
-    <title lang="cs">Hockey su ghiaccio</title>
-    <sub-title lang="cs">Tipsport Liga, Kvalifikace do playoff</sub-title>
-    <category lang="cs">Sport</category>
+  <programme start="20260317153500 +0100" stop="20260317162500 +0100" channel="MEZZO">
+    <title lang="pl">InterMezzo</title>
+    <category lang="pl">programma musicale</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311204500 +0100" stop="20260311213000 +0100" channel="Sport 1">
-    <title lang="cs">MVP</title>
-    <sub-title lang="cs">Rozhovory o sportu, Ján Lašák</sub-title>
-    <category lang="cs">Sport</category>
+  <programme start="20260317162500 +0100" stop="20260317183500 +0100" channel="MEZZO">
+    <title lang="pl">Monteverdi da Mantova a Venezia - John Eliot Gardiner</title>
+    <credits>
+      <director>Sébastien Glas</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pl">film documentario</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419736.jpg" />
   </programme>
-  <programme start="20260311213000 +0100" stop="20260311233000 +0100" channel="Sport 1">
-    <title lang="cs">Hockey su ghiaccio</title>
-    <sub-title lang="cs">Växjö - Örebro</sub-title>
-    <desc lang="cs">SHL, parte baseSHL, parte base</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260317183500 +0100" stop="20260317203000 +0100" channel="MEZZO">
+    <title lang="pl">John Eliot Gardiner - Monteverdi: Vespro della Beata Vergine - Versailles</title>
+    <credits>
+      <director>Stéphan Aubé</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
-  <programme start="20260311233000 +0100" stop="20260312020000 +0100" channel="Sport 1">
-    <title lang="cs">Hockey su ghiaccio</title>
-    <sub-title lang="cs">Leksand - Frölunda</sub-title>
-    <desc lang="cs">SHL, parte baseSHL, parte base</desc>
-    <category lang="cs">Sport</category>
+  <programme start="20260317203000 +0100" stop="20260317221600 +0100" channel="MEZZO">
+    <title lang="pl">Pite di cristallo: sgomento</title>
+    <desc lang="pl">Betroffenheit Crystal Pite (coreografia) Musica di Owen Belton, Alessandro Juliani &amp; Meg Roe Kidd Pivot, Electric Company Theatre Jay Gower Taylor - Scenografia Tom Visser - Luci Nancy Bryant - Costumi Linda Chow - Costumi Nicola Ryall - Costumi Bryan Arias - Ballerino David Raymond - Ballerino Cindy Salgado - Ballerino Jermaine Spivey - Ballerino Tiffany Tregarthen - Ballerino Jonathon Young - Attrice Heidi Wilkinson - Puppets Omanie Elias - Puppets Il tipo di spettacolo che raramente vediamo sul palco del teatro o dell'opera è offerto qui dagli innovativi Crystal Pite e Jonathon Young. In tedesco, "Betroffenheit" denota uno stato di shock e incredulità. Questo insolito balletto è stato ispirato dai terribili eventi della vita del coreografo Young, che perse sua figlia, sua nipote e suo nipote in un terribile incendio durante una vacanza in famiglia. Un mix di tap, salsa, parlato, canzone e spettacolo di marionette, questa commovente affermazione artistica susciterà sicuramente le emozioni con la sua toccante rappresentazione delle difficoltà personali e della lotta per venire a patti con la tragedia, splendidamente realizzata da Kidd Pivot e dall'Electric Company Theatre sul palco del Sadler's Wells Theatre di Londra. Londra, Sadler's Wells Theatre, 2017 Diretto da Jeff Tudor.</desc>
+    <credits>
+      <director>Jeff Tudor</director>
+    </credits>
+    <date>2017</date>
+    <category lang="pl">balletto</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419696.jpg" />
+  </programme>
+  <programme start="20260317221600 +0100" stop="20260317234700 +0100" channel="MEZZO">
+    <title lang="pl">Orchestra Filarmonica Reale di Liegi, Gergely Madaras: Dvorák, Franck</title>
+    <credits>
+      <director>Frédéric Caillierez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">concerto classico</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
+  </programme>
+  <programme start="20260317234700 +0100" stop="20260318022400 +0100" channel="MEZZO">
+    <title lang="pl">Serse' di Haendel all'Opera di Rouen</title>
+    <desc lang="pl">Serse Opera in three acts by Georg Friedrich Handel (1685 - 1759) Libretto by Nicolo Minato and Silvio Stampiglia First performnce in London, King's Theatre, 15 April 1738 Opéra de Rouen Normandie Orchestra, David Bates (Musical direction, harpsichord) Clarac &amp; Deloeuil &gt; The Lab (Stage Direction, sets, costumes) Christophe Pitoiset (Set design collaboration), Lodie Kardouss (Artistic collaboration), Rick Martin (Lights), Julien Roques and Benjamin Juhel (Video), Julien Roques (Graphic design), Luc Bourrousse (Dramaturgy) Jake Arditti (Serse) Jakub Józef Orlinski (Arsamene) Cecilia Molinari (Amastre) Mari Eriksmoen (Romilda) Sophie Junker (Atalanta) Luigi de Donato (Ariodate) Elviro Riccardo (Novaro) Rouen, Théâtre des Arts, March 14, 2023.</desc>
+    <date>2023</date>
+    <category lang="pl">opera</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984463.jpg" />
   </programme>
   <programme start="20260312020000 +0100" stop="20260312060000 +0100" channel="Sport 1">
     <title lang="cs">Freccette</title>
@@ -1323,90 +1262,78 @@
     <desc lang="cs">Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 3, Parte 1 Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 3, Parte 1.</desc>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260311020000 +0100" stop="20260311030000 +0100" channel="Sport 2">
-    <title lang="cs">Scatola</title>
-    <sub-title lang="cs">Hector Camacho Jr - Bryon Mackie</sub-title>
+  <programme start="20260316024500 +0100" stop="20260316050000 +0100" channel="Sport 1">
+    <title lang="cs">Hockey su ghiaccio</title>
+    <sub-title lang="cs">Leksand - Frölunda</sub-title>
+    <desc lang="cs">SHL, parte baseSHL, parte base</desc>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260311030000 +0100" stop="20260311040000 +0100" channel="Sport 2">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Serie A, 28. kolo</sub-title>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311040000 +0100" stop="20260311060000 +0100" channel="Sport 2">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Lazio - Atalanta</sub-title>
-    <desc lang="cs">Coppa Italia, semifinaleCoppa Italia, semifinale.</desc>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311060000 +0100" stop="20260311080000 +0100" channel="Sport 2">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Bologna - Verona</sub-title>
-    <desc lang="cs">Serie A, 28. koloSerie A, 28. kolo.</desc>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311080000 +0100" stop="20260311090000 +0100" channel="Sport 2">
-    <title lang="cs">Acquisti televisivi</title>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311090000 +0100" stop="20260311110000 +0100" channel="Sport 2">
-    <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Juventus - Pisa</sub-title>
-    <desc lang="cs">Serie A, 28. koloSerie A, 28. kolo.</desc>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311110000 +0100" stop="20260311120000 +0100" channel="Sport 2">
-    <title lang="cs">Acquisti televisivi</title>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311120000 +0100" stop="20260311134500 +0100" channel="Sport 2">
-    <title lang="cs">Pallamano</title>
-    <sub-title lang="cs">Slovensko - Rumunsko</sub-title>
-    <desc lang="cs">Coppa dei Campioni EHF femminile 2026Coppa dei Campioni EHF femminile 2026.</desc>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311134500 +0100" stop="20260311144500 +0100" channel="Sport 2">
+  <programme start="20260316050000 +0100" stop="20260316060000 +0100" channel="Sport 1">
     <title lang="cs">Poker</title>
     <sub-title lang="cs">WSOP, sestřih hlavních událostí 15/15</sub-title>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260311144500 +0100" stop="20260311164500 +0100" channel="Sport 2">
+  <programme start="20260316060000 +0100" stop="20260316073000 +0100" channel="Sport 1">
+    <title lang="cs">Acquisti televisivi</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316073000 +0100" stop="20260316100000 +0100" channel="Sport 1">
+    <title lang="cs">Hockey su ghiaccio</title>
+    <sub-title lang="cs">Davos - Biel</sub-title>
+    <desc lang="cs">National League, stagione regolareNational League, stagione regolare</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316100000 +0100" stop="20260316110000 +0100" channel="Sport 1">
+    <title lang="cs">Acquisti televisivi</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316110000 +0100" stop="20260316130000 +0100" channel="Sport 1">
+    <title lang="cs">Tennis</title>
+    <sub-title lang="cs">WTA 250, Austin, finále</sub-title>
+    <desc lang="cs">Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione.Tennis WTA Tour è il livello più alto di tennis professionistico femminile, che comprende dozzine di tornei in una stagione.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316130000 +0100" stop="20260316153000 +0100" channel="Sport 1">
+    <title lang="cs">Hockey su ghiaccio</title>
+    <sub-title lang="cs">Frölunda - Lulea</sub-title>
+    <desc lang="cs">CHL, finaleCHL, finale.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316153000 +0100" stop="20260316173000 +0100" channel="Sport 1">
     <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Lecce - Cremonese</sub-title>
-    <desc lang="cs">Serie A, 28. koloSerie A, 28. kolo.</desc>
+    <sub-title lang="cs">Serie A, 29. kolo</sub-title>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260311164500 +0100" stop="20260311184500 +0100" channel="Sport 2">
+  <programme start="20260316173000 +0100" stop="20260316183000 +0100" channel="Sport 1">
     <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Juventus - Pisa</sub-title>
-    <desc lang="cs">Serie A, 28. koloSerie A, 28. kolo.</desc>
+    <sub-title lang="cs">EL/EKL, upoutávka, nové</sub-title>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260311184500 +0100" stop="20260311203000 +0100" channel="Sport 2">
-    <title lang="cs">Pallamano</title>
-    <sub-title lang="cs">Wisla Plock - Szeged</sub-title>
-    <desc lang="cs">Gruppo maschile di Champions League Gruppo maschile di Champions League</desc>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311203000 +0100" stop="20260311204500 +0100" channel="Sport 2">
-    <title lang="cs">Momenti d'oro</title>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311204500 +0100" stop="20260311223000 +0100" channel="Sport 2">
-    <title lang="cs">Pallamano</title>
-    <sub-title lang="cs">PSG - Magdeburg</sub-title>
-    <desc lang="cs">Gruppo maschile di Champions League Gruppo maschile di Champions League</desc>
-    <category lang="cs">Sport</category>
-  </programme>
-  <programme start="20260311223000 +0100" stop="20260311230000 +0100" channel="Sport 2">
+  <programme start="20260316183000 +0100" stop="20260316203000 +0100" channel="Sport 1">
     <title lang="cs">Calcio</title>
-    <sub-title lang="cs">nové</sub-title>
+    <sub-title lang="cs">Inter - Atalanta</sub-title>
+    <desc lang="cs">Serie A, 29. koloSerie A, 29. kolo.</desc>
     <category lang="cs">Sport</category>
   </programme>
-  <programme start="20260311230000 +0100" stop="20260312010000 +0100" channel="Sport 2">
+  <programme start="20260316203000 +0100" stop="20260316204500 +0100" channel="Sport 1">
     <title lang="cs">Calcio</title>
-    <sub-title lang="cs">Atalanta - Udinese</sub-title>
-    <desc lang="cs">Serie A, 28. koloSerie A, 28. kolo.</desc>
+    <sub-title lang="cs">Made in Italy, Yerry Mina</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316204500 +0100" stop="20260316224500 +0100" channel="Sport 1">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Cremonese - Fiorentina</sub-title>
+    <desc lang="cs">Serie A, 29. koloSerie A, 29. kolo.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316224500 +0100" stop="20260316234500 +0100" channel="Sport 1">
+    <title lang="cs">Scatola</title>
+    <sub-title lang="cs">Hector Camacho Jr - Bryon Mackie</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316234500 +0100" stop="20260317000000 +0100" channel="Sport 1">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Made in Italy, Jacopo Fazzini</sub-title>
     <category lang="cs">Sport</category>
   </programme>
   <programme start="20260312010000 +0100" stop="20260312040000 +0100" channel="Sport 2">
@@ -1667,6 +1594,77 @@
   <programme start="20260315230000 +0100" stop="20260316010000 +0100" channel="Sport 2">
     <title lang="cs">Calcio</title>
     <sub-title lang="cs">Pisa - Cagliari</sub-title>
+    <desc lang="cs">Serie A, 29. koloSerie A, 29. kolo.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316010000 +0100" stop="20260316030000 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Como - Řím</sub-title>
+    <desc lang="cs">Serie A, 29. koloSerie A, 29. kolo.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316030000 +0100" stop="20260316050000 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Lazio - Milán</sub-title>
+    <desc lang="cs">Serie A, 29. koloSerie A, 29. kolo.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316050000 +0100" stop="20260316060000 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Punto 17, Marek Hamšík, dokument</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316060000 +0100" stop="20260316080000 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Serie A, 29. kolo</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316080000 +0100" stop="20260316090000 +0100" channel="Sport 2">
+    <title lang="cs">Acquisti televisivi</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316090000 +0100" stop="20260316110000 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Serie A, 29. kolo</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316110000 +0100" stop="20260316120000 +0100" channel="Sport 2">
+    <title lang="cs">Acquisti televisivi</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316120000 +0100" stop="20260316160000 +0100" channel="Sport 2">
+    <title lang="cs">Freccette</title>
+    <desc lang="cs">Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 3, Parte 1 Trofeo Europeo di Freccette, Gottinga, Germania, Giorno 3, Parte 1.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316160000 +0100" stop="20260316163000 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316163000 +0100" stop="20260316193000 +0100" channel="Sport 2">
+    <title lang="cs">Scatola</title>
+    <sub-title lang="cs">Badou Jack - Noel Mikaelian</sub-title>
+    <desc lang="cs">Los AngelesLos Angeles.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316193000 +0100" stop="20260316194500 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Made in Italy, Darko Lazović</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316194500 +0100" stop="20260316221500 +0100" channel="Sport 2">
+    <title lang="cs">Hockey su ghiaccio</title>
+    <sub-title lang="cs">Národní liga, playoff</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316221500 +0100" stop="20260316231500 +0100" channel="Sport 2">
+    <title lang="cs">Poker</title>
+    <sub-title lang="cs">WSOP, sestřih hlavních událostí 15/15</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20260316231500 +0100" stop="20260317011500 +0100" channel="Sport 2">
+    <title lang="cs">Calcio</title>
+    <sub-title lang="cs">Inter - Atalanta</sub-title>
     <desc lang="cs">Serie A, 29. koloSerie A, 29. kolo.</desc>
     <category lang="cs">Sport</category>
   </programme>
@@ -11382,26 +11380,7 @@
     <desc lang="it">St.1 Ep.2 - Chris e Max scoprono vecchie auto abbandonate.</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20260304212500 +0300" stop="20260304221500 +0300" channel="diema-sport-1"><title>Studio EFBET Football League Calcio. direttamente</title></programme>
-<programme start="20260304221500 +0300" stop="20260304224500 +0300" channel="diema-sport-1"><title>⋗ Diario dell'NBA. Episodio 129 2025/26 Spettacolo di basket americano</title></programme>
-<programme start="20260304224500 +0300" stop="20260304231500 +0300" channel="diema-sport-1"><title>Studio APL. direttamente</title></programme>
-<programme start="20260304231500 +0300" stop="20260305011000 +0300" channel="diema-sport-1"><title>⋗Newcastle United-Manchester United. Turno 29, Calcio: Premier League 2025/26</title></programme>
-<programme start="20260305011000 +0300" stop="20260305014500 +0300" channel="diema-sport-1"><title>Studio APL. direttamente</title></programme>
-<programme start="20260305014500 +0300" stop="20260305034500 +0300" channel="diema-sport-1"><title>Città di Luton - Città di Northampton. Trofeo Vertu 2025/26, semifinale, ingresso</title></programme>
-<programme start="20260305034500 +0300" stop="20260305044500 +0300" channel="diema-sport-1"><title>Seconda Lega Professionistica: revisione del turno. Episodio 22, programma sul calcio bulgaro 2025/26</title></programme>
-<programme start="20260305044500 +0300" stop="20260305054500 +0300" channel="diema-sport-1"><title>Ludogorets-Lokomotiv Plovdiv. Turno 23, Calcio: EFBET Football League 2025/26</title></programme>
-<programme start="20260305064500 +0300" stop="20260305074500 +0300" channel="diema-sport-1"><desc>Rompere Diema Sport</desc><title>Rottura</title></programme>
-<programme start="20260305074500 +0300" stop="20260305081500 +0300" channel="diema-sport-1"><desc>Lo spettacolo presenta i migliori giocatori di calcio dell'ultimo turno della Efbet League. Il presentatore analizza le loro prestazioni, creando classifiche posizionali e una squadra ideale sulla base di dati statistici</desc><title>Eroi del tour</title></programme>
-<programme start="20260305081500 +0300" stop="20260305101500 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Lega calcio EFBET: Turno 24: Mar Nero – Arda</title></programme>
-<programme start="20260305101500 +0300" stop="20260305104500 +0300" channel="diema-sport-1"><desc>Nella sezione "Goal del turno", gli spettatori potranno vedere i cinque gol più impressionanti dell'ultimo turno. Chi li implementa? Come sono stati valutati? Dove è successo tutto questo? Lo spettacolo offre una classifica speciale dedicata al momento più emozionante del calcio: un gol</desc><title>Gol del girone</title></programme>
-<programme start="20260305104500 +0300" stop="20260305124500 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Lega calcio EFBET: Turno 24: CSKA – Botev Vratsa</title></programme>
-<programme start="20260305124500 +0300" stop="20260305134500 +0300" channel="diema-sport-1"><desc>Il programma di rassegna dell'ultimo turno della Seconda Lega offre resoconti dettagliati di tutte le partite. Analizza i momenti più interessanti, i gol, le situazioni controverse e tutte le emozioni che hanno preoccupato i tifosi. Il tutto viene commentato e discusso in studio da giornalisti ed esperti</desc><title>Seconda Lega Professionistica: Recensione del Tour</title></programme>
-<programme start="20260305134500 +0300" stop="20260305141500 +0300" channel="diema-sport-1"><desc>Prima di ogni partita del tour, gli spettatori possono immergersi nello spettacolo, che inizia con la presentazione dell'atmosfera, delle emozioni e delle aspettative prima delle partite. Inoltre, i tifosi hanno l'opportunità di prendere parte al “Our Game”, dove possono mettere alla prova la loro conoscenza del calcio bulgaro e vincere premi interessanti.</desc><title>Studio della lega di calcio EFBET</title></programme>
-<programme start="20260305141500 +0300" stop="20260305161000 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Campionato di calcio EFBET: Turno 24: Lokomotiv Sofia – Dobrugia</title></programme>
-<programme start="20260305161000 +0300" stop="20260305164500 +0300" channel="diema-sport-1"><desc>Prima di ogni partita del tour, gli spettatori possono immergersi nello spettacolo, che inizia con la presentazione dell'atmosfera, delle emozioni e delle aspettative prima delle partite. Inoltre, i tifosi hanno l'opportunità di prendere parte al “Our Game”, dove possono mettere alla prova la loro conoscenza del calcio bulgaro e vincere premi interessanti.</desc><title>Studio della lega di calcio EFBET</title></programme>
-<programme start="20260305164500 +0300" stop="20260305184000 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Campionato calcio EFBET: Turno 24: Lokomotiv Plovdiv – CSKA 1948</title></programme>
-<programme start="20260305184000 +0300" stop="20260305193000 +0300" channel="diema-sport-1"><desc>Prima di ogni partita del tour, gli spettatori possono immergersi nello spettacolo, che inizia con la presentazione dell'atmosfera, delle emozioni e delle aspettative prima delle partite. Inoltre, i tifosi hanno l'opportunità di prendere parte al “Our Game”, dove possono mettere alla prova la loro conoscenza del calcio bulgaro e vincere premi interessanti.</desc><title>Studio della lega di calcio EFBET</title></programme>
-<programme start="20260305193000 +0300" stop="20260305212500 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Campionato calcio EFBET: Turno 24: Ludogorets – Levski</title></programme>
+  <programme start="20260305193000 +0300" stop="20260305212500 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Campionato calcio EFBET: Turno 24: Ludogorets – Levski</title></programme>
 <programme start="20260305212500 +0300" stop="20260305220000 +0300" channel="diema-sport-1"><desc>Prima di ogni partita del tour, gli spettatori possono immergersi nello spettacolo, che inizia con la presentazione dell'atmosfera, delle emozioni e delle aspettative prima delle partite. Inoltre, i tifosi hanno l'opportunità di prendere parte al “Our Game”, dove possono mettere alla prova la loro conoscenza del calcio bulgaro e vincere premi interessanti.</desc><title>Studio della lega di calcio EFBET</title></programme>
 <programme start="20260305220000 +0300" stop="20260305230000 +0300" channel="diema-sport-1"><desc>I presentatori presentano, in ordine cronologico, i momenti più importanti, i gol e le situazioni controverse di ogni partita. La trasmissione prevedeva anche interviste ad allenatori e giocatori che hanno condiviso le loro impressioni e analisi dopo le partite. I riflettori vengono trasmessi regolarmente, offrendo agli spettatori uno sguardo approfondito sugli sviluppi del calcio bulgaro</desc><title>EFBET Football League: revisione del round</title></programme>
 <programme start="20260305230000 +0300" stop="20260305233000 +0300" channel="diema-sport-1"><desc>Lo spettacolo presenta le ultime notizie, analisi e commenti NBA che coprono le ultime partite, statistiche e tendenze in tutto il campionato. Lo spettacolo offre uno sguardo approfondito sulle prestazioni dei giocatori bulgari nella NBA, oltre a interviste con esperti ed ex giocatori di basket</desc><title>Diario dell'NBA</title></programme>
@@ -11460,7 +11439,7 @@
 <programme start="20260308184500 +0300" stop="20260308204000 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Lega calcio EFBET: Turno 25: CSKA – Lokomotiv Sofia</title></programme>
 <programme start="20260308204000 +0300" stop="20260308211500 +0300" channel="diema-sport-1"><desc>Prima di ogni partita del tour, gli spettatori possono immergersi nello spettacolo, che inizia con la presentazione dell'atmosfera, delle emozioni e delle aspettative prima delle partite. Inoltre, i tifosi hanno l'opportunità di prendere parte al “Our Game”, dove possono mettere alla prova la loro conoscenza del calcio bulgaro e vincere premi interessanti.</desc><title>Studio della lega di calcio EFBET</title></programme>
 <programme start="20260308211500 +0300" stop="20260308230500 +0300" channel="diema-sport-1"><desc>La Lega Spagnola di Pallacanestro è stata fondata nel 1957 come Lega Nazionale e ha ricevuto la sua forma attuale nel 1983, quando l'organizzazione ACB ha preso il controllo della competizione. In termini di prestazioni, l'ASV League è uno dei tre migliori campionati d'Europa. Attualmente ci sono 18 squadre nel campionato che si affrontano due volte a stagione. La squadra con più titoli vinti è il Real Madrid, seguita dal Barcellona. Il campionato spagnolo ci ha regalato alcuni dei più grandi giocatori e allenatori del mondo di sempre.</desc><title>Basket: Liga Endesa: Turno 21: Valencia - Murcia</title></programme>
-<programme start="20260308230500 +0300" stop="20260309010000 +0300" channel="diema-sport-1"><desc>Fondata nel 2006, la Super League greca è diventata la forza trainante per lo sviluppo del calcio nel paese. Essendo un calcio professionistico di altissimo livello, attira l'attenzione sia dei tifosi nazionali che internazionali. Il successo in Super League apre le porte a prestigiose competizioni europee per club, dove le squadre greche hanno la possibilità di mettersi alla prova contro le migliori squadre d'Europa</desc><title>Calcio: Super League greca: Turno 24: Levadiakos – Panathinaikos</title></programme>
+<programme start="20260308230500 +0300" stop="20260309010000 +0300" channel="diema-sport-1"><desc>Fondata nel 2006, la Super League greca è diventata la forza trainante per lo sviluppo del calcio nel paese. Essendo un calcio professionistico di altissimo livello, attira l'attenzione dei tifosi nazionali e internazionali. Il successo in Super League apre le porte a prestigiose competizioni europee per club, dove le squadre greche hanno la possibilità di mettersi alla prova contro le migliori squadre d'Europa</desc><title>Calcio: Super League greca: Turno 24: Levadiakos – Panathinaikos</title></programme>
 <programme start="20260309010000 +0300" stop="20260309033000 +0300" channel="diema-sport-1"><desc>La National Basketball Association (NBA), abbreviata in NBA, è la lega di basket professionistica maschile più prestigiosa al mondo e una delle quattro principali leghe sportive professionistiche del Nord America. È stata fondata il 6 giugno 1946 a New York City con il nome di American Basketball Association (ABA). Ha ricevuto un nuovo nome nell'autunno del 1949 dopo una fusione con la US National Basketball League (NBL). Due delle squadre di maggior successo della NBA sono i Los Angeles Lakers e i Boston Celtics, che hanno vinto il titolo 17 volte ciascuna. Altre squadre campione includono: Golden State Warriors (7), Chicago Bulls (6), San Antonio Spurs (5), Philadelphia 76ers (7), Detroit Pistons (3), Miami Heat (3), New York Knicks (2), Houston Rockets (2), Milwaukee Bucks (2), Cleveland Cavaliers (1), Washington Wizards (1), Atlanta Hawks (1), Oklahoma Trail Thunder (1), Portland Blazers. (2), Baltimore Bullets (1), Dallas Mavericks (1), Toronto Raptors (1), Denver Nuggets (1) e Rochester Royals (1)</desc><title>NBA: Miami Heat-Detroit Pistons</title></programme>
 <programme start="20260309033000 +0300" stop="20260309053000 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Lega calcio EFBET: Turno 25: Dobrugia – Beroe</title></programme>
 <programme start="20260309053000 +0300" stop="20260309080000 +0300" channel="diema-sport-1"><desc>Rompere Diema Sport</desc><title>Rottura</title></programme>
@@ -11533,30 +11512,16 @@
 <programme start="20260313154500 +0300" stop="20260313161500 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Classici del primo campionato professionistico: Pirin – CSKA</title></programme>
 <programme start="20260313161500 +0300" stop="20260313171500 +0300" channel="diema-sport-1"><desc>La panoramica del turno attuale della Prima Lega include resoconti estesi di tutte le partite. I momenti più belli, i gol, le situazioni controverse e tutti i momenti che preoccupano i tifosi vengono analizzati e commentati in studio da giornalisti ed esperti</desc><title>EFBET Football League: prima del turno</title></programme>
 <programme start="20260313171500 +0300" stop="20260313174500 +0300" channel="diema-sport-1"><desc>Prima di ogni partita del tour, gli spettatori possono immergersi nello spettacolo, che inizia con la presentazione dell'atmosfera, delle emozioni e delle aspettative prima delle partite. Inoltre, i tifosi hanno l'opportunità di prendere parte al “Our Game”, dove possono mettere alla prova la loro conoscenza del calcio bulgaro e vincere premi interessanti.</desc><title>Studio della lega di calcio EFBET</title></programme>
-<programme start="20260313174500 +0300" stop="20260313194000 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: EFBET Football League: Turno 26: Lokomotiv Plovdiv – settembre</title></programme>
+<programme start="20260313174500 +0300" stop="20260313194000 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Lega calcio EFBET: Turno 26: Lokomotiv Plovdiv – settembre</title></programme>
 <programme start="20260313194000 +0300" stop="20260313200000 +0300" channel="diema-sport-1"><desc>Prima di ogni partita del tour, gli spettatori possono immergersi nello spettacolo, che inizia con la presentazione dell'atmosfera, delle emozioni e delle aspettative prima delle partite. Inoltre, i tifosi hanno l'opportunità di prendere parte al “Our Game”, dove possono mettere alla prova la loro conoscenza del calcio bulgaro e vincere premi interessanti.</desc><title>Studio della lega di calcio EFBET</title></programme>
 <programme start="20260313200000 +0300" stop="20260313215500 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Primogenito della NFD e campione dichiarato di Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Campionato di calcio EFBET: Turno 26: Lokomotiv Sofia – Slavia</title></programme>
 <programme start="20260313215500 +0300" stop="20260313223000 +0300" channel="diema-sport-1"><desc>Prima di ogni partita del tour, gli spettatori possono immergersi nello spettacolo, che inizia con la presentazione dell'atmosfera, delle emozioni e delle aspettative prima delle partite. Inoltre, i tifosi hanno l'opportunità di prendere parte al “Our Game”, dove possono mettere alla prova la loro conoscenza del calcio bulgaro e vincere premi interessanti.</desc><title>Studio della lega di calcio EFBET</title></programme>
 <programme start="20260313223000 +0300" stop="20260313230000 +0300" channel="diema-sport-1"><desc>Lo spettacolo presenta le ultime notizie, analisi e commenti NBA che coprono le ultime partite, statistiche e tendenze in tutto il campionato. Lo spettacolo offre uno sguardo approfondito sulle prestazioni dei giocatori bulgari nella NBA, oltre a interviste con esperti ed ex giocatori di basket</desc><title>Diario dell'NBA</title></programme>
 <programme start="20260313230000 +0300" stop="20260314010000 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Lega calcio EFBET: Turno 25: Botev Vratsa – Arda</title></programme>
 <programme start="20260314010000 +0300" stop="20260314030000 +0300" channel="diema-sport-1"><desc>La Seconda Lega di Calcio Professionale è la seconda divisione del campionato di calcio bulgaro, organizzato dalla Federcalcio bulgara e dalla Lega di calcio professionistica</desc><title>Calcio: Mister Beat Seconda Lega: Turno 23: Vihren – Belasitsa</title></programme>
-<programme start="20260314030000 +0300" stop="20260314050000 +0300" channel="diema-sport-1"><desc>Fondata nel 2006, la Super League greca è diventata il motore dello sviluppo del calcio nel paese. Essendo un calcio professionistico di altissimo livello, attira l'attenzione sia dei tifosi nazionali che internazionali. Il successo in Super League apre le porte a prestigiose competizioni europee per club, dove le squadre greche hanno la possibilità di mettersi alla prova contro le migliori squadre d'Europa</desc><title>Calcio: Superlega Greca: Turno 24: AEK – AEL</title></programme>
+<programme start="20260314030000 +0300" stop="20260314050000 +0300" channel="diema-sport-1"><desc>Fondata nel 2006, la Super League greca è diventata il motore dello sviluppo del calcio nel paese. Essendo un calcio professionistico di altissimo livello, attira l'attenzione dei tifosi nazionali e internazionali. Il successo in Super League apre le porte a prestigiose competizioni europee per club, dove le squadre greche hanno la possibilità di mettersi alla prova contro le migliori squadre d'Europa</desc><title>Calcio: Super League greca: Turno 24: AEK – AEL</title></programme>
 <programme start="20260314050000 +0300" stop="20260314074500 +0300" channel="diema-sport-1"><desc>Rompere Diema Sport</desc><title>Rottura</title></programme>
-<programme start="20260314074500 +0300" stop="20260314084500 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: EFBET Football League: Turno 26: Lokomotiv Plovdiv – settembre</title></programme>
-<programme start="20260304210000 +0300" stop="20260304220000 +0300" channel="diema-sport-2"><title>Premier League inglese, turno 28, serie 2025/26 English Football Show</title></programme>
-<programme start="20260304220000 +0300" stop="20260304223000 +0300" channel="diema-sport-2"><title>Studio APL diretto</title></programme>
-<programme start="20260304223000 +0300" stop="20260305002500 +0300" channel="diema-sport-2"><title>⋗ Brighton &amp; Hove Albion-Arsenal, turno 29, calcio: Premier League 2025/26</title></programme>
-<programme start="20260305002500 +0300" stop="20260305005500 +0300" channel="diema-sport-2"><title>Studio APL diretto</title></programme>
-<programme start="20260305005500 +0300" stop="20260305030000 +0300" channel="diema-sport-2"><title>Fulham – West Ham United, giornata 29, Calcio: Premier League 2025/26</title></programme>
-<programme start="20260305030000 +0300" stop="20260305033000 +0300" channel="diema-sport-2"><title>Storie della Premier League30 episodi di spettacolo di calcio inglese 2025/26</title></programme>
-<programme start="20260305033000 +0300" stop="20260305043000 +0300" channel="diema-sport-2"><title>Birmingham City - MiddlesbroughTour 35, Calcio. Inghilterra. Campionato 2025/26</title></programme>
-<programme start="20260305053000 +0300" stop="20260305083000 +0300" channel="diema-sport-2"><desc>Rompi Dima Sport 2</desc><title>Rottura</title></programme>
-<programme start="20260305083000 +0300" stop="20260305103000 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premier League, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. sottomarino nucleare Round 29: Leeds United – Sunderland</title></programme>
-<programme start="20260305103000 +0300" stop="20260305113000 +0300" channel="diema-sport-2"><desc>Il programma di commento e revisione Premier League Talkshow è dedicato agli argomenti di discussione delle ultime partite giocate nella Premier League inglese. Saranno rami di leader? hanno avuto luogo grandi derby, il comportamento di alcune stelle, la caduta di alcune grandi squadre o forse alcune scandalose decisioni arbitrali: tutto questo potrebbe essere il tema dello spettacolo</desc><title>Talk-show della Premier League</title></programme>
-<programme start="20260305113000 +0300" stop="20260305133000 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premiership, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. sottomarino nucleare Turno 29: Manchester City – Nottingham Forest</title></programme>
-<programme start="20260305133000 +0300" stop="20260305153000 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premier League, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. APL. Turno 29: Brighton &amp; Hove Albion – Arsenal</title></programme>
-<programme start="20260305153000 +0300" stop="20260305173000 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premier League, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. sottomarino nucleare Round 29: Fulham – West Ham United</title></programme>
-<programme start="20260305173000 +0300" stop="20260305193000 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premier League, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. sottomarino nucleare Round 29: Newcastle United – Manchester United</title></programme>
+<programme start="20260314074500 +0300" stop="20260314084500 +0300" channel="diema-sport-1"><desc>Il campionato di calcio bulgaro si svolge dal 1924 con eliminazione diretta e dal 1948 sotto forma di campionato unico. I tentativi di formare un campionato di primo livello del calcio bulgaro furono fatti prima del 1948. Tra il 1937 e il 1940, la Bulgaria creò la Divisione Nazionale di Calcio (NFD) con 10 squadre che giocavano l'una contro l'altra a scambi durante una stagione. Il campione NFD è stato dichiarato campione della Bulgaria. È importante notare che A RFG, Premier League, A PFG e l'attuale Prima Lega sono accettate dalla storia e dalle statistiche del calcio come il primo livello del campionato bulgaro dal 1948 ad oggi, la divisione in cui competono i nostri club più forti. Allo stesso tempo, la NFD fu parte integrante del campionato statale fino al 1944 e tre delle sue edizioni non facevano parte del Gruppo A</desc><title>Calcio: Lega calcio EFBET: Turno 26: Lokomotiv Plovdiv – settembre</title></programme>
 <programme start="20260305193000 +0300" stop="20260305200000 +0300" channel="diema-sport-2"><desc>Spettacolo di revisione della Ligue 1 in Francia: highlights, analisi e pronostici per le prossime partite. Il programma prevede interviste esclusive con giocatori e allenatori, notizie di attualità e statistiche che immergeranno gli spettatori nell'atmosfera del campionato francese</desc><title>Lega 1: Prima del tour</title></programme>
 <programme start="20260305200000 +0300" stop="20260305210000 +0300" channel="diema-sport-2"><desc>Lo spettacolo presenta agli spettatori un riassunto dell'intera settimana, oltre agli argomenti più interessanti, momenti comici, analisi e commenti</desc><title>Azione NBA</title></programme>
 <programme start="20260305210000 +0300" stop="20260305213000 +0300" channel="diema-sport-2"><desc>Ascolta interessanti interviste con i più grandi nomi della Premier League. Scopri tutto sui pensieri di questi famosi calciatori, il loro approccio al gioco, i progetti per il futuro e molto altro ancora!</desc><title>Premier League: grande intervista</title></programme>
@@ -11574,7 +11539,7 @@
 <programme start="20260306113000 +0300" stop="20260306133000 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premier League, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. sottomarino nucleare Round 29: Newcastle United – Manchester United</title></programme>
 <programme start="20260306133000 +0300" stop="20260306143000 +0300" channel="diema-sport-2"><desc>Il programma di commento e revisione Premier League Talkshow è dedicato agli argomenti di discussione delle ultime partite giocate nella Premier League inglese. Saranno rami di leader? hanno avuto luogo grandi derby, il comportamento di alcune stelle, la caduta di alcune grandi squadre o forse alcune scandalose decisioni arbitrali: tutto questo potrebbe essere il tema dello spettacolo</desc><title>Talk-show della Premier League</title></programme>
 <programme start="20260306143000 +0300" stop="20260306163000 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premier League, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. sottomarino nucleare Round 29: Aston Villa – Chelsea</title></programme>
-<programme start="20260306163000 +0300" stop="20260306170000 +0300" channel="diema-sport-2"><desc>Tutti i gol e i momenti chiave da diversi punti di vista, con replay e commenti dei massimi esperti del calcio inglese in Bulgaria: Borislav Borisov, Viktor Vrachev e Ilya Atanasov</desc><title>Per sfondare la rete</title></programme>
+<programme start="20260306163000 +0300" stop="20260306170000 +0300" channel="diema-sport-2"><desc>Tutti i gol e i momenti chiave da diversi punti di vista, con replay e commenti dei maggiori esperti del calcio inglese in Bulgaria: Borislav Borisov, Viktor Vrachev e Ilya Atanasov</desc><title>Per sfondare la rete</title></programme>
 <programme start="20260306170000 +0300" stop="20260306190000 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premier League, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. sottomarino nucleare Round 29: Tottenham Hotspur – Crystal Palace – stagione 29 – p. 29</title></programme>
 <programme start="20260306190000 +0300" stop="20260306200000 +0300" channel="diema-sport-2"><desc>Uno spettacolo di rassegna della Premier League inglese, in cui per 60 minuti vengono presentate tutte le cose più interessanti dell'ultimo turno di uno dei campionati di calcio più forti al mondo. Tutti i gol, le situazioni controverse, le partite brillanti e le svolte inaspettate degli eventi</desc><title>Recensione del tour della Premier League inglese</title></programme>
 <programme start="20260306200000 +0300" stop="20260306203000 +0300" channel="diema-sport-2"><desc>Recensione della FA Cup che copre i momenti salienti del torneo: risultati, grandi vittorie, uscite a sorpresa e partite emozionanti</desc><title>Turno preliminare della FA Cup</title></programme>
@@ -11582,7 +11547,7 @@
 <programme start="20260306224500 +0300" stop="20260306230000 +0300" channel="diema-sport-2"><desc>Analisi approfondita e commenti di esperti sul torneo di FA Cup. Consideriamo le tattiche, la forma della squadra e i giocatori chiave</desc><title>Studio della Coppa d'Inghilterra</title></programme>
 <programme start="20260306230000 +0300" stop="20260307005500 +0300" channel="diema-sport-2"><desc>La Football Association Challenge Cup, meglio conosciuta come FA Cup, è un torneo ad eliminazione diretta del calcio inglese. Il nome FA Cup si riferisce al torneo di calcio maschile inglese. Una competizione simile per le donne è chiamata Women's FA Cup. La FA Cup è la competizione calcistica più antica del mondo. Ha avuto inizio il 20 luglio 1871 a Londra e lo scopo della competizione era coinvolgere tutti i club membri della federazione. Alla prima competizione hanno preso parte 15 squadre. La FA Cup è giocata da tutte le squadre fino al nono livello del calcio inglese, così come da alcune squadre fino al 10° livello. Nella stagione 2011/12 hanno preso parte un numero record di 763 club. Nel corso degli anni, la partecipazione delle squadre delle serie inferiori ha portato a vittorie sensazionali sui grandi club, anche se raramente i club delle serie inferiori raggiungono la finale del torneo.</desc><title>Calcio: FA Cup: Turno 5: Wolverhampton Wanderers – Liverpool</title></programme>
 <programme start="20260307005500 +0300" stop="20260307011500 +0300" channel="diema-sport-2"><desc>Analisi approfondita e commenti di esperti sul torneo di FA Cup. Consideriamo le tattiche, la forma della squadra e i giocatori chiave</desc><title>Studio della Coppa d'Inghilterra</title></programme>
-<programme start="20260307011500 +0300" stop="20260307014500 +0300" channel="diema-sport-2"><desc>Tutti i gol e i momenti chiave da diversi punti di vista, con replay e commenti dei massimi esperti del calcio inglese in Bulgaria: Borislav Borisov, Viktor Vrachev e Ilya Atanasov</desc><title>Per sfondare la rete</title></programme>
+<programme start="20260307011500 +0300" stop="20260307014500 +0300" channel="diema-sport-2"><desc>Tutti i gol e i momenti chiave da diversi punti di vista, con replay e commenti dei maggiori esperti del calcio inglese in Bulgaria: Borislav Borisov, Viktor Vrachev e Ilya Atanasov</desc><title>Per sfondare la rete</title></programme>
 <programme start="20260307014500 +0300" stop="20260307034500 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premiership, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. sottomarino nucleare Turno 29: Manchester City – Nottingham Forest</title></programme>
 <programme start="20260307034500 +0300" stop="20260307044500 +0300" channel="diema-sport-2"><desc>Uno spettacolo di rassegna della Premier League inglese, in cui per 60 minuti vengono presentate tutte le cose più interessanti dell'ultimo turno di uno dei campionati di calcio più forti al mondo. Tutti i gol, le situazioni controverse, le partite brillanti e le svolte inaspettate degli eventi</desc><title>Recensione del tour della Premier League inglese</title></programme>
 <programme start="20260307044500 +0300" stop="20260307064500 +0300" channel="diema-sport-2"><desc>La Premier League inglese, conosciuta anche come Premier League o Premier League, è la massima divisione del calcio inglese. La Premier League è la lega sportiva più popolare e il campionato più ricco del mondo. La competizione fu fondata nel 1888 come Prima Divisione e trasformata in Premier League nel 1992. I fondatori della Prima Divisione nel 1888 furono Accrington, Aston Villa, Blackburn, Bolton, Burnley, Darby, Everton, Wolverhampton, Stoke, West Bromwich, Notts e Preston. Le squadre di maggior successo sono: Manchester United, Liverpool, Arsenal, Everton, Manchester C, Aston Villa, Sunderland e Chelsea.</desc><title>Calcio. sottomarino nucleare Round 29: Fulham – West Ham United</title></programme>
@@ -11611,7 +11576,7 @@
 <programme start="20260308134500 +0300" stop="20260308141500 +0300" channel="diema-sport-2"><desc>Spettacolo di rassegna del torneo di FA Cup con enfasi sui momenti e sulle partite più interessanti</desc><title>FA Cup: revisione del turno parziale</title></programme>
 <programme start="20260308141500 +0300" stop="20260308163000 +0300" channel="diema-sport-2"><desc>La Lega Spagnola di Pallacanestro è stata fondata nel 1957 come Lega Nazionale e ha ricevuto la sua forma attuale nel 1983, quando l'organizzazione ACB ha preso il controllo della competizione. In termini di prestazioni, l'ASV League è uno dei tre migliori campionati d'Europa. Attualmente ci sono 18 squadre nel campionato che si affrontano due volte a stagione. La squadra con più titoli vinti è il Real Madrid, seguita dal Barcellona. Il campionato spagnolo ci ha regalato alcuni dei più grandi giocatori e allenatori del mondo di sempre.</desc><title>Basket: Liga Endesa: Turno 21: Rio Breogan - Barcellona</title></programme>
 <programme start="20260308163000 +0300" stop="20260308183000 +0300" channel="diema-sport-2"><desc>La Football Association Challenge Cup, meglio conosciuta come FA Cup, è un torneo ad eliminazione diretta del calcio inglese. Il nome FA Cup si riferisce al torneo di calcio maschile inglese. Una competizione simile per le donne è chiamata Women's FA Cup. La FA Cup è la competizione calcistica più antica del mondo. Ha avuto inizio il 20 luglio 1871 a Londra e lo scopo della competizione era coinvolgere tutti i club membri della federazione. Alla prima competizione hanno preso parte 15 squadre. La FA Cup è giocata da tutte le squadre fino al nono livello del calcio inglese, così come da alcune squadre fino al 10° livello. Nella stagione 2011/12 hanno preso parte un numero record di 763 club. Nel corso degli anni, la partecipazione delle squadre delle serie inferiori ha portato a vittorie sensazionali sui grandi club, anche se raramente i club delle serie inferiori raggiungono la finale del torneo.</desc><title>Calcio: FA Cup: Turno 5: Port Vale – Sunderland</title></programme>
-<programme start="20260308183000 +0300" stop="20260308184500 +0300" channel="diema-sport-2"><desc>Tutti i gol e i momenti chiave da diversi punti di vista, con replay e commenti dei massimi esperti del calcio inglese in Bulgaria: Borislav Borisov, Viktor Vrachev e Ilya Atanasov</desc><title>Per sfondare la rete</title></programme>
+<programme start="20260308183000 +0300" stop="20260308184500 +0300" channel="diema-sport-2"><desc>Tutti i gol e i momenti chiave da diversi punti di vista, con replay e commenti dei maggiori esperti del calcio inglese in Bulgaria: Borislav Borisov, Viktor Vrachev e Ilya Atanasov</desc><title>Per sfondare la rete</title></programme>
 <programme start="20260308184500 +0300" stop="20260308193000 +0300" channel="diema-sport-2"><desc>Analisi approfondita e commenti di esperti sul torneo di FA Cup. Consideriamo le tattiche, la forma della squadra e i giocatori chiave</desc><title>Studio della Coppa d'Inghilterra</title></programme>
 <programme start="20260308193000 +0300" stop="20260308212500 +0300" channel="diema-sport-2"><desc>La Football Association Challenge Cup, meglio conosciuta come FA Cup, è un torneo ad eliminazione diretta del calcio inglese. Il nome FA Cup si riferisce al torneo di calcio maschile inglese. Una competizione simile per le donne è chiamata Women's FA Cup. La FA Cup è la competizione calcistica più antica del mondo. Ha avuto inizio il 20 luglio 1871 a Londra e lo scopo della competizione era coinvolgere tutti i club membri della federazione. Alla prima competizione hanno preso parte 15 squadre. La FA Cup è giocata da tutte le squadre fino al nono livello del calcio inglese, così come da alcune squadre fino al 10° livello. Nella stagione 2011/12 hanno preso parte un numero record di 763 club. Nel corso degli anni, la partecipazione delle squadre delle serie inferiori ha portato a vittorie sensazionali sui grandi club, anche se raramente i club delle serie inferiori raggiungono la finale del torneo.</desc><title>Calcio: FA Cup: Turno 5: Leeds United – Norwich City</title></programme>
 <programme start="20260308212500 +0300" stop="20260308220000 +0300" channel="diema-sport-2"><desc>Analisi approfondita e commenti di esperti sul torneo di FA Cup. Consideriamo le tattiche, la forma della squadra e i giocatori chiave</desc><title>Studio della Coppa d'Inghilterra</title></programme>
@@ -11661,7 +11626,7 @@
 <programme start="20260311210000 +0300" stop="20260311230000 +0300" channel="diema-sport-2"><desc>Il Campionato è il secondo livello del calcio inglese. È composto da 24 squadre. Le prime due squadre al tavolo finale vanno direttamente in Premier League, le restanti squadre fino al sesto posto giocano ai playoff per l'ingresso. Retrocedono in Prima Lega le ultime tre squadre in classifica</desc><title>Calcio. Inghilterra. Campionato: Turno 37: Stoke City – Ipswich Tau</title></programme>
 <programme start="20260311230000 +0300" stop="20260312010000 +0300" channel="diema-sport-2"><desc>Il Campionato è il secondo livello del calcio inglese. È composto da 24 squadre. Le prime due squadre al tavolo finale vanno direttamente in Premier League, le restanti squadre fino al sesto posto giocano ai playoff per l'ingresso. Retrocedono in Prima Lega le ultime tre squadre in classifica</desc><title>Calcio. Inghilterra. Campionato: Round 37: Coventry City – Preston North End</title></programme>
 <programme start="20260312010000 +0300" stop="20260312013000 +0300" channel="diema-sport-2"><desc>Lo spettacolo presenta le storie più emozionanti del mondo della Premier League inglese</desc><title>Storie della Premier League</title></programme>
-<programme start="20260312013000 +0300" stop="20260312033000 +0300" channel="diema-sport-2"><desc>La Lega 1 è la terza lega di calcio più forte in Inghilterra. Si tratta di un passo importante per i club che mirano a raggiungere l'élite del calcio inglese. La Ligue 1 comprende squadre con una ricca storia e ambizioni che lottano per la promozione in campionato e per mantenere il loro posto nella divisione</desc><title>Calcio: Premier League: Ottavi di finale: Wimbledon – Northampton Mountain</title></programme>
+<programme start="20260312013000 +0300" stop="20260312033000 +0300" channel="diema-sport-2"><desc>La Lega 1 è la terza lega di calcio più forte in Inghilterra. Si tratta di un passo importante per i club che mirano a raggiungere l'élite del calcio inglese. La Ligue 1 comprende squadre con una ricca storia e ambizioni che lottano per la promozione in campionato, oltre che per mantenere il loro posto nella divisione</desc><title>Calcio: Premier League: Ottavi di finale: Wimbledon – Northampton Mountain</title></programme>
 <programme start="20260312033000 +0300" stop="20260312043000 +0300" channel="diema-sport-2"><desc>Rompi Dima Sport 2</desc><title>Rottura</title></programme>
 <programme start="20260312083000 +0300" stop="20260312090000 +0300" channel="diema-sport-2"><desc>Lo spettacolo presenta le storie più emozionanti del mondo della Premier League inglese</desc><title>Storie della Premier League</title></programme>
 <programme start="20260312090000 +0300" stop="20260312113000 +0300" channel="diema-sport-2"><desc>La National Basketball Association (NBA), abbreviata in NBA, è la lega di basket professionistica maschile più prestigiosa al mondo e una delle quattro principali leghe sportive professionistiche del Nord America. È stata fondata il 6 giugno 1946 a New York City con il nome di American Basketball Association (ABA). Ha ricevuto un nuovo nome nell'autunno del 1949 dopo una fusione con la US National Basketball League (NBL). Due delle squadre di maggior successo della NBA sono i Los Angeles Lakers e i Boston Celtics, che hanno vinto il titolo 17 volte ciascuna. Altre squadre campione includono: Golden State Warriors (7), Chicago Bulls (6), San Antonio Spurs (5), Philadelphia 76ers (7), Detroit Pistons (3), Miami Heat (3), New York Knicks (2), Houston Rockets (2), Milwaukee Bucks (2), Cleveland Cavaliers (1), Washington Wizards (1), Atlanta Hawks (1), Oklahoma Trail Thunder (1), Portland Blazers. (2), Baltimore Bullets (1), Dallas Mavericks (1), Toronto Raptors (1), Denver Nuggets (1) e Rochester Royals (1)</desc><title>NBA: Los Angeles Clippers-New York Knicks</title></programme>
@@ -11691,41 +11656,26 @@
 <programme start="20260314030000 +0300" stop="20260314050000 +0300" channel="diema-sport-2"><desc>Il Campionato è il secondo livello del calcio inglese. È composto da 24 squadre. Le prime due squadre al tavolo finale vanno direttamente in Premier League, le restanti squadre fino al sesto posto giocano ai playoff per l'ingresso. Retrocedono in Prima Lega le ultime tre squadre in classifica</desc><title>Calcio. Inghilterra. Campionato: Turno 37: Stoke City – Ipswich Tau</title></programme>
 <programme start="20260314050000 +0300" stop="20260314080000 +0300" channel="diema-sport-2"><desc>Rompi Dima Sport 2</desc><title>Rottura</title></programme>
 <programme start="20260314080000 +0300" stop="20260314090000 +0300" channel="diema-sport-2"><desc>Il Campionato è il secondo livello del calcio inglese. È composto da 24 squadre. Le prime due squadre al tavolo finale vanno direttamente in Premier League, le restanti squadre fino al sesto posto giocano ai playoff per l'ingresso. Retrocedono in Prima Lega le ultime tre squadre in classifica</desc><title>Calcio. Inghilterra. Campionato: Round 37: Coventry City – Preston North End</title></programme>
-<programme start="20260304213000 +0300" stop="20260304220000 +0300" channel="diema-sport-3"><title>Riservato da una puntata di Formula 11, trasmessa da Formula 1 2026</title></programme>
-<programme start="20260304220000 +0300" stop="20260304223000 +0300" channel="diema-sport-3"><title>Studio APL diretto</title></programme>
-<programme start="20260304223000 +0300" stop="20260305002500 +0300" channel="diema-sport-3"><title>⋗ Aston Villa – Chelsea, turno 29, Calcio: Premier League 2025/26</title></programme>
-<programme start="20260305002500 +0300" stop="20260305005500 +0300" channel="diema-sport-3"><title>Studio APL diretto</title></programme>
-<programme start="20260305005500 +0300" stop="20260305030000 +0300" channel="diema-sport-3"><title>Amburgo – Bayer Leverkusen, 17° giornata, Calcio: Bundesliga 2025/26</title></programme>
-<programme start="20260305030000 +0300" stop="20260305040000 +0300" channel="diema-sport-3"><title>⋗ New York Knicks – Oklahoma City Thunder 2025/26 NBA Basket</title></programme>
-<programme start="20260305053000 +0300" stop="20260305063000 +0300" channel="diema-sport-3"><desc>Bundesliga Talk Show è uno spettacolo che offre conversazioni approfondite e analisi degli eventi più attuali della Bundesliga tedesca. I presentatori e gli esperti discutono i momenti chiave, le prestazioni delle squadre e le notizie sul campionato, offrendo commenti approfonditi e pronostici per le partite future</desc><title>Talk-show della Bundesliga</title></programme>
-<programme start="20260305063000 +0300" stop="20260305080000 +0300" channel="diema-sport-3"><desc>Rompere Diema Sport 3</desc><title>Rottura</title></programme>
-<programme start="20260305080000 +0300" stop="20260305100000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 24: Eintracht Francoforte – Friburgo</title></programme>
-<programme start="20260305100000 +0300" stop="20260305123000 +0300" channel="diema-sport-3"><desc>La National Basketball Association (NBA), abbreviata in NBA, è la lega di basket professionistica maschile più prestigiosa al mondo e una delle quattro principali leghe sportive professionistiche del Nord America. È stata fondata il 6 giugno 1946 a New York City con il nome di American Basketball Association (ABA). Ha ricevuto un nuovo nome nell'autunno del 1949 dopo una fusione con la US National Basketball League (NBL). Due delle squadre di maggior successo della NBA sono i Los Angeles Lakers e i Boston Celtics, che hanno vinto il titolo 17 volte ciascuna. Altre squadre campione includono: Golden State Warriors (7), Chicago Bulls (6), San Antonio Spurs (5), Philadelphia 76ers (7), Detroit Pistons (3), Miami Heat (3), New York Knicks (2), Houston Rockets (2), Milwaukee Bucks (2), Cleveland Cavaliers (1), Washington Wizards (1), Atlanta Hawks (1), Oklahoma Trail Thunder (1), Portland Blazers. (2), Baltimore Bullets (1), Dallas Mavericks (1), Toronto Raptors (1), Denver Nuggets (1) e Rochester Royals (1)</desc><title>NBA: Milwaukee Bucks-Boston Celtics</title></programme>
-<programme start="20260305123000 +0300" stop="20260305150000 +0300" channel="diema-sport-3"><desc>La National Basketball Association (NBA), abbreviata in NBA, è la lega di basket professionistica maschile più prestigiosa al mondo e una delle quattro principali leghe sportive professionistiche del Nord America. È stata fondata il 6 giugno 1946 a New York City con il nome di American Basketball Association (ABA). Ha ricevuto un nuovo nome nell'autunno del 1949 dopo una fusione con la US National Basketball League (NBL). Due delle squadre di maggior successo della NBA sono i Los Angeles Lakers e i Boston Celtics, che hanno vinto il titolo 17 volte ciascuna. Altre squadre campione includono: Golden State Warriors (7), Chicago Bulls (6), San Antonio Spurs (5), Philadelphia 76ers (7), Detroit Pistons (3), Miami Heat (3), New York Knicks (2), Houston Rockets (2), Milwaukee Bucks (2), Cleveland Cavaliers (1), Washington Wizards (1), Atlanta Hawks (1), Oklahoma Trail Thunder (1), Portland Blazers. (2), Baltimore Bullets (1), Dallas Mavericks (1), Toronto Raptors (1), Denver Nuggets (1) e Rochester Royals (1)</desc><title>NBA: Philadelphia 76ers-San Antonio Spurs</title></programme>
-<programme start="20260305150000 +0300" stop="20260305173000 +0300" channel="diema-sport-3"><desc>La National Basketball Association (NBA), abbreviata in NBA, è la lega di basket professionistica maschile più prestigiosa al mondo e una delle quattro principali leghe sportive professionistiche del Nord America. È stata fondata il 6 giugno 1946 a New York City con il nome di American Basketball Association (ABA). Ha ricevuto un nuovo nome nell'autunno del 1949 dopo una fusione con la US National Basketball League (NBL). Due delle squadre di maggior successo della NBA sono i Los Angeles Lakers e i Boston Celtics, che hanno vinto il titolo 17 volte ciascuna. Altre squadre campione includono: Golden State Warriors (7), Chicago Bulls (6), San Antonio Spurs (5), Philadelphia 76ers (7), Detroit Pistons (3), Miami Heat (3), New York Knicks (2), Houston Rockets (2), Milwaukee Bucks (2), Cleveland Cavaliers (1), Washington Wizards (1), Atlanta Hawks (1), Oklahoma Trail Thunder (1), Portland Blazers. (2), Baltimore Bullets (1), Dallas Mavericks (1), Toronto Raptors (1), Denver Nuggets (1) e Rochester Royals (1)</desc><title>NBA: New York Knicks-Oklahoma City Thunder</title></programme>
-<programme start="20260305173000 +0300" stop="20260305183000 +0300" channel="diema-sport-3"><desc>Bundesliga Talk Show è uno spettacolo che offre conversazioni approfondite e analisi degli eventi più attuali della Bundesliga tedesca. I presentatori e gli esperti discutono i momenti chiave, le prestazioni delle squadre e le notizie sul campionato, offrendo commenti approfonditi e pronostici per le partite future</desc><title>Talk-show della Bundesliga</title></programme>
-<programme start="20260305183000 +0300" stop="20260305190000 +0300" channel="diema-sport-3"><desc>Bundesliga Weekly è uno spettacolo che fornisce una panoramica dettagliata degli eventi dell'ultimo turno del campionato di calcio tedesco, con analisi dei momenti importanti, commenti degli esperti e highlights delle partite più memorabili</desc><title>Settimanale della Bundesliga</title></programme>
-<programme start="20260305190000 +0300" stop="20260305210000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 17: Amburgo – Bayer Leverkue</title></programme>
 <programme start="20260305210000 +0300" stop="20260305220000 +0300" channel="diema-sport-3"><desc>Uno spettacolo panoramico che copre il fine settimana di gara di Formula 1: dalle prove libere, alle qualifiche fino alla gara stessa. Analizza le prestazioni dei team, le loro sfide tecniche, le decisioni chiave e i punti di forza, nonché il comportamento dei piloti in pista</desc><title>Talk-show di Formula 1</title></programme>
 <programme start="20260305220000 +0300" stop="20260305234500 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 24: Hoffenheim – St. Pauli</title></programme>
 <programme start="20260305234500 +0300" stop="20260306001500 +0300" channel="diema-sport-3"><desc>Bundesliga Weekly è uno spettacolo che fornisce una panoramica dettagliata degli eventi dell'ultimo turno del campionato di calcio tedesco, con analisi dei momenti importanti, commenti degli esperti e highlights delle partite più memorabili</desc><title>Settimanale della Bundesliga</title></programme>
 <programme start="20260306001500 +0300" stop="20260306005000 +0300" channel="diema-sport-3"><desc>In onda tutte le cose più interessanti accadute negli ultimi giorni in Formula 1</desc><title>Formula 1 in segreto</title></programme>
 <programme start="20260306005000 +0300" stop="20260306020000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più spettacolari del campionato di Formula 3. Si svolge sul famoso circuito Albert Park di Melbourne e attira l'attenzione con avvincenti gare tra giovani piloti. Questa gara è un'opportunità per i nuovi talenti di mostrare le proprie capacità, offrendo un'esperienza indimenticabile per gli appassionati di sport motoristici</desc><title>Formula 3: Gran Premio d'Australia: Round 1: prove libere</title></programme>
-<programme start="20260306020000 +0300" stop="20260306030000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: prove libere</title></programme>
+<programme start="20260306020000 +0300" stop="20260306030000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: prove libere</title></programme>
 <programme start="20260306030000 +0300" stop="20260306033000 +0300" channel="diema-sport-3"><desc>Lo spettacolo presenta le ultime notizie, analisi e commenti NBA che coprono le ultime partite, statistiche e tendenze in tutto il campionato. Lo spettacolo offre uno sguardo approfondito sulle prestazioni dei giocatori bulgari nella NBA, oltre a interviste con esperti ed ex giocatori di basket</desc><title>Diario dell'NBA</title></programme>
 <programme start="20260306033000 +0300" stop="20260306043000 +0300" channel="diema-sport-3"><desc>Uno spettacolo panoramico che copre il fine settimana di gara di Formula 1: dalle prove libere, alle qualifiche fino alla gara stessa. Analizza le prestazioni dei team, le loro sfide tecniche, le decisioni chiave e i punti di forza, nonché il comportamento dei piloti in pista</desc><title>Talk-show di Formula 1</title></programme>
 <programme start="20260306043000 +0300" stop="20260306060000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: prime prove libere</title></programme>
 <programme start="20260306060000 +0300" stop="20260306063000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più spettacolari del campionato di Formula 3. Si svolge sul famoso circuito Albert Park di Melbourne e attira l'attenzione con avvincenti gare tra giovani piloti. Questa gara è un'opportunità per i nuovi talenti di mostrare le proprie capacità, offrendo un'esperienza indimenticabile per gli appassionati di sport motoristici</desc><title>Formula 3: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
 <programme start="20260306063000 +0300" stop="20260306065500 +0300" channel="diema-sport-3"><desc>Il Formula 2 Reviews Studio offre analisi, commenti e interviste relativi alle corse. Viene trasmesso prima e dopo l'inizio della partita, concentrandosi sui momenti chiave</desc><title>Studio Formula 2</title></programme>
-<programme start="20260306065500 +0300" stop="20260306073000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
+<programme start="20260306065500 +0300" stop="20260306073000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
 <programme start="20260306073000 +0300" stop="20260306080000 +0300" channel="diema-sport-3"><desc>Il Formula 2 Reviews Studio offre analisi, commenti e interviste relativi alle corse. Viene trasmesso prima e dopo l'inizio della partita, concentrandosi sui momenti chiave</desc><title>Studio Formula 2</title></programme>
 <programme start="20260306080000 +0300" stop="20260306090000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: seconde prove libere</title></programme>
 <programme start="20260306090000 +0300" stop="20260306110000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 17: Amburgo – Bayer Leverkue</title></programme>
 <programme start="20260306110000 +0300" stop="20260306120000 +0300" channel="diema-sport-3"><desc>Bundesliga Talk Show è uno spettacolo che offre conversazioni approfondite e analisi degli eventi più attuali della Bundesliga tedesca. I presentatori e gli esperti discutono i momenti chiave, le prestazioni delle squadre e le notizie sul campionato, offrendo commenti approfonditi e pronostici per le partite future</desc><title>Talk-show della Bundesliga</title></programme>
 <programme start="20260306120000 +0300" stop="20260306125000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più spettacolari del campionato di Formula 3. Si svolge sul famoso circuito Albert Park di Melbourne e attira l'attenzione con avvincenti gare tra giovani piloti. Questa gara è un'opportunità per i nuovi talenti di mostrare le proprie capacità, offrendo un'esperienza indimenticabile per gli appassionati di sport motoristici</desc><title>Formula 3: Gran Premio d'Australia: Round 1: prove libere</title></programme>
 <programme start="20260306125000 +0300" stop="20260306133000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più spettacolari del campionato di Formula 3. Si svolge sul famoso circuito Albert Park di Melbourne e attira l'attenzione con avvincenti gare tra giovani piloti. Questa gara è un'opportunità per i nuovi talenti di mostrare le proprie capacità, offrendo un'esperienza indimenticabile per gli appassionati di sport motoristici</desc><title>Formula 3: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
-<programme start="20260306133000 +0300" stop="20260306142000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: prove libere</title></programme>
-<programme start="20260306142000 +0300" stop="20260306150000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
+<programme start="20260306133000 +0300" stop="20260306142000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: prove libere</title></programme>
+<programme start="20260306142000 +0300" stop="20260306150000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
 <programme start="20260306150000 +0300" stop="20260306161500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: prime prove libere</title></programme>
 <programme start="20260306161500 +0300" stop="20260306173000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: seconde prove libere</title></programme>
 <programme start="20260306173000 +0300" stop="20260306183000 +0300" channel="diema-sport-3"><desc>Uno spettacolo panoramico che copre il fine settimana di gara di Formula 1: dalle prove libere, alle qualifiche fino alla gara stessa. Analizza le prestazioni dei team, le loro sfide tecniche, le decisioni chiave e i punti di forza, nonché il comportamento dei piloti in pista</desc><title>Talk-show di Formula 1</title></programme>
@@ -11740,7 +11690,7 @@
 <programme start="20260307040000 +0300" stop="20260307043000 +0300" channel="diema-sport-3"><desc>Bundesliga Weekly è uno spettacolo che fornisce una panoramica dettagliata degli eventi dell'ultimo turno del campionato di calcio tedesco, con analisi dei momenti importanti, commenti degli esperti e highlights delle partite più memorabili</desc><title>Settimanale della Bundesliga</title></programme>
 <programme start="20260307043000 +0300" stop="20260307053000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: Terze prove libere</title></programme>
 <programme start="20260307053000 +0300" stop="20260307061000 +0300" channel="diema-sport-3"><desc>Il Formula 2 Reviews Studio offre analisi, commenti e interviste relativi alle corse. Viene trasmesso prima e dopo l'inizio della partita, concentrandosi sui momenti chiave</desc><title>Studio Formula 2</title></programme>
-<programme start="20260307061000 +0300" stop="20260307065500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Fase 1: Sprint</title></programme>
+<programme start="20260307061000 +0300" stop="20260307065500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Fase 1: Sprint</title></programme>
 <programme start="20260307065500 +0300" stop="20260307073000 +0300" channel="diema-sport-3"><desc>Il Formula 2 Reviews Studio offre analisi, commenti e interviste relativi alle corse. Viene trasmesso prima e dopo l'inizio della partita, concentrandosi sui momenti chiave</desc><title>Studio Formula 2</title></programme>
 <programme start="20260307073000 +0300" stop="20260307080000 +0300" channel="diema-sport-3"><desc>Lo spettacolo offre uno sguardo completo agli eventi di corsa più prestigiosi. Ogni fine settimana analizzeremo le prove libere, le qualifiche e la gara stessa, evidenziando i momenti salienti, i problemi tecnici e le strategie di squadra e piloti. Aspettatevi commenti di esperti, analisi approfondite e interviste uniche con i partecipanti per tenervi aggiornati su tutti gli sviluppi nel mondo della Formula 1</desc><title>Laboratorio di Formula 1</title></programme>
 <programme start="20260307080000 +0300" stop="20260307090000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
@@ -11748,7 +11698,7 @@
 <programme start="20260307093000 +0300" stop="20260307100000 +0300" channel="diema-sport-3"><desc>La trasmissione è dinamica e contiene un'analisi dettagliata degli highlights e degli eventi della Champions League asiatica. Ogni episodio esamina le partite, le tattiche di squadra e le impressionanti prestazioni individuali che definiscono la competizione nel calcio asiatico. Mette in evidenza le partite più emozionanti, discutendo risultati, giocatori di spicco, grandi vittorie e svolte drammatiche degli eventi. Inoltre, gli specialisti dello studio analizzano lo sviluppo delle squadre e i risultati dei calciatori, prestando attenzione ai dettagli tattici e ai momenti decisivi delle partite</desc><title>Champions League asiatica d'élite: recensione</title></programme>
 <programme start="20260307100000 +0300" stop="20260307103000 +0300" channel="diema-sport-3"><desc>Bundesliga Weekly è uno spettacolo che fornisce una panoramica dettagliata degli eventi dell'ultimo turno del campionato di calcio tedesco, con analisi dei momenti importanti, commenti degli esperti e highlights delle partite più memorabili</desc><title>Settimanale della Bundesliga</title></programme>
 <programme start="20260307103000 +0300" stop="20260307113000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più spettacolari del campionato di Formula 3. Si svolge sul famoso circuito Albert Park di Melbourne e attira l'attenzione con avvincenti gare tra giovani piloti. Questa gara è un'opportunità per i nuovi talenti di mostrare le proprie capacità, offrendo un'esperienza indimenticabile per gli appassionati di sport motoristici</desc><title>Formula 3: Gran Premio d'Australia: Fase 1: Sprint</title></programme>
-<programme start="20260307113000 +0300" stop="20260307123000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Fase 1: Sprint</title></programme>
+<programme start="20260307113000 +0300" stop="20260307123000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Fase 1: Sprint</title></programme>
 <programme start="20260307123000 +0300" stop="20260307134500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: Terze prove libere</title></programme>
 <programme start="20260307134500 +0300" stop="20260307150000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
 <programme start="20260307150000 +0300" stop="20260307170000 +0300" channel="diema-sport-3"><desc>La 2a Bundesliga è il secondo livello del calcio professionistico tedesco. Questo è al di sotto della Prima Bundesliga nel sistema calcistico tedesco</desc><title>Calcio: 2a Bundesliga: Turno 25: Darmstadt – Holstein Kiel</title></programme>
@@ -11764,7 +11714,7 @@
 <programme start="20260308020000 +0300" stop="20260308023000 +0300" channel="diema-sport-3"><desc>Lo spettacolo presenta le ultime notizie, analisi e commenti NBA che coprono le ultime partite, statistiche e tendenze in tutto il campionato. Lo spettacolo offre uno sguardo approfondito sulle prestazioni dei giocatori bulgari nella NBA, oltre a interviste con esperti ed ex giocatori di basket</desc><title>Diario dell'NBA</title></programme>
 <programme start="20260308023000 +0300" stop="20260308025500 +0300" channel="diema-sport-3"><desc>Spettacolo del campionato francese con interviste ai giocatori, quiz e anticipazioni delle prossime partite</desc><title>Lo spettacolo della Ligue 1</title></programme>
 <programme start="20260308025500 +0300" stop="20260308032500 +0300" channel="diema-sport-3"><desc>Il Formula 2 Reviews Studio offre analisi, commenti e interviste relativi alle corse. Viene trasmesso prima e dopo l'inizio della partita, concentrandosi sui momenti chiave</desc><title>Studio Formula 2</title></programme>
-<programme start="20260308032500 +0300" stop="20260308043000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Gara</title></programme>
+<programme start="20260308032500 +0300" stop="20260308043000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Gara</title></programme>
 <programme start="20260308043000 +0300" stop="20260308050000 +0300" channel="diema-sport-3"><desc>Il Formula 2 Reviews Studio offre analisi, commenti e interviste relativi alle corse. Viene trasmesso prima e dopo l'inizio della partita, concentrandosi sui momenti chiave</desc><title>Studio Formula 2</title></programme>
 <programme start="20260308050000 +0300" stop="20260308060000 +0300" channel="diema-sport-3"><desc>Uno spettacolo panoramico che copre il fine settimana di gara di Formula 1: dalle prove libere, alle qualifiche fino alla gara stessa. Analizza le prestazioni dei team, le loro sfide tecniche, le decisioni chiave e i punti di forza, nonché il comportamento dei piloti in pista</desc><title>Talk-show di Formula 1</title></programme>
 <programme start="20260308060000 +0300" stop="20260308063000 +0300" channel="diema-sport-3"><desc>Lo spettacolo offre una panoramica completa dell'ultimo turno del torneo, comprese le partite, i gol, gli errori e i momenti chiave più interessanti. Analisi e commenti sugli highlights del calcio tedesco</desc><title>2a Bundesliga: resoconto del turno</title></programme>
@@ -11772,7 +11722,7 @@
 <programme start="20260308070000 +0300" stop="20260308090000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: Gara</title></programme>
 <programme start="20260308090000 +0300" stop="20260308093000 +0300" channel="diema-sport-3"><desc>Lo spettacolo offre uno sguardo completo agli eventi di corsa più prestigiosi. Ogni fine settimana analizzeremo le prove libere, le qualifiche e la gara stessa, evidenziando i momenti salienti, i problemi tecnici e le strategie di squadra e piloti. Aspettatevi commenti di esperti, analisi approfondite e interviste uniche con i partecipanti per tenervi aggiornati su tutti gli sviluppi nel mondo della Formula 1</desc><title>Laboratorio di Formula 1</title></programme>
 <programme start="20260308093000 +0300" stop="20260308103000 +0300" channel="diema-sport-3"><desc>Lo spettacolo presenta agli spettatori un riassunto dell'intera settimana, oltre agli argomenti più interessanti, momenti comici, analisi e commenti</desc><title>Azione NBA</title></programme>
-<programme start="20260308103000 +0300" stop="20260308114500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Gara</title></programme>
+<programme start="20260308103000 +0300" stop="20260308114500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Gara</title></programme>
 <programme start="20260308114500 +0300" stop="20260308140000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: Gara</title></programme>
 <programme start="20260308140000 +0300" stop="20260308150000 +0300" channel="diema-sport-3"><desc>Una panoramica delle partite di calcio più interessanti e produttive della Bundesliga tedesca giocate sabato. L'attenzione si concentra su momenti chiave, obiettivi e prestazioni della squadra, analisi e discussione dei momenti salienti del tour</desc><title>Sabato il resoconto della Bundesliga</title></programme>
 <programme start="20260308150000 +0300" stop="20260308170000 +0300" channel="diema-sport-3"><desc>La Football Association Challenge Cup, meglio conosciuta come FA Cup, è un torneo ad eliminazione diretta del calcio inglese. Il nome FA Cup si riferisce al torneo di calcio maschile inglese. Una competizione simile per le donne è chiamata Women's FA Cup. La FA Cup è la competizione calcistica più antica del mondo. Ha avuto inizio il 20 luglio 1871 a Londra e lo scopo della competizione era coinvolgere tutti i club membri della federazione. Alla prima competizione hanno preso parte 15 squadre. La FA Cup è giocata da tutte le squadre fino al nono livello del calcio inglese, così come da alcune squadre fino al 10° livello. Nella stagione 2011/12 hanno preso parte un numero record di 763 club. Nel corso degli anni, la partecipazione delle squadre delle serie inferiori ha portato a vittorie sensazionali sui grandi club, anche se raramente i club delle serie inferiori raggiungono la finale del torneo.</desc><title>Calcio: FA Cup: Turno 5: Fulham – Southampton</title></programme>
@@ -11787,7 +11737,7 @@
 <programme start="20260309030000 +0300" stop="20260309053000 +0300" channel="diema-sport-3"><desc>La National Basketball Association (NBA), abbreviata in NBA, è la lega di basket professionistica maschile più prestigiosa al mondo e una delle quattro più grandi leghe sportive professionistiche del Nord America. È stata fondata il 6 giugno 1946 a New York City con il nome di American Basketball Association (ABA). Ha ricevuto un nuovo nome nell'autunno del 1949 dopo una fusione con la US National Basketball League (NBL). Due delle squadre di maggior successo della NBA sono i Los Angeles Lakers e i Boston Celtics, che hanno vinto il titolo 17 volte ciascuna. Altre squadre campione includono: Golden State Warriors (7), Chicago Bulls (6), San Antonio Spurs (5), Philadelphia 76ers (7), Detroit Pistons (3), Miami Heat (3), New York Knicks (2), Houston Rockets (2), Milwaukee Bucks (2), Cleveland Cavaliers (1), Washington Wizards (1), Atlanta Hawks (1), Oklahoma Trail Thunder (1), Portland Blazers. (2), Baltimore Bullets (1), Dallas Mavericks (1), Toronto Raptors (1), Denver Nuggets (1) e Rochester Royals (1)</desc><title>NBA: San Antonio Spurs-Houston Rockets</title></programme>
 <programme start="20260309053000 +0300" stop="20260309084500 +0300" channel="diema-sport-3"><desc>Rompere Diema Sport 3</desc><title>Rottura</title></programme>
 <programme start="20260309084500 +0300" stop="20260309100000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più spettacolari del campionato di Formula 3. Si svolge sul famoso circuito Albert Park di Melbourne e attira l'attenzione con avvincenti gare tra giovani piloti. Questa gara è un'opportunità per i nuovi talenti di mostrare le proprie capacità, offrendo un'esperienza indimenticabile per gli appassionati di sport motoristici</desc><title>Formula 3: Gran Premio d'Australia: Round 1: Gara</title></programme>
-<programme start="20260309100000 +0300" stop="20260309111500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Gara</title></programme>
+<programme start="20260309100000 +0300" stop="20260309111500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Gara</title></programme>
 <programme start="20260309111500 +0300" stop="20260309133000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più attese del calendario di Formula 1. Si svolge sul famoso circuito dell'Albert Park di Melbourne e solitamente apre la nuova stagione. La gara offre un'entusiasmante competizione tra team e piloti leader, regalando momenti indimenticabili ai fan di tutto il mondo</desc><title>Formula 1: Gran Premio d'Australia: Round 1: Gara</title></programme>
 <programme start="20260309133000 +0300" stop="20260309153000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: St. Pauli – Eintracht Francoforte</title></programme>
 <programme start="20260309153000 +0300" stop="20260309173000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Union Berlino – Werder Brema</title></programme>
@@ -11808,24 +11758,24 @@
 <programme start="20260310114500 +0300" stop="20260310130000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia è una delle gare più spettacolari del campionato di Formula 3. Si svolge sul famoso circuito Albert Park di Melbourne e attira l'attenzione con avvincenti gare tra giovani piloti. Questa gara è un'opportunità per i nuovi talenti di mostrare le proprie capacità, offrendo un'esperienza indimenticabile per gli appassionati di sport motoristici</desc><title>Formula 3: Gran Premio d'Australia: Round 1: Gara</title></programme>
 <programme start="20260310130000 +0300" stop="20260310151500 +0300" channel="diema-sport-3"><desc>L'Elite Asian Champions League è una competizione per squadre di calcio alla quale partecipano i migliori club dei campionati di calcio asiatici, organizzata sotto l'egida dell'AFC. È la competizione calcistica per club più importante del continente, equivalente alla Champions League europea. Fino all'autunno del 2024, il torneo si chiamava AFC Asian Champions League, ma da allora la competizione è stata ribattezzata Elite Asian Champions League</desc><title>Calcio: Elite Asian Champions League: ottavi di finale: Machida Zelvia – Kanwo</title></programme>
 <programme start="20260310151500 +0300" stop="20260310154500 +0300" channel="diema-sport-3"><desc>Uno spettacolo panoramico che copre il fine settimana di gara di Formula 1: dalle prove libere alle qualifiche e alla gara stessa. Analizza le prestazioni dei team, le loro sfide tecniche, le decisioni chiave e i punti di forza, nonché il comportamento dei piloti in pista</desc><title>Formula 1: Punti salienti: Formula 1: Revisione</title></programme>
-<programme start="20260310154500 +0300" stop="20260310163000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: prove libere</title></programme>
-<programme start="20260310163000 +0300" stop="20260310171500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
-<programme start="20260310171500 +0300" stop="20260310181500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Fase 1: Sprint</title></programme>
-<programme start="20260310181500 +0300" stop="20260310193000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito dell'Albert Park a Melbourne e fa parte del weekend di gara della Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Gara</title></programme>
+<programme start="20260310154500 +0300" stop="20260310163000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: prove libere</title></programme>
+<programme start="20260310163000 +0300" stop="20260310171500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Qualifiche</title></programme>
+<programme start="20260310171500 +0300" stop="20260310181500 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Fase 1: Sprint</title></programme>
+<programme start="20260310181500 +0300" stop="20260310193000 +0300" channel="diema-sport-3"><desc>Il Gran Premio d'Australia di Formula 2 è una delle gare più importanti del calendario del campionato. Si svolge sul leggendario circuito Albert Park di Melbourne e fa parte del weekend di gara di Formula 1. Questa gara offre un'opportunità unica ai giovani ciclisti di dimostrare le proprie capacità gareggiando contro talenti di alto livello</desc><title>Formula 2: Gran Premio d'Australia: Round 1: Gara</title></programme>
 <programme start="20260310193000 +0300" stop="20260310200000 +0300" channel="diema-sport-3"><desc>Lo spettacolo offre una panoramica completa dell'ultimo turno del torneo, comprese le partite, i gol, gli errori e i momenti chiave più interessanti. Analisi e commenti sugli highlights del calcio tedesco</desc><title>2a Bundesliga: resoconto del turno</title></programme>
 <programme start="20260310200000 +0300" stop="20260310220000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Union Berlino – Werder Brema</title></programme>
-<programme start="20260310220000 +0300" stop="20260310230000 +0300" channel="diema-sport-3"><desc>Lo spettacolo di riepilogo offre uno sguardo aggiuntivo ai momenti salienti delle corse di Formula 1. Include analisi di incidenti chiave, interviste con piloti ed esperti e commenti approfonditi sulle tattiche e sulle prestazioni del team</desc><title>Formula 1: extra</title></programme>
+<programme start="20260310220000 +0300" stop="20260310230000 +0300" channel="diema-sport-3"><desc>Lo spettacolo di riepilogo offre uno sguardo aggiuntivo ai momenti salienti delle corse di Formula 1. Include analisi di incidenti chiave, interviste con piloti ed esperti e commenti approfonditi sulle tattiche e sulle prestazioni del team</desc><title>Formula 1: Extra</title></programme>
 <programme start="20260310230000 +0300" stop="20260311010000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Colonia – Borussia Dortmund</title></programme>
 <programme start="20260311010000 +0300" stop="20260311030000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Friburgo – Bayer Leverkusen</title></programme>
 <programme start="20260311030000 +0300" stop="20260311050000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Bayern Monaco – Borussia Monchengladbach</title></programme>
-<programme start="20260311050000 +0300" stop="20260311060000 +0300" channel="diema-sport-3"><desc>Lo spettacolo di riepilogo offre uno sguardo aggiuntivo ai momenti salienti delle corse di Formula 1. Include analisi di incidenti chiave, interviste con piloti ed esperti e commenti approfonditi sulle tattiche e sulle prestazioni del team</desc><title>Formula 1: extra</title></programme>
+<programme start="20260311050000 +0300" stop="20260311060000 +0300" channel="diema-sport-3"><desc>Lo spettacolo di riepilogo offre uno sguardo aggiuntivo ai momenti salienti delle corse di Formula 1. Include analisi di incidenti chiave, interviste con piloti ed esperti e commenti approfonditi sulle tattiche e sulle prestazioni del team</desc><title>Formula 1: Extra</title></programme>
 <programme start="20260311060000 +0300" stop="20260311083000 +0300" channel="diema-sport-3"><desc>La National Basketball Association (NBA), abbreviata in NBA, è la lega di basket professionistica maschile più prestigiosa al mondo ed è una delle 4 più grandi leghe sportive professionistiche del Nord America. È stata fondata il 6 giugno 1946 a New York City con il nome di American Basketball Association (ABA). Ha ricevuto un nuovo nome nell'autunno del 1949 dopo una fusione con la US National Basketball League (NBL). Due delle squadre di maggior successo della NBA sono i Los Angeles Lakers e i Boston Celtics, che hanno vinto il titolo 17 volte ciascuna. Altre squadre campione includono: Golden State Warriors (7), Chicago Bulls (6), San Antonio Spurs (5), Philadelphia 76ers (7), Detroit Pistons (3), Miami Heat (3), New York Knicks (2), Houston Rockets (2), Milwaukee Bucks (2), Cleveland Cavaliers (1), Washington Wizards (1), Atlanta Hawks (1), Oklahoma Trail Thunder (1), Portland Blazers. (2), Baltimore Bullets (1), Dallas Mavericks (1), Toronto Raptors (1), Denver Nuggets (1) e Rochester Royals (1)</desc><title>NBA: Los Angeles Lakers-Minnesota Timberwolves</title></programme>
 <programme start="20260311083000 +0300" stop="20260311103000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Magonza – Stoccarda</title></programme>
 <programme start="20260311103000 +0300" stop="20260311110000 +0300" channel="diema-sport-3"><desc>Lo spettacolo offre una panoramica completa dell'ultimo turno del torneo, comprese le partite, i gol, gli errori e i momenti chiave più interessanti. Analisi e commenti sugli highlights del calcio tedesco</desc><title>2a Bundesliga: resoconto del turno</title></programme>
 <programme start="20260311110000 +0300" stop="20260311130000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: RB Lipsia – Augusta</title></programme>
 <programme start="20260311130000 +0300" stop="20260311150000 +0300" channel="diema-sport-3"><desc>L'Elite Asian Champions League è una competizione per squadre di calcio alla quale partecipano i migliori club dei campionati di calcio asiatici, organizzata sotto l'egida dell'AFC. È la competizione calcistica per club più importante del continente, equivalente alla Champions League europea. Fino all'autunno del 2024, il torneo si chiamava AFC Asian Champions League, ma da allora la competizione è stata ribattezzata Elite Asian Champions League</desc><title>Calcio: Elite Asian Champions League: ottavi di finale: Vissel Kobe – Seoul</title></programme>
 <programme start="20260311150000 +0300" stop="20260311160000 +0300" channel="diema-sport-3"><desc>Un programma di rassegna che offre una panoramica completa dei momenti più importanti dell'ultimo turno del calcio tedesco. Gli spettatori potranno vedere gol, situazioni controverse e partite memorabili della Bundesliga</desc><title>Bundesliga: revisione del turno</title></programme>
-<programme start="20260311160000 +0300" stop="20260311170000 +0300" channel="diema-sport-3"><desc>Lo spettacolo di riepilogo offre uno sguardo aggiuntivo ai momenti salienti delle corse di Formula 1. Include analisi di incidenti chiave, interviste con piloti ed esperti e commenti approfonditi sulle tattiche e sulle prestazioni del team</desc><title>Formula 1: extra</title></programme>
+<programme start="20260311160000 +0300" stop="20260311170000 +0300" channel="diema-sport-3"><desc>Lo spettacolo di riepilogo offre uno sguardo aggiuntivo ai momenti salienti delle corse di Formula 1. Include analisi di incidenti chiave, interviste con piloti ed esperti e commenti approfonditi sulle tattiche e sulle prestazioni del team</desc><title>Formula 1: Extra</title></programme>
 <programme start="20260311170000 +0300" stop="20260311190000 +0300" channel="diema-sport-3"><desc>La 2a Bundesliga è il secondo livello del calcio professionistico tedesco. Questo è al di sotto della Prima Bundesliga nel sistema calcistico tedesco</desc><title>Calcio: 2a Bundesliga: Turno 25: Darmstadt – Holstein Kiel</title></programme>
 <programme start="20260311190000 +0300" stop="20260311200000 +0300" channel="diema-sport-3"><desc>Bundesliga Talk Show è uno spettacolo che offre conversazioni approfondite e analisi degli eventi più attuali della Bundesliga tedesca. I presentatori e gli esperti discutono i momenti chiave, le prestazioni delle squadre e le notizie sul campionato, offrendo commenti approfonditi e pronostici per le partite future</desc><title>Talk-show della Bundesliga</title></programme>
 <programme start="20260311200000 +0300" stop="20260311220000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Bayern Monaco – Borussia Monchengladbach</title></programme>
@@ -11852,7 +11802,7 @@
 <programme start="20260312230000 +0300" stop="20260313010000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Colonia – Borussia Dortmund</title></programme>
 <programme start="20260313010000 +0300" stop="20260313020000 +0300" channel="diema-sport-3"><desc>Bundesliga Talk Show è uno spettacolo che offre conversazioni approfondite e analisi degli eventi più attuali della Bundesliga tedesca. I presentatori e gli esperti discutono i momenti chiave, le prestazioni delle squadre e le notizie sul campionato, offrendo commenti approfonditi e pronostici per le partite future</desc><title>Talk-show della Bundesliga</title></programme>
 <programme start="20260313020000 +0300" stop="20260313041000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Union Berlino – Werder Brema</title></programme>
-<programme start="20260313041000 +0300" stop="20260313050000 +0300" channel="diema-sport-3"><desc>La Formula 1 Academy per il Gran Premio della Cina è un evento dedicato alla Formula 1 e fa parte del nuovo programma di sviluppo dei talenti. Questo evento non fa parte ufficiale del calendario FIA di Formula Uno, ma rappresenta il tentativo della Formula Uno di sostenere lo sviluppo dei giovani piloti fornendo loro l'opportunità di imparare e competere in una varietà di sport motoristici</desc><title>Accademia Formula 1: Gran Premio della Cina: Round 1: Prove libere</title></programme>
+<programme start="20260313041000 +0300" stop="20260313050000 +0300" channel="diema-sport-3"><desc>La Formula 1 Academy per il Gran Premio della Cina è un evento dedicato alla Formula 1 e fa parte del nuovo programma di sviluppo dei talenti. Questo evento non fa parte ufficiale del calendario FIA di Formula Uno, ma rappresenta il tentativo della Formula Uno di sostenere lo sviluppo dei giovani piloti fornendo loro l'opportunità di imparare e competere in una varietà di sport motoristici</desc><title>Accademia di Formula 1: Gran Premio della Cina: Round 1: Prove libere</title></programme>
 <programme start="20260313050000 +0300" stop="20260313053000 +0300" channel="diema-sport-3"><desc>In onda tutte le cose più interessanti accadute negli ultimi giorni in Formula 1</desc><title>Formula 1 in segreto</title></programme>
 <programme start="20260313053000 +0300" stop="20260313063000 +0300" channel="diema-sport-3"><desc>Uno spettacolo panoramico che copre il fine settimana di gara di Formula 1: dalle prove libere, alle qualifiche fino alla gara stessa. Analizza le prestazioni dei team, le loro sfide tecniche, le decisioni chiave e i punti di forza, nonché il comportamento dei piloti in pista</desc><title>Talk-show di Formula 1</title></programme>
 <programme start="20260313063000 +0300" stop="20260313073000 +0300" channel="diema-sport-3"><desc>La Formula 1 Academy per il Gran Premio della Cina è un evento specializzato all'interno della Formula 1, che rientra nel programma di sviluppo di nuovi talenti. Questo evento non fa parte ufficiale del calendario FIA di Formula Uno, ma rappresenta il tentativo della Formula Uno di sostenere lo sviluppo dei giovani piloti fornendo loro l'opportunità di imparare e competere in una varietà di sport motoristici</desc><title>Accademia di Formula 1: Gran Premio della Cina: Round 2: prime prove libere</title></programme>
@@ -11865,7 +11815,7 @@
 <programme start="20260313123000 +0300" stop="20260313143000 +0300" channel="diema-sport-3"><desc>La 1ª Bundesliga è il livello più alto del calcio tedesco per club. Fondato il 24 agosto 1963, è la continuazione del campionato di calcio tedesco, che esisteva dal 1903. I fondatori della Bundesliga nel 1963 furono Borussia Dortmund, Eintracht Braunschweig, Eintracht Francoforte, Amburgo SV, Hertha Berlino, Kaiserslautern, Karlsruhe, Colonia, Maidenrich, Monaco 1860, Norimberga, Preussen. Munster, Saarbrücken, Schalke 04, Stoccarda e Werder. Il primo campione nel 1964 fu il Colonia. La squadra più vincente della Prima Bundesliga tedesca è senza dubbio il Bayern Monaco, che ha vinto 32 titoli in 60 campionati fino al 2023</desc><title>Calcio: Bundesliga: Turno 25: Bayern Monaco – Borussia Monchengladbach</title></programme>
 <programme start="20260313143000 +0300" stop="20260313153000 +0300" channel="diema-sport-3"><desc>Bundesliga Talk Show è uno spettacolo che offre conversazioni approfondite e analisi degli eventi più attuali della Bundesliga tedesca. I presentatori e gli esperti discutono i momenti chiave, le prestazioni delle squadre e le notizie sul campionato, offrendo commenti approfonditi e pronostici per le partite future</desc><title>Talk-show della Bundesliga</title></programme>
 <programme start="20260313153000 +0300" stop="20260313160000 +0300" channel="diema-sport-3"><desc>Lo spettacolo offre una panoramica completa dell'ultimo turno del torneo, comprese le partite, i gol, gli errori e i momenti chiave più interessanti. Analisi e commenti sugli highlights del calcio tedesco</desc><title>2a Bundesliga: resoconto del turno</title></programme>
-<programme start="20260313160000 +0300" stop="20260313164000 +0300" channel="diema-sport-3"><desc>La Formula 1 Academy per il Gran Premio della Cina è un evento dedicato alla Formula 1 e fa parte del nuovo programma di sviluppo dei talenti. Questo evento non fa parte ufficiale del calendario FIA di Formula Uno, ma rappresenta il tentativo della Formula Uno di sostenere lo sviluppo dei giovani piloti fornendo loro l'opportunità di imparare e competere in una varietà di sport motoristici</desc><title>Accademia Formula 1: Gran Premio della Cina: Round 1: Prove libere</title></programme>
+<programme start="20260313160000 +0300" stop="20260313164000 +0300" channel="diema-sport-3"><desc>La Formula 1 Academy per il Gran Premio della Cina è un evento dedicato alla Formula 1 e fa parte del nuovo programma di sviluppo dei talenti. Questo evento non fa parte ufficiale del calendario FIA di Formula Uno, ma rappresenta il tentativo della Formula Uno di sostenere lo sviluppo dei giovani piloti fornendo loro l'opportunità di imparare e competere in una varietà di sport motoristici</desc><title>Accademia di Formula 1: Gran Premio della Cina: Round 1: Prove libere</title></programme>
 <programme start="20260313164000 +0300" stop="20260313171500 +0300" channel="diema-sport-3"><desc>La Formula 1 Academy per il Gran Premio della Cina è un evento dedicato alla Formula 1 e fa parte del nuovo programma di sviluppo dei talenti. Questo evento non fa parte ufficiale del calendario FIA di Formula Uno, ma rappresenta il tentativo della Formula Uno di sostenere lo sviluppo dei giovani piloti fornendo loro l'opportunità di imparare e competere in una varietà di sport motoristici</desc><title>Accademia Formula 1: Gran Premio della Cina: Round 1: Qualifiche</title></programme>
 <programme start="20260313171500 +0300" stop="20260313183000 +0300" channel="diema-sport-3"><desc>La Formula 1 Academy per il Gran Premio della Cina è un evento specializzato all'interno della Formula 1, che rientra nel programma di sviluppo di nuovi talenti. Questo evento non fa parte ufficiale del calendario FIA di Formula Uno, ma rappresenta il tentativo della Formula Uno di sostenere lo sviluppo dei giovani piloti fornendo loro l'opportunità di imparare e competere in una varietà di sport motoristici</desc><title>Accademia di Formula 1: Gran Premio della Cina: Round 2: prime prove libere</title></programme>
 <programme start="20260313183000 +0300" stop="20260313193000 +0300" channel="diema-sport-3"><desc>La Formula 1 Academy per il Gran Premio della Cina è un evento dedicato alla Formula 1 e fa parte del nuovo programma di sviluppo dei talenti. Questo evento non fa parte ufficiale del calendario FIA di Formula Uno, ma rappresenta il tentativo della Formula Uno di sostenere lo sviluppo dei giovani piloti fornendo loro l'opportunità di imparare e competere in una varietà di sport motoristici</desc><title>Formula 1 Academy: Gran Premio della Cina: Round 2: Qualifiche Sprint</title></programme>
@@ -11881,18 +11831,6 @@
 <programme start="20260314060000 +0300" stop="20260314070000 +0300" channel="diema-sport-3"><desc>La Formula 1 Academy per il Gran Premio della Cina è un evento dedicato alla Formula 1 e fa parte del nuovo programma di sviluppo dei talenti. Questo evento non fa parte ufficiale del calendario FIA di Formula Uno, ma rappresenta il tentativo della Formula Uno di sostenere lo sviluppo dei giovani piloti fornendo loro l'opportunità di imparare e competere in una varietà di sport motoristici</desc><title>Accademia Formula 1: Gran Premio della Cina: Round 2: Sprint</title></programme>
 <programme start="20260314070000 +0300" stop="20260314074000 +0300" channel="diema-sport-3"><desc>Lo spettacolo offre uno sguardo completo agli eventi di corsa più prestigiosi. Ogni fine settimana analizzeremo le prove libere, le qualifiche e la gara stessa, evidenziando i momenti salienti, i problemi tecnici e le strategie di squadra e piloti. Aspettatevi commenti di esperti, analisi approfondite e interviste uniche con i partecipanti per tenervi aggiornati su tutti gli sviluppi nel mondo della Formula 1</desc><title>Laboratorio di Formula 1</title></programme>
 <programme start="20260314074000 +0300" stop="20260314084000 +0300" channel="diema-sport-3"><desc>Uno spettacolo panoramico che copre il fine settimana di gara di Formula 1: dalle prove libere, alle qualifiche fino alla gara stessa. Analizza le prestazioni dei team, le loro sfide tecniche, le decisioni chiave e i punti di forza, nonché il comportamento dei piloti in pista</desc><title>Talk-show di Formula 1</title></programme>
-<programme start="20260304223000 +0300" stop="20260305000000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells - In diretta</title></programme>
-<programme start="20260305000000 +0300" stop="20260305020000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells - In diretta</title></programme>
-<programme start="20260305020000 +0300" stop="20260305040000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells - In diretta</title></programme>
-<programme start="20260305040000 +0300" stop="20260305050000 +0300" channel="max-sport-1"><title>Palla contestata - Replay. Un talk show</title></programme>
-<programme start="20260305050000 +0300" stop="20260305070000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells - In diretta</title></programme>
-<programme start="20260305070000 +0300" stop="20260305090000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells - In diretta</title></programme>
-<programme start="20260305090000 +0300" stop="20260305103000 +0300" channel="max-sport-1"><title>Campionato del mondo di rally: Svezia - Replay. SS18 Ume 2,Wolf Power Stage, Turno 2</title></programme>
-<programme start="20260305103000 +0300" stop="20260305123000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells – Replay. USA, 2026. L'ATP 1000 Indian Wells è tra i tornei di tennis più prestigiosi, parte dell'ATP Masters 1000. Si svolge…</title></programme>
-<programme start="20260305123000 +0300" stop="20260305143000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells – Replay. USA, 2026. L'ATP 1000 Indian Wells è tra i tornei di tennis più prestigiosi, parte dell'ATP Masters 1000. Si svolge…</title></programme>
-<programme start="20260305143000 +0300" stop="20260305163000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells – Replay. USA, 2026. L'ATP 1000 Indian Wells è tra i tornei di tennis più prestigiosi, parte dell'ATP Masters 1000. Si svolge…</title></programme>
-<programme start="20260305163000 +0300" stop="20260305183000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells – Replay. USA, 2026. L'ATP 1000 Indian Wells è tra i tornei di tennis più prestigiosi, parte dell'ATP Masters 1000. Si svolge…</title></programme>
-<programme start="20260305183000 +0300" stop="20260305203000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells – Replay. USA, 2026. L'ATP 1000 Indian Wells è tra i tornei di tennis più prestigiosi, parte dell'ATP Masters 1000. Si svolge…</title></programme>
 <programme start="20260305203000 +0300" stop="20260305213000 +0300" channel="max-sport-1"><title>Moto GP: Revisione della gara del Gran Premio di Thailandia - Revisione della gara del Gran Premio di Thailandia Round 1</title></programme>
 <programme start="20260305213000 +0300" stop="20260305220000 +0300" channel="max-sport-1"><title>Colpisci con un bastone</title></programme>
 <programme start="20260305220000 +0300" stop="20260306000000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells - In diretta</title></programme>
@@ -11931,7 +11869,7 @@
 <programme start="20260308093000 +0300" stop="20260308113000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells – Replay. USA, 2026. L'ATP 1000 Indian Wells è tra i tornei di tennis più prestigiosi, parte dell'ATP Masters 1000. Si svolge…</title></programme>
 <programme start="20260308113000 +0300" stop="20260308133000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells – Replay. USA, 2026. L'ATP 1000 Indian Wells è tra i tornei di tennis più prestigiosi, parte dell'ATP Masters 1000. Si svolge…</title></programme>
 <programme start="20260308133000 +0300" stop="20260308140000 +0300" channel="max-sport-1"><title>Studio «Basket – Dal vivo</title></programme>
-<programme start="20260308140000 +0300" stop="20260308160000 +0300" channel="max-sport-1"><title>Sesame National Basketball League: Mar Nero - Lokomotiv Plovdiv - In diretta. Mar Nero – Lokomotiv Plovdiv, turno 23</title></programme>
+<programme start="20260308140000 +0300" stop="20260308160000 +0300" channel="max-sport-1"><title>Sesame National Basketball League: Mar Nero - Lokomotiv Plovdiv - In diretta. Mar Nero-Lokomotiv Plovdiv, turno 23</title></programme>
 <programme start="20260308160000 +0300" stop="20260308163000 +0300" channel="max-sport-1"><title>Studio «Basket – Dal vivo</title></programme>
 <programme start="20260308163000 +0300" stop="20260308173000 +0300" channel="max-sport-1"><title>Nascar Cup Series: Recensione - Riepilogo. Ripassa, cerchia 4</title></programme>
 <programme start="20260308173000 +0300" stop="20260308210000 +0300" channel="max-sport-1"><title>Lega A1 Gaming: – Dal vivo. Finale</title></programme>
@@ -12039,16 +11977,6 @@
 <programme start="20260315210000 +0300" stop="20260315220000 +0300" channel="max-sport-1"><title>Nascar Cup Series: Recensione - Riepilogo. Ripassa, cerchia 5</title></programme>
 <programme start="20260315220000 +0300" stop="20260316000000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells – Replay. Seconda semifinale</title></programme>
 <programme start="20260316000000 +0300" stop="20260316010000 +0300" channel="max-sport-1"><title>ATP 1000: Indian Wells - In diretta. Finale</title></programme>
-<programme start="20260304223000 +0300" stop="20260304230000 +0300" channel="max-sport-2"><title>Golf: Open sudafricano - Replay. Panoramica del torneo</title></programme>
-<programme start="20260304230000 +0300" stop="20260305010000 +0300" channel="max-sport-2"><title>Coppa di Francia: Olympique Marsiglia - Tolosa - In diretta. Quarti di finale</title></programme>
-<programme start="20260305010000 +0300" stop="20260305033000 +0300" channel="max-sport-2"><title>Pallavolo - Supercoppa Italiana: Perugia - Verona - Replay. Finale</title></programme>
-<programme start="20260305033000 +0300" stop="20260305073000 +0300" channel="max-sport-2"><title>Golf: Campionato Open sudafricano Investec - Replay. Golf, Sud Africa, 2026. Il South African Open è uno dei più antichi tornei nazionali di golf del…</title></programme>
-<programme start="20260305073000 +0300" stop="20260305080000 +0300" channel="max-sport-2"><title>Golf: Jonsson Workwear Open - Ripetizione. Recensione del torneo</title></programme>
-<programme start="20260305080000 +0300" stop="20260305090000 +0300" channel="max-sport-2"><title>Palla contestata - Replay. Un talk show</title></programme>
-<programme start="20260305090000 +0300" stop="20260305110000 +0300" channel="max-sport-2"><title>Pallavolo - Champions League: Rzeszów - Knak Rözelare - Replay. Ottavi di finale</title></programme>
-<programme start="20260305110000 +0300" stop="20260305133000 +0300" channel="max-sport-2"><title>Sesame National Basketball League: Spartak Pleven - Atleta Rila - Replay. Spartak Pleven – Atleta del Rila, turno 22</title></programme>
-<programme start="20260305133000 +0300" stop="20260305183000 +0300" channel="max-sport-2"><title>Golf: Joburg Open - Dal vivo. giro 1</title></programme>
-<programme start="20260305183000 +0300" stop="20260305193000 +0300" channel="max-sport-2"><title>Nascar Cup Series: Revisione – Revisione, turno 4</title></programme>
 <programme start="20260305193000 +0300" stop="20260305204500 +0300" channel="max-sport-2"><title>Velocità massima - Talkshow</title></programme>
 <programme start="20260305204500 +0300" stop="20260305223000 +0300" channel="max-sport-2"><title>Eurolega: Fenerbahce - Monaco - Diretta. Fenerbahce-Monaco, trentesima giornata</title></programme>
 <programme start="20260305223000 +0300" stop="20260305231000 +0300" channel="max-sport-2"><title>Golf: Jonsson Workwear Open - Ripetizione. Recensione del torneo</title></programme>
@@ -12074,7 +12002,7 @@
 <programme start="20260307090000 +0300" stop="20260307110000 +0300" channel="max-sport-2"><title>Pallavolo - efbet Super Volley: Montana - Lokomotiv Avia - Replay. Montana-Lokomotiv Avia, turno 20</title></programme>
 <programme start="20260307110000 +0300" stop="20260307130000 +0300" channel="max-sport-2"><title>Eurolega: Fenerbahce-Monaco-Replay. Fenerbahce-Monaco, trentesima giornata</title></programme>
 <programme start="20260307130000 +0300" stop="20260307173000 +0300" channel="max-sport-2"><title>Golf: Joburg Open - Dal vivo. giro 3</title></programme>
-<programme start="20260307173000 +0300" stop="20260307194500 +0300" channel="max-sport-2"><title>Rugby – Sei Nazioni: Irlanda v Galles – Replay. Irlanda - Galles</title></programme>
+<programme start="20260307173000 +0300" stop="20260307194500 +0300" channel="max-sport-2"><title>Rugby - Sei Nazioni: Irlanda v Galles - Replay. Irlanda - Galles</title></programme>
 <programme start="20260307194500 +0300" stop="20260307200000 +0300" channel="max-sport-2"><title>Studio «Pallavolo – Dal vivo</title></programme>
 <programme start="20260307200000 +0300" stop="20260307220000 +0300" channel="max-sport-2"><title>Pallavolo - efbet Super Volley: Petrolchimico - Beroe - Live. Petrolchimico - Beroe, circolo 20</title></programme>
 <programme start="20260307220000 +0300" stop="20260307223000 +0300" channel="max-sport-2"><title>Golf: Jonsson Workwear Open - Ripetizione. Recensione del torneo</title></programme>
@@ -12084,7 +12012,7 @@
 <programme start="20260308020000 +0300" stop="20260308040000 +0300" channel="max-sport-2"><title>Eurolega: Real Madrid - Bologna - Replay. Real Madrid-Bologna, trentesima giornata</title></programme>
 <programme start="20260308040000 +0300" stop="20260308050000 +0300" channel="max-sport-2"><title>Nascar Cup Series: Recensione - Riepilogo. Ripassa, cerchia 4</title></programme>
 <programme start="20260308050000 +0300" stop="20260308080000 +0300" channel="max-sport-2"><title>UFC 326: Hallaway vs. Oliveira – In diretta. Max Hallaway contro Charles Oliveira</title></programme>
-<programme start="20260308080000 +0300" stop="20260308100000 +0300" channel="max-sport-2"><title>Rugby – Sei Nazioni: Irlanda v Galles – Replay. Irlanda - Galles</title></programme>
+<programme start="20260308080000 +0300" stop="20260308100000 +0300" channel="max-sport-2"><title>Rugby - Sei Nazioni: Irlanda v Galles - Replay. Irlanda - Galles</title></programme>
 <programme start="20260308100000 +0300" stop="20260308120000 +0300" channel="max-sport-2"><title>Pallavolo - Serie A1: Perugia - Monza - Replay. Playoff</title></programme>
 <programme start="20260308120000 +0300" stop="20260308170000 +0300" channel="max-sport-2"><title>Golf: Joburg Open - Dal vivo. giro 4</title></programme>
 <programme start="20260308170000 +0300" stop="20260308190000 +0300" channel="max-sport-2"><title>EuroLeague: Olympiakos-Panathinaikos-Replay. Olympiakos-Panathinaikos, 30° turno</title></programme>
@@ -12093,7 +12021,7 @@
 <programme start="20260308220000 +0300" stop="20260308223000 +0300" channel="max-sport-2"><title>EuroLeague: Panoramica 30° turno - Panoramica 30° turno, 30° turno</title></programme>
 <programme start="20260308223000 +0300" stop="20260309020000 +0300" channel="max-sport-2"><title>Nascar Cup Series: Straight Talk Wireless 500, Phoenix Raceway – На живо. Straight Talk Wireless 500, Phoenix Raceway, sezione 5</title></programme>
 <programme start="20260309020000 +0300" stop="20260309050000 +0300" channel="max-sport-2"><title>UFC 326: Hallaway contro Oliveira – Replay. Max Hallaway contro Charles Oliveira</title></programme>
-<programme start="20260309050000 +0300" stop="20260309073000 +0300" channel="max-sport-2"><title>Sesame National Basketball League: Mar Nero - Lokomotiv Plovdiv - Replay. Mar Nero – Lokomotiv Plovdiv, turno 23</title></programme>
+<programme start="20260309050000 +0300" stop="20260309073000 +0300" channel="max-sport-2"><title>Sesame National Basketball League: Mar Nero - Lokomotiv Plovdiv - Replay. Mar Nero-Lokomotiv Plovdiv, turno 23</title></programme>
 <programme start="20260309073000 +0300" stop="20260309093000 +0300" channel="max-sport-2"><title>Rugby - Sei Nazioni: Scozia - Francia - Replay. Scozia - Francia</title></programme>
 <programme start="20260309093000 +0300" stop="20260309113000 +0300" channel="max-sport-2"><title>NHL: Vegas Golden Knights - Minnesota Wild - Replay. Vegas Golden Knights - Minnesota Wild</title></programme>
 <programme start="20260309113000 +0300" stop="20260309150000 +0300" channel="max-sport-2"><title>Serie Nascar Cup: Straight Talk Wireless 500, Phoenix Raceway - Riepilogo. Straight Talk Wireless 500, Phoenix Raceway, giro 5</title></programme>
@@ -12194,17 +12122,6 @@
 <programme start="20260315220000 +0300" stop="20260315223000 +0300" channel="max-sport-2"><title>Trans World Sport, ep.35 – Ripetizione</title></programme>
 <programme start="20260315223000 +0300" stop="20260315230000 +0300" channel="max-sport-2"><title>Eurolega: Girone 31 Girone - Girone 31 Girone 31 Girone 31</title></programme>
 <programme start="20260315230000 +0300" stop="20260316000000 +0300" channel="max-sport-2"><title>Nascar Cup Series: Pennzoil 400, Las Vegas Motor Speedway – Vivace. Pennzoil 400, Las Vegas Motor Speedway, curva 6</title></programme>
-<programme start="20260304220000 +0300" stop="20260304230000 +0300" channel="max-sport-3"><title>Calcio Mania – Si ripete. Un talk show</title></programme>
-<programme start="20260304230000 +0300" stop="20260305010000 +0300" channel="max-sport-3"><title>Coppa Italia Frezzarossa: Lazio-Atalanta-Diretta. Semifinale</title></programme>
-<programme start="20260305010000 +0300" stop="20260305033000 +0300" channel="max-sport-3"><title>UEFA Europa League: Stella Rossa - Lille - Replay. Spareggio</title></programme>
-<programme start="20260305033000 +0300" stop="20260305053000 +0300" channel="max-sport-3"><title>Coppa di Turchia: Gaziantep - Fenerbahce - Replay. Gaziantep-Fenerbahçe</title></programme>
-<programme start="20260305053000 +0300" stop="20260305080000 +0300" channel="max-sport-3"><title>Recopa Sudamericana: Flamengo - Lanus - Replay. Seconda partita finale</title></programme>
-<programme start="20260305080000 +0300" stop="20260305090000 +0300" channel="max-sport-3"><title>Serie A: Panoramica Turno 27 – Replay. Giro 27, giro 27</title></programme>
-<programme start="20260305090000 +0300" stop="20260305113000 +0300" channel="max-sport-3"><title>UEFA Europa League: Viktoria Plzeň - Panathinaikos - Replay. Spareggio</title></programme>
-<programme start="20260305113000 +0300" stop="20260305133000 +0300" channel="max-sport-3"><title>Serie A: Verona-Napoli-Replay. Italia, 2026. La Serie A è il livello più alto nella gerarchia del calcio italiano. È considerato uno dei più forti...</title></programme>
-<programme start="20260305133000 +0300" stop="20260305153000 +0300" channel="max-sport-3"><title>Coppa Italia Frezzarossa: Como-Inter-Replay. Semifinale</title></programme>
-<programme start="20260305153000 +0300" stop="20260305173000 +0300" channel="max-sport-3"><title>Coppa di Francia: Olympique Marsiglia - Tolosa - Replay. Quarti di finale</title></programme>
-<programme start="20260305173000 +0300" stop="20260305193000 +0300" channel="max-sport-3"><title>Coppa di Turchia: Alanyaspor - Galatasaray - Replay. Alanyaspor-Galatasaray</title></programme>
 <programme start="20260305193000 +0300" stop="20260305200000 +0300" channel="max-sport-3"><title>Serie A: «Calcio extra</title></programme>
 <programme start="20260305200000 +0300" stop="20260305220000 +0300" channel="max-sport-3"><title>Coppa Italia Frezzarossa: Lazio - Atalanta - Replay. Semifinale</title></programme>
 <programme start="20260305220000 +0300" stop="20260305223000 +0300" channel="max-sport-3"><title>Lega dei Campioni</title></programme>
@@ -12251,7 +12168,7 @@
 <programme start="20260308140000 +0300" stop="20260308143000 +0300" channel="max-sport-3"><title>Studio «Calcio – Dal vivo</title></programme>
 <programme start="20260308143000 +0300" stop="20260308163000 +0300" channel="max-sport-3"><title>Serie A: Lecce-Cremonese-Diretta. turno 28</title></programme>
 <programme start="20260308163000 +0300" stop="20260308170000 +0300" channel="max-sport-3"><title>Studio «Calcio – Dal vivo</title></programme>
-<programme start="20260308170000 +0300" stop="20260308190000 +0300" channel="max-sport-3"><title>Serie A: Fiorentina-Parma-Diretta. turno 28</title></programme>
+<programme start="20260308170000 +0300" stop="20260308190000 +0300" channel="max-sport-3"><title>Serie A: Fiorentina-Parma-in diretta. turno 28</title></programme>
 <programme start="20260308190000 +0300" stop="20260308193000 +0300" channel="max-sport-3"><title>Studio «Calcio – Dal vivo</title></programme>
 <programme start="20260308193000 +0300" stop="20260308200000 +0300" channel="max-sport-3"><title>Studio «Calcio – Dal vivo</title></programme>
 <programme start="20260308200000 +0300" stop="20260308220000 +0300" channel="max-sport-3"><title>Serie A: Genoa-Roma - Diretta. turno 28</title></programme>
@@ -12293,7 +12210,7 @@
 <programme start="20260311020000 +0300" stop="20260311040000 +0300" channel="max-sport-3"><title>UEFA Champions League: Atletico Madrid-Tottenham-Replay. Ottavi di finale</title></programme>
 <programme start="20260311040000 +0300" stop="20260311060000 +0300" channel="max-sport-3"><title>Coppa di Francia: Olympique Marsiglia - Tolosa - Replay. Quarti di finale</title></programme>
 <programme start="20260311060000 +0300" stop="20260311070000 +0300" channel="max-sport-3"><title>Calcio Mania – Si ripete. Un talk show</title></programme>
-<programme start="20260311070000 +0300" stop="20260311090000 +0300" channel="max-sport-3"><title>Serie A: Napoli-Torino-Replay. Italia, 2024. Il Napoli riesce finalmente a ottenere 2 vittorie consecutive in Serie A, contro Sassuolo e Juventus. Questo…</title></programme>
+<programme start="20260311070000 +0300" stop="20260311090000 +0300" channel="max-sport-3"><title>Serie A: Napoli-Torino-Replay. Italia, 2024. Il Napoli riesce finalmente a ottenere 2 vittorie consecutive in Serie A, su Sassuolo e Juventus. Questo…</title></programme>
 <programme start="20260311090000 +0300" stop="20260311110000 +0300" channel="max-sport-3"><title>Coppa di Turchia: Alanyaspor - Galatasaray - Replay. Alanyaspor-Galatasaray</title></programme>
 <programme start="20260311110000 +0300" stop="20260311130000 +0300" channel="max-sport-3"><title>Serie A: Lazio-Sassuolo-Replay. Italia, 2026. La Serie A è il livello più alto nella gerarchia del calcio italiano. È considerato uno dei più forti...</title></programme>
 <programme start="20260311130000 +0300" stop="20260311150000 +0300" channel="max-sport-3"><title>Saudi Professional League: Al Nasser - Neom - Replay. Al Nasser-Neom, turno 25</title></programme>
@@ -12366,18 +12283,6 @@
 <programme start="20260315220000 +0300" stop="20260315224500 +0300" channel="max-sport-3"><title>Studio «Calcio – Dal vivo</title></programme>
 <programme start="20260315224500 +0300" stop="20260316004500 +0300" channel="max-sport-3"><title>Serie A: Lazio-Milan - Diretta. turno 29</title></programme>
 <programme start="20260316004500 +0300" stop="20260316014500 +0300" channel="max-sport-3"><title>Studio «Calcio – Dal vivo</title></programme>
-<programme start="20260304223000 +0300" stop="20260304230000 +0300" channel="max-sport-4"><title>Studio «Calcio – Dal vivo</title></programme>
-<programme start="20260304230000 +0300" stop="20260305010000 +0300" channel="max-sport-4"><title>Copa del Rey: Real Sociedad - Athletic Bilbao - Diretta. Rivincita semifinale</title></programme>
-<programme start="20260305010000 +0300" stop="20260305011500 +0300" channel="max-sport-4"><title>Studio «Calcio – Dal vivo</title></programme>
-<programme start="20260305011500 +0300" stop="20260305033000 +0300" channel="max-sport-4"><title>Saudi Professional League: Al Shabab - Al Hilal - Replay. Al Shabab-Al Hilal, turno 24</title></programme>
-<programme start="20260305033000 +0300" stop="20260305053000 +0300" channel="max-sport-4"><title>Coppa di Francia: Olympique Marsiglia - Tolosa - Replay. Quarti di finale</title></programme>
-<programme start="20260305053000 +0300" stop="20260305073000 +0300" channel="max-sport-4"><title>Coppa di Francia: Strasburgo - Reims - Replay. Quarti di finale</title></programme>
-<programme start="20260305073000 +0300" stop="20260305093000 +0300" channel="max-sport-4"><title>La Liga: Real Madrid-Getafe-Replay. turno 26</title></programme>
-<programme start="20260305093000 +0300" stop="20260305113000 +0300" channel="max-sport-4"><title>Coppa di Turchia: Besiktas - Rizespor - Replay. Besiktas-Rizespor</title></programme>
-<programme start="20260305113000 +0300" stop="20260305133000 +0300" channel="max-sport-4"><title>La Liga 2: Cordova - Andorra - Replay. turno 28</title></programme>
-<programme start="20260305133000 +0300" stop="20260305153000 +0300" channel="max-sport-4"><title>Coppa di Turchia: Gaziantep - Fenerbahce - Replay. Gaziantep-Fenerbahçe</title></programme>
-<programme start="20260305153000 +0300" stop="20260305180000 +0300" channel="max-sport-4"><title>Recopa Sudamericana: Flamengo - Lanus - Replay. Seconda partita finale</title></programme>
-<programme start="20260305180000 +0300" stop="20260305200000 +0300" channel="max-sport-4"><title>Copa Libertadores: Barcellona Guayaquil-Botafogo-Replay. Barcellona Guayaquil-Botafogo</title></programme>
 <programme start="20260305200000 +0300" stop="20260305220000 +0300" channel="max-sport-4"><title>Copa del Rey: Real Sociedad - Athletic Bilbao - Replay. Rivincita semifinale</title></programme>
 <programme start="20260305220000 +0300" stop="20260306000000 +0300" channel="max-sport-4"><title>Pallavolo - Champions League: Las Palmas - Montpellier - In diretta. Ottavi di finale</title></programme>
 <programme start="20260306000000 +0300" stop="20260306010000 +0300" channel="max-sport-4"><title>Diario della Liga – Replay. Un talk show</title></programme>
@@ -12407,7 +12312,7 @@
 <programme start="20260307130000 +0300" stop="20260307133000 +0300" channel="max-sport-4"><title>Lega dei Campioni</title></programme>
 <programme start="20260307133000 +0300" stop="20260307153000 +0300" channel="max-sport-4"><title>La Liga: Celta-Real Madrid - Replay. turno 27</title></programme>
 <programme start="20260307153000 +0300" stop="20260307160000 +0300" channel="max-sport-4"><title>Studio «Calcio – Dal vivo</title></programme>
-<programme start="20260307160000 +0300" stop="20260307180000 +0300" channel="max-sport-4"><title>La Liga: Osasuna - Maiorca - In diretta. turno 27</title></programme>
+<programme start="20260307160000 +0300" stop="20260307180000 +0300" channel="max-sport-4"><title>La Liga: Osasuna-Maiorca - Diretta. turno 27</title></programme>
 <programme start="20260307180000 +0300" stop="20260307181500 +0300" channel="max-sport-4"><title>Studio «Calcio – Dal vivo</title></programme>
 <programme start="20260307181500 +0300" stop="20260307201500 +0300" channel="max-sport-4"><title>La Liga: Levante-Girona-in diretta. turno 27</title></programme>
 <programme start="20260307201500 +0300" stop="20260307203000 +0300" channel="max-sport-4"><title>Studio «Calcio – Dal vivo</title></programme>
