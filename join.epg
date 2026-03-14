@@ -107,6 +107,12 @@
     <url>http://www.tv.blue.ch</url>
     <display-name lang="de">Rai News 24</display-name>
   </channel>
+  <channel id="RSI.La.1.ch">
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/25a9f6c2-e765-44b6-a7e1-07c888a6d9dc_W90.png" />
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/25a9f6c2-e765-44b6-a7e1-07c888a6d9dc_W90.png" />
+    <url>http://www.tv.blue.ch</url>
+    <display-name lang="de">RSI La 1</display-name>
+  </channel>
   <channel id="Motor.Trend.ch">
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/4f90d5d9-f9f2-1300-7048-808b56eb3bc3_W90.png" />
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/4f90d5d9-f9f2-1300-7048-808b56eb3bc3_W90.png" />
@@ -142,6 +148,12 @@
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/f735054d-a20b-4045-8464-74b9e0b1ad1f_W90.png" />
     <url>http://www.tv.blue.ch</url>
     <display-name lang="de">NOVE</display-name>
+  </channel>
+  <channel id="RSI.LA.2.ch">
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/295e54ea-2982-4ed6-88c2-6441a770f34a_W90.png" />
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/295e54ea-2982-4ed6-88c2-6441a770f34a_W90.png" />
+    <url>http://www.tv.blue.ch</url>
+    <display-name lang="de">RSI LA 2</display-name>
   </channel>
   <programme start="20260313005500 +0100" stop="20260313031900 +0100" channel="MEZZO">
     <title lang="it">Grigory Sokolov alla Filarmonica di Berlino: Schubert, Beethoven, Rameau</title>
@@ -14423,7 +14435,3151 @@
 <programme start="20260316000000 +0300" stop="20260316020000 +0300" channel="setanta-sports-plus"><title>⋗Tennis. Maestri dell'ATP. Indian Wells, Stati Uniti. Finale</title></programme>
 <programme start="20260316020000 +0300" stop="20260316050000 +0300" channel="setanta-sports-plus"><title>Arti marziali miste. Serata di combattimento UFC a Las Vegas, Stati Uniti. Josh Emmett-Kevin Vallejos</title></programme>
 <programme start="20260316050000 +0300" stop="20260316060000 +0300" channel="setanta-sports-plus"><title>Sport motoristici. Formula 1. Fase 1. Gran Premio d'Australia. Gara</title></programme>
-<programme channel="Giallo.ch" start="20260313033000 +0000" stop="20260313043000 +0000">
+<programme channel="RSI.La.1.ch" start="20260313015500 +0000" stop="20260313040000 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">13/03/2026, 02:50</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313040000 +0000" stop="20260313040500 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313040500 +0000" stop="20260313042500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313042500 +0000" stop="20260313043000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313043000 +0000" stop="20260313050000 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">13/03/2026, 05:30</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313050000 +0000" stop="20260313052000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313052000 +0000" stop="20260313062000 +0000">
+    <title lang="it">Siamo fuori</title>
+    <desc lang="it">Programma di intrattenimento e cucina in cui vengono accolti personaggi noti legati a realtà locali. L'ospite non solo ha il compito di parlare del luogo, delle sue avventure e delle esperienze della giornata, ma deve anche affrontare delle sorprese.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20687899bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313062000 +0000" stop="20260313064500 +0000">
+    <title lang="it">Mezz'ora per voi</title>
+    <desc lang="it">Trenta minuti di benessere attraverso esercizi di yoga, pilates, tonificazione e ginnastica dolce. Scopriamo insieme i benefici dell'attività fisica, fondamentale per la nostra salute.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11390111ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313064500 +0000" stop="20260313071000 +0000">
+    <title lang="it">Mezz'ora per voi</title>
+    <desc lang="it">Trenta minuti di benessere attraverso esercizi di yoga, pilates, tonificazione e ginnastica dolce. Scopriamo insieme i benefici dell'attività fisica, fondamentale per la nostra salute.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11390111ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313071000 +0000" stop="20260313073000 +0000">
+    <title lang="it">Papà a tempo pieno</title>
+    <sub-title lang="it">Il capitano del battello</sub-title>
+    <desc lang="it">Adam prende una decisione affrettata riguardo alla carriera scolastica di Emme dopo aver ricevuto una moltitudine di richieste irragionevoli dalla maestra d'asilo della figlia, mettendo se stesso e Andi nei guai.</desc>
+    <credits>
+      <actor role="Adam Burns">Matt LeBlanc</actor>
+      <actor role="Andi Burns">Liza Snyder</actor>
+      <actor role="Don Burns">Kevin Nealon</actor>
+      <actor role="Sig.ra Rodriguez">Dianna Maria Riva</actor>
+      <actor role="Marie Maldonado">Jessica Chaffin</actor>
+      <actor role="Lowell">Matt Cook</actor>
+      <actor role="Kate Burns">Grace Kaufman</actor>
+      <actor role="Teddy Burns">Matthew McCann</actor>
+      <actor role="Emme Burns">Hala Finley</actor>
+      <director>James Burrows</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13413629eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313073000 +0000" stop="20260313075000 +0000">
+    <title lang="it">Papà a tempo pieno</title>
+    <sub-title lang="it">Garage e ricordi</sub-title>
+    <desc lang="it">Adam pensa di aver donato uno dei ricordi più belli della moglie Andi quando Don lo incoraggia a trasformare il garage pieno di cose in un rifugio per soli uomini.</desc>
+    <credits>
+      <actor role="Adam Burns">Matt LeBlanc</actor>
+      <actor role="Andi Burns">Liza Snyder</actor>
+      <actor role="Don Burns">Kevin Nealon</actor>
+      <actor role="Sig.ra Rodriguez">Dianna Maria Riva</actor>
+      <actor role="Marie Maldonado">Jessica Chaffin</actor>
+      <actor role="Lowell">Matt Cook</actor>
+      <actor role="Kate Burns">Grace Kaufman</actor>
+      <actor role="Teddy Burns">Matthew McCann</actor>
+      <actor role="Emme Burns">Hala Finley</actor>
+      <director>Pamela Fryman</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13426281eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313075000 +0000" stop="20260313084000 +0000">
+    <title lang="it">Doc Martin</title>
+    <sub-title lang="it">Decisioni importanti</sub-title>
+    <desc lang="it">La notizia della promozione di Martin per diventare preside dell'Imperial College si diffonde a Portwenn, prima che Martin e Louisa possano decidere se accettare l'incarico. Morwenna si interroga su cosa vuole fare della sua vita.</desc>
+    <credits>
+      <actor role="Dr. Martin Ellingham">Martin Clunes</actor>
+      <actor role="Louisa Glasson">Caroline Catz</actor>
+      <actor role="Bert Large">Ian McNeice</actor>
+      <actor role="Al Large">Joe Absolom</actor>
+      <actor role="Sally Tishell">Selina Cadell</actor>
+      <director>Ben Bolt</director>
+      <director>Nigel Cole</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23131759eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313084000 +0000" stop="20260313093500 +0000">
+    <title lang="it">Camargue</title>
+    <sub-title lang="it">Il regno d'acqua dolce</sub-title>
+    <desc lang="it">Scopriamo l'eccezionale paesaggio della Camargue settentrionale. Grazie alla grande quantità di acqua dolce proveniente dal Rodano, l'Alta Camargue è caratterizzata da grandi paludi e aree coltivate.</desc>
+    <credits>
+      <director>Xavier Lefebvre</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22391427eh11aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313093500 +0000" stop="20260313102000 +0000">
+    <title lang="it">Grandi progetti</title>
+    <sub-title lang="it">Una meraviglia avvolta tra gli alberi</sub-title>
+    <desc lang="it">Una giovane coppia decide di acquistare una casa degli anni 50 e di trasformarla in un capolavoro architettonico. Dopo un anno di ricerche, Ben e Rachel Hammond si imbattutono in una casa sepolta tra le fronde di un bellissimo parco a sud di Londra.</desc>
+    <credits>
+      <director>Emma Bowen</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10259835eh8ab_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S13 E7</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313102000 +0000" stop="20260313110500 +0000">
+    <title lang="it">Il mistero delle lettere perdute</title>
+    <sub-title lang="it">La famiglia è tutto</sub-title>
+    <desc lang="it">La lettera di una madre che ha abbandonato il figlio per necessità trentadue anni addietro porta la squadra a riunire una famiglia dispersa dai casi della vita.</desc>
+    <credits>
+      <actor role="Oliver O'Toole">Eric Mabius</actor>
+      <actor role="Shane McInerney">Kristin Booth</actor>
+      <actor role="Rita Haywith">Yan-Kay Crystal Lowe</actor>
+      <actor role="Norman Dorman">Geoff Gustafson</actor>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10748273eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <country lang="it">CA</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313110500 +0000" stop="20260313113000 +0000">
+    <title lang="it">Friends</title>
+    <sub-title lang="it">Un weekend da dimenticare</sub-title>
+    <desc lang="it">Monica e Chandler decidono di andare fuori per il weekend per stare insieme da soli, ma la vacanza va male e i due litigano. Ross deve dire a Rachel che non la potrà più vedere poiché Emily sta arrivando da Londra.</desc>
+    <credits>
+      <actor role="Rachel Green">Jennifer Aniston</actor>
+      <actor role="Phoebe Buffay">Courteney Cox</actor>
+      <actor role="Joey Tribbiani">Matt LeBlanc</actor>
+      <actor role="Chandler Bing">Matthew Perry</actor>
+      <actor role="Ross Geller">David Schwimmer</actor>
+    </credits>
+    <date>1998</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p1712354eh10ad_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313113000 +0000" stop="20260313114500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">13/03/2026, 12:30</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313114500 +0000" stop="20260313115000 +0000">
+    <title lang="it">Meteo regionale</title>
+    <sub-title lang="it">13/03/2026, 12:45</sub-title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo regionali per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164546bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313115000 +0000" stop="20260313132000 +0000">
+    <title lang="it">Consulente d'amore</title>
+    <desc lang="it">Sam è una consulente per appuntamenti sentimentali ma ha smesso di credere nell'amore dopo il recente divorzio dei suoi genitori. Alla festa per il nuovo fidanzamento di suo padre, la donna ha un battibecco.</desc>
+    <credits>
+      <actor role="Sam Mason">Jenna Michno</actor>
+      <actor role="Matt Cohen">John McLaughlin</actor>
+      <actor role="Jen">Skye Coyne</actor>
+      <actor role="Milly">Anne Patterson</actor>
+      <actor role="Don">James Hyde</actor>
+      <actor role="Frankie">Rib Hillis</actor>
+      <actor role="Wyatt">Nate Crnkovich</actor>
+      <actor role="Breanna">Andi Wagner</actor>
+      <director>John Murlowski</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24556989bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313132000 +0000" stop="20260313134000 +0000">
+    <title lang="it">Tesori del mondo</title>
+    <sub-title lang="it">Bellinzona</sub-title>
+    <desc lang="it">Il comune ticinese è un'importante base per i duchi di Milano, la diga offre protezione dalle truppe dei Confederati ed è un'importante "porta d'Italia" fino all'inizio del XVI secolo. Oggi, tre castelli ne testimoniano il passato.</desc>
+    <date>2003</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11918985eh10ab_Iconic_W660.webp" />
+    <country lang="it">DE</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313134000 +0000" stop="20260313142000 +0000">
+    <title lang="it">White Collar</title>
+    <sub-title lang="it">Rapina al Consolato</sub-title>
+    <desc lang="it">Neal ed Alex cercano di mettere le mani su un prezioso carillon, mentre Peter prova ad ottenere aiuto per liberarsi definitivamente di Fowler.</desc>
+    <credits>
+      <actor role="Neal Caffrey">Matt Bomer</actor>
+      <actor role="Peter Burke">Tim DeKay</actor>
+      <actor role="Elizabeth Burke">Tiffani Thiessen</actor>
+      <actor role="Mozzie">Willie Garson</actor>
+    </credits>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8028077eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313142000 +0000" stop="20260313155500 +0000">
+    <title lang="it">Marie Brand</title>
+    <sub-title lang="it">Marie Brand e la ragazza sul ring</sub-title>
+    <desc lang="it">Nell'ulttima indagine, i commissari Marie Brand e Jürgen Simmel a indagare in due mondi tra loro molto diversi: quello della ricerca accademica e quello della boxe.</desc>
+    <credits>
+      <director>Josh Broecker</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10463338eh10aa_Iconic_W660.webp" />
+    <country lang="it">DE</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313155500 +0000" stop="20260313170000 +0000">
+    <title lang="it">Siamo fuori</title>
+    <desc lang="it">Programma di intrattenimento e cucina in cui vengono accolti personaggi noti legati a realtà locali. L'ospite non solo ha il compito di parlare del luogo, delle sue avventure e delle esperienze della giornata, ma deve anche affrontare delle sorprese.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20687899bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313170000 +0000" stop="20260313180000 +0000">
+    <title lang="it">Prima ora</title>
+    <desc lang="it">Porta d'ingresso alla fascia informativa serale della RSI con ospiti e servizi. Notizie e ultimi aggiornamenti di attualità, cultura e sport dalla Svizzera e dal resto del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30934659ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313180000 +0000" stop="20260313183500 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">13/03/2026, 19:00</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313183500 +0000" stop="20260313185500 +0000">
+    <title lang="it">Zerovero</title>
+    <desc lang="it">Zerovero è un gioco a premi che vede i propri concorrenti sfidarsi con le parole basandosi su catene di lemmi unite da legami logici. Agli sfidanti in studio si assommano quanti da casa intendano giocare via telefono.</desc>
+    <credits>
+      <director>Manuel Buetti</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164912bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313185500 +0000" stop="20260313190000 +0000">
+    <title lang="it">Meteo regionale</title>
+    <sub-title lang="it">13/03/2026, 19:55</sub-title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo regionali per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164546bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313190000 +0000" stop="20260313193500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">13/03/2026, 20:00</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313193500 +0000" stop="20260313194000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313194000 +0000" stop="20260313205000 +0000">
+    <title lang="it">Patti chiari</title>
+    <desc lang="it">Settimanale di inchiesta e informazione sui diritti dei cittadini e dei consumatori, Patti Chiari è il magazine a difesa dei diritti del cittadino.</desc>
+    <credits>
+      <director>Dave Flury</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164322bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313205000 +0000" stop="20260313214500 +0000">
+    <title lang="it">Cliché</title>
+    <desc lang="it">Di volta in volta, un tema viene declinato nei modi più vari, con un approccio narrativo inconsueto. Frughiamo quindi nel nostro immaginario, provando a cercare le novità, partendo da ciò che spesso diamo per certo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32494585eh11aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313214500 +0000" stop="20260313221000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313221000 +0000" stop="20260313221500 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260313221500 +0000" stop="20260314000500 +0000">
+    <title lang="it">Memory</title>
+    <desc lang="it">Alex, un sicario, diventa il bersaglio della sua organizzazione per essersi rifiutato di fare un lavoro. Mentre fugge da loro, l'FBI e i servizi segreti messicani seguono le sue tracce, allertati dalla scia di cadaveri che lascia ovunque vada.</desc>
+    <credits>
+      <actor role="Alex Lewis">Liam Neeson</actor>
+      <actor role="Vincent Serra">Guy Pearce</actor>
+      <actor role="Davana Sealman">Monica Bellucci</actor>
+      <actor role="Linda Amistead">Taj Atwal</actor>
+      <actor role="Gerald Nussbaum">Ray Fearon</actor>
+      <actor role="Hugo Marquez">Harold Torres</actor>
+      <actor role="Detective Danny Mora">Ray Stevenson</actor>
+      <actor role="Drunk broker">Louis Mandylor</actor>
+      <director>Martin Campbell</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19907444bdh8ac_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314000500 +0000" stop="20260314010500 +0000">
+    <title lang="it">Siamo fuori</title>
+    <desc lang="it">Programma di intrattenimento e cucina in cui vengono accolti personaggi noti legati a realtà locali. L'ospite non solo ha il compito di parlare del luogo, delle sue avventure e delle esperienze della giornata, ma deve anche affrontare delle sorprese.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20687899bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314010500 +0000" stop="20260314012500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314012500 +0000" stop="20260314022000 +0000">
+    <title lang="it">Prima ora</title>
+    <desc lang="it">Porta d'ingresso alla fascia informativa serale della RSI con ospiti e servizi. Notizie e ultimi aggiornamenti di attualità, cultura e sport dalla Svizzera e dal resto del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30934659ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314022000 +0000" stop="20260314025000 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">14/03/2026, 03:25</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314025000 +0000" stop="20260314040000 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">14/03/2026, 03:55</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314040000 +0000" stop="20260314041500 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314041500 +0000" stop="20260314043500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314043500 +0000" stop="20260314044000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314044000 +0000" stop="20260314051000 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">14/03/2026, 05:25</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314051000 +0000" stop="20260314054000 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">14/03/2026, 06:05</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314054000 +0000" stop="20260314060000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314060000 +0000" stop="20260314070000 +0000">
+    <title lang="it">Siamo fuori</title>
+    <desc lang="it">Programma di intrattenimento e cucina in cui vengono accolti personaggi noti legati a realtà locali. L'ospite non solo ha il compito di parlare del luogo, delle sue avventure e delle esperienze della giornata, ma deve anche affrontare delle sorprese.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20687899bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314070000 +0000" stop="20260314072500 +0000">
+    <title lang="it">Colazione con Peo</title>
+    <sub-title lang="it">Il signor Sottozero</sub-title>
+    <desc lang="it">Peo ha deciso di portare in cortile le sue piantine ma Luca Luchetto, che si sente il Signor Sottozero, gli ricorda che manca ancora qualche giorno alla primavera e che il freddo, cioè il Signor Sottozero, può ancora far sentire il suo influsso.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11175944bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314072500 +0000" stop="20260314073000 +0000">
+    <title lang="it">Mini Smiley</title>
+    <sub-title lang="it">Festa in pigiama</sub-title>
+    <desc lang="it">I nostri amici Mini Smiley si lanciano in una corsa incantata nella notte stellata.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30862898eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E61</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314073000 +0000" stop="20260314075000 +0000">
+    <title lang="it">Evviva Sandrino</title>
+    <sub-title lang="it">Il mistero della statua senza nome; Il mistero dell'anello da agente segreto</sub-title>
+    <desc lang="it">Nel paese di Sgobbonia ogni giorno c'è un mistero da risolvere. Grazie all'intervento di Sandrino e i suoi divertenti amici, però, tutto si aggiusta sempre con successo.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8434158eh14aa_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+    <episode-num system="onscreen">S2 E26</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314075000 +0000" stop="20260314080500 +0000">
+    <title lang="it">Grisù</title>
+    <sub-title lang="it">Grisù, il tecnico dell'impianto</sub-title>
+    <desc lang="it">Fumé chiede al figlio di sorvegliare l'impianto idrico durante la sua assenza. Grisù accetta la missione e Stella lo supporta. Purtroppo, il draghetto abbassa involontariamente una leva causando il surriscaldamento dell'acqua.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26186388ih8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <country lang="it">DE</country>
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314080500 +0000" stop="20260314081000 +0000">
+    <title lang="it">Pocoyo</title>
+    <sub-title lang="it">Amiche formiche</sub-title>
+    <desc lang="it">Pocoyo aiuta una formica ad attraversare un ruscello e tutto il formicaio gli è grato. Da quel momento in poi, le formiche ricambiano il favore portando la colazione a letto a Pocoyo, lavandogli i denti o utilizzando il telecomando per lui.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28020789ih10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">ES</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314081000 +0000" stop="20260314082000 +0000">
+    <title lang="it">Sam Sam: Avventure cosmiche</title>
+    <sub-title lang="it">La gara della cometa</sub-title>
+    <desc lang="it">I bambini partecipano alla gara della cometa, ma SuperJulie esagera e trascina SamSam e i suoi amici in una sfida per nulla divertente.</desc>
+    <credits>
+      <director>Tanguy de Kermel</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25509064ih10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S3 E49</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314082000 +0000" stop="20260314083500 +0000">
+    <title lang="it">I puffi</title>
+    <sub-title lang="it">La notte più buia</sub-title>
+    <desc lang="it">Le emozionanti vicende dei Puffi, piccoli personaggi dalla pelle blu, che si imbarcano in incredibili avventure e combattono coraggiosamente contro il mago Gargamella.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p27956874ih8ab_Iconic_W660.webp" />
+    <country lang="it">BE</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314083500 +0000" stop="20260314084500 +0000">
+    <title lang="it">Le tre moschettiere</title>
+    <sub-title lang="it">La profezia</sub-title>
+    <desc lang="it">Parigi, 1613. D'Artagnan indossa ogni giorno l'uniforme della guardia del corpo del giovane Luigi XIII, dove si unisce ai tre moschettieri, Athos, Porthos e Aramis. Ma dietro le loro maschere si nascondono Charlotte, Olivia, Inès e Isa.</desc>
+    <credits>
+      <director>Stéphane Mit</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p29475287eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314084500 +0000" stop="20260314090000 +0000">
+    <title lang="it">MeteoHeroes</title>
+    <sub-title lang="it">Allarme acqua alta</sub-title>
+    <desc lang="it">C'è un problema a Venezia. Un'inaspettata alta marea sta allagando Piazza San Marco e mette in pericolo i monumenti. Nubess e Thermo vengono inviati per aiutare la città sommersa dall'acqua.</desc>
+    <credits>
+      <director>Luigi Latini</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23105770eh10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314090000 +0000" stop="20260314092000 +0000">
+    <title lang="it">Il piccolo Yeti e la città invisibile</title>
+    <sub-title lang="it">Il ritorno di Everest</sub-title>
+    <desc lang="it">Yi usa il suo violino per cercare di recuperare il suo potere magico senza la presenza di Everest. Yi, Jin e Peng scoprono che il violino di Yi ha attirato Feng Huang, un uccello magico che ha bisogno del loro aiuto.</desc>
+    <credits>
+      <director>Jill Culton</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22947544eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <country lang="it">CN</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314092000 +0000" stop="20260314093000 +0000">
+    <title lang="it">Le avventure di Snoopy</title>
+    <sub-title lang="it">La felicità è una giornata di neve</sub-title>
+    <desc lang="it">Snoopy mostra a Marcie come sfruttare al meglio una giornata di neve e aiuta Replica a recuperare una slitta fuori controllo. Inoltre, decide di costruire un pupazzo di neve insieme a Woodstock.</desc>
+    <credits>
+      <director>Steve Evangelatos</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19483710eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314093000 +0000" stop="20260314093500 +0000">
+    <title lang="it">Le avventure di Snoopy</title>
+    <sub-title lang="it">Allarme slitta</sub-title>
+    <desc lang="it">Snoopy, il cagnolino bianco e nero più amato dai bambini a livello internazionale, e il suo migliore amico piumato di nome Woodstock si imbarcano in nuove e divertentissime avventure.</desc>
+    <credits>
+      <director>Steve Evangelatos</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32496522eh11aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314093500 +0000" stop="20260314094500 +0000">
+    <title lang="it">C'erano una volta...gli oggetti</title>
+    <sub-title lang="it">Il costume da bagno</sub-title>
+    <desc lang="it">Maestro torna indietro nel tempo fino al XVII secolo, dove scopre che fino a quel momento la gente faceva il bagno nuda e senza complessi. Pochi anni dopo, era vero il contrario: per fare il bagno bisognava essere vestiti dalla testa ai piedi.</desc>
+    <credits>
+      <actor role="Maestro">Jean-Claude Donda</actor>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26827171eh10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <episode-num system="onscreen">S1 E46</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314094500 +0000" stop="20260314110500 +0000">
+    <title lang="it">Lizzy e Red: Amici per sempre</title>
+    <desc lang="it">In seguito a un incidente, l'esuberante topolina Lizzy e il timido cucciolo di volpe Red si ritrovano nel paradiso degli animali. Qui, i due mettono da parte i propri istinti naturali e Red aiuta Lizzy a cercare il padre.</desc>
+    <credits>
+      <director>Denisa Grimmová</director>
+      <director>Jan Bubenicek</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18957395bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">CZ</country>
+    <country lang="it">FR</country>
+    <country lang="it">SK</country>
+    <country lang="it">PL</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314110500 +0000" stop="20260314113000 +0000">
+    <title lang="it">Segni dei tempi</title>
+    <desc lang="it">Una rubrica settimanale evangelica, attenta a ciò che accade nel mondo cristiano e nella società. Segni dei Tempi si occupa di fede, spiritualità, etica e diritti umani.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11175983bdh8ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314113000 +0000" stop="20260314114500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">14/03/2026, 12:30</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314114500 +0000" stop="20260314115000 +0000">
+    <title lang="it">Meteo regionale</title>
+    <sub-title lang="it">14/03/2026, 12:45</sub-title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo regionali per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164546bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314115000 +0000" stop="20260314130000 +0000">
+    <title lang="it">Patti chiari</title>
+    <desc lang="it">Settimanale di inchiesta e informazione sui diritti dei cittadini e dei consumatori, Patti Chiari è il magazine a difesa dei diritti del cittadino.</desc>
+    <credits>
+      <director>Dave Flury</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164322bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314130000 +0000" stop="20260314133500 +0000">
+    <title lang="it">Cravariola: L'alpe della dote</title>
+    <desc lang="it">La storia di un alpeggio sospeso tra Italia e Svizzera, dalla sua origine come dono nuziale medievale fino al celebre arbitrato internazionale di J.P. Marsh. Un luogo di confine che diventa simbolo di memoria, identità e cooperazione.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32151504ih10aa_Iconic_W660.webp" />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314133500 +0000" stop="20260314142000 +0000">
+    <title lang="it">Padre Brown</title>
+    <sub-title lang="it">Degna sepoltura</sub-title>
+    <desc lang="it">L'assassino di alcuni bambini viene trovato morto nella foresta. I terribili eventi del passato costringono Padre Brown a scavare a fondo. Il caso apre vecchie ferite e allo stesso tempo ne svela di nuove.</desc>
+    <credits>
+      <actor role="Father Brown">Mark Williams</actor>
+      <actor role="Mrs McCarthy">Sorcha Cusack</actor>
+      <actor role="Inspector Mallory">Jack Deam</actor>
+      <actor role="Sergeant Goodfellow">John Burton</actor>
+      <actor role="Sid Carter">Alex Price</actor>
+      <actor role="John Banks">John Thomson</actor>
+      <actor role="Nora Banks">Penny Layden</actor>
+      <director>John Maidens</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21235116eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314142000 +0000" stop="20260314160000 +0000">
+    <title lang="it">Blueback</title>
+    <desc lang="it">In seguito all'ictus di sua madre, Abby torna nel luogo in cui è cresciuta, nel cuore della costa occidentale australiana, dove ripercorre alcuni dei più importanti momenti della sua infanzia e adolescenza.</desc>
+    <credits>
+      <actor role="Abby">Mia Wasikowska</actor>
+      <actor role="Dora">Radha Mitchell</actor>
+      <actor role="Macka">Eric Bana</actor>
+      <actor role="Teenage Abby">Ilsa Fogg</actor>
+      <actor role="Young Abby">Ariel Donoghue</actor>
+      <actor role="Older Dora">Liz Alexander</actor>
+      <actor role="Briggs">Clarence Ryan</actor>
+      <actor role="Teen Briggs">Pedrea Jackson</actor>
+      <actor role="Costello">Erik Thomson</actor>
+      <actor role="Gitundu">Albert Mwangi</actor>
+      <director>Robert Connolly</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22536502bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">AU</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314160000 +0000" stop="20260314170000 +0000">
+    <title lang="it">Il giardino di Albert</title>
+    <sub-title lang="it">Sotto una buona stella?</sub-title>
+    <desc lang="it">Da millenni l'umanità scruta il cielo in cerca di significati. L'astrologia è nata così: come un tentativo di interpretare gli eventi della Terra attraverso il linguaggio degli astri. E per secoli è stata considerata una vera scienza.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11177517bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314170000 +0000" stop="20260314170500 +0000">
+    <title lang="it">Telegiornale flash</title>
+    <desc lang="it">Appuntamento informativo quotidiano con gli ultimi aggiornamenti dalla Svizzera Italiana.</desc>
+    <credits>
+      <director>Dimistris Statiris</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164742bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314170500 +0000" stop="20260314174000 +0000">
+    <title lang="it">Scacciapensieri</title>
+    <desc lang="it">Una sigla che mette allegria, disegni animati di classe delle grandi firme del cinema americano e risate a colpo sicuro: questo è Scacciapensieri, il programma tutto a disegni animati.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11176868bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314174000 +0000" stop="20260314180000 +0000">
+    <title lang="it">Strada regina</title>
+    <desc lang="it">Settimanale cattolico con un taglio giornalistico che offre servizi, interviste, notizie e commenti. Presenta e racconta esperienze ed eventi legati a differenti tematiche religiose.</desc>
+    <credits>
+      <director>Mauro Triani</director>
+      <director>Boris Kaeppeli</director>
+      <director>Massimo Ferrario</director>
+      <director>Christine Conconi</director>
+      <director>Giuseppe Reycend</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11176887bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314180000 +0000" stop="20260314184000 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">14/03/2026, 19:00</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314184000 +0000" stop="20260314184500 +0000">
+    <title lang="it">Insieme</title>
+    <desc lang="it">Programma che accende la luce sui progetti di sviluppo ambientali, ecologici, educativi ed artistici più interessanti, attualmente attivi sul territorio svizzero e nel terzo mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11180759bdh8ae_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314184500 +0000" stop="20260314185500 +0000">
+    <title lang="it">Lotto svizzero</title>
+    <desc lang="it">Scopriamo se la dea Fortuna ci sorride, osservando i numeri che vengono estratti dall'urna.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11171811bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314185500 +0000" stop="20260314190000 +0000">
+    <title lang="it">Meteo regionale</title>
+    <sub-title lang="it">14/03/2026, 19:55</sub-title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo regionali per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164546bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314190000 +0000" stop="20260314193500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">14/03/2026, 20:00</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314193500 +0000" stop="20260314194000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314194000 +0000" stop="20260314212000 +0000">
+    <title lang="it">Come un uragano</title>
+    <desc lang="it">Paul e Adrienne, ritrovatisi su un'isoletta del Nord Carolina, vengono colpiti da un uragano. La vicinanza fa riscoprire loro sentimenti ed emozioni ormai sepolte.</desc>
+    <credits>
+      <actor role="Dott. Paul Flanner">Richard Gere</actor>
+      <actor role="Adrienne Willis">Diane Lane</actor>
+      <actor role="Jack">Christopher Meloni</actor>
+      <actor role="Jean">Viola Davis</actor>
+      <actor role="Robert Torrelson">Scott Glenn</actor>
+      <actor role="Mark">James Franco</actor>
+      <actor role="Amanda">Mae Whitman</actor>
+      <actor role="Dot">Becky Ann Baker</actor>
+      <actor role="Jill Torrelson">Linda Molloy</actor>
+      <actor role="Charlie Torrrelson">Pablo Schreiber</actor>
+      <director>George Wolfe</director>
+    </credits>
+    <date>2008</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p175726bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <country lang="it">AU</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314212000 +0000" stop="20260314213500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314213500 +0000" stop="20260314214000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314214000 +0000" stop="20260314223500 +0000">
+    <title lang="it">Astrid e Raphaëlle</title>
+    <sub-title lang="it">L'identità</sub-title>
+    <desc lang="it">Una giovane sotto l'effetto di una potente droga viene ritrovata con la pistola usata per commettere un crimine 25 anni prima in una piccola comunità.</desc>
+    <credits>
+      <actor role="Astrid Nielsen">Sara Mortensen</actor>
+      <actor role="Raphaëlle Coste">Lola Dewaere</actor>
+      <actor role="Nicolas Perran">Benoit Michel</actor>
+      <actor role="Arthur Enguien">Meledeen Yacoubi</actor>
+      <actor role="Carl Bachert">Jean-Louis Garçon</actor>
+      <actor role="Henry Fournier">Husky Kihal</actor>
+      <actor role="William Thomas">Jean-Benoit Souilh</actor>
+      <actor role="Abigaël">Lola Le Lann</actor>
+      <actor role="Tony">Ben Feitelson</actor>
+      <actor role="Anne Langlais">Valérie Kaprisky</actor>
+      <director>Chloé Micout</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21919134eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <country lang="it">BE</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314223500 +0000" stop="20260314233000 +0000">
+    <title lang="it">Astrid e Raphaëlle</title>
+    <sub-title lang="it">La stanza aperta</sub-title>
+    <desc lang="it">Un assassino viene trovato morto nella stanza dell'ospedale psichiatrico in cui era stato ricoverato. Anche se sembra un incidente, potrebbe trattarsi di un crimine organizzato dall'interno della struttura.</desc>
+    <credits>
+      <actor role="Astrid Nielsen">Sara Mortensen</actor>
+      <actor role="Raphaëlle Coste">Lola Dewaere</actor>
+      <actor role="Nicolas Perran">Benoit Michel</actor>
+      <actor role="Arthur Enguien">Meledeen Yacoubi</actor>
+      <actor role="Carl Bachert">Jean-Louis Garçon</actor>
+      <actor role="Henry Fournier">Husky Kihal</actor>
+      <actor role="Alain Lamarck">Stéphane Guillon</actor>
+      <actor role="Dottor Foreman">Jérémie Covillaut</actor>
+      <actor role="Elysabeth HP">Dominique Frot</actor>
+      <actor role="Astrid Nielsen a 15 anni">Sylvie Filloux</actor>
+      <director>Chloé Micout</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21919143eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <country lang="it">BE</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260314233000 +0000" stop="20260315012500 +0000">
+    <title lang="it">Non è un paese per vecchi</title>
+    <desc lang="it">Durante una battuta di caccia in solitaria, un saldatore del Texas trova e si impossessa di una somma di denaro precedentemente rubata. L'uomo diventa così preda di una banda di criminali.</desc>
+    <credits>
+      <actor role="Sceriffo Ed Tom Bell">Tommy Lee Jones</actor>
+      <actor role="Anton Chigurh">Javier Bardem</actor>
+      <actor role="Llewelyn Moss">Josh Brolin</actor>
+      <actor role="Carson Wells">Woody Harrelson</actor>
+      <actor role="Carla Jean Moss">Kelly Macdonald</actor>
+      <actor role="Wendell">Garret Dillahunt</actor>
+      <actor role="Loretta Bell">Tess Harper</actor>
+      <actor role="Ellis">Barry Corbin</actor>
+      <actor role="Uomo che assume Carson Wells">Stephen Root</actor>
+      <actor role="Sceriffo di El Paso">Rodger Boyce</actor>
+      <director>Joel Coen</director>
+      <director>Ethan Coen</director>
+    </credits>
+    <date>2007</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p170313bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315012500 +0000" stop="20260315013500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315013500 +0000" stop="20260315014000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315014000 +0000" stop="20260315021500 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">15/03/2026, 02:45</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315021500 +0000" stop="20260315040000 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">15/03/2026, 03:20</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315040000 +0000" stop="20260315040500 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315040500 +0000" stop="20260315042000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315042000 +0000" stop="20260315045500 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">15/03/2026, 05:10</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315045500 +0000" stop="20260315052500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">15/03/2026, 05:45</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315052500 +0000" stop="20260315053500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315053500 +0000" stop="20260315061000 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">15/03/2026, 06:25</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315061000 +0000" stop="20260315064000 +0000">
+    <title lang="it">Cuntrasts</title>
+    <desc lang="it">Un programma che esplora la cultura retoromancia e grigionese, riflettendo e presentando cambiamenti, sviluppi e storie della nostra vita quotidiana, della società, della politica, della cultura, dello sport e molto altro ancora.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21242313eh10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315064000 +0000" stop="20260315070000 +0000">
+    <title lang="it">Strada regina</title>
+    <desc lang="it">Settimanale cattolico con un taglio giornalistico che offre servizi, interviste, notizie e commenti. Presenta e racconta esperienze ed eventi legati a differenti tematiche religiose.</desc>
+    <credits>
+      <director>Mauro Triani</director>
+      <director>Boris Kaeppeli</director>
+      <director>Massimo Ferrario</director>
+      <director>Christine Conconi</director>
+      <director>Giuseppe Reycend</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11176887bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315070000 +0000" stop="20260315070500 +0000">
+    <title lang="it">Edmondo e Lucy: Pillole di natura</title>
+    <sub-title lang="it">Le foglie</sub-title>
+    <credits>
+      <director>François Narboux</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30464561ih10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315070500 +0000" stop="20260315071000 +0000">
+    <title lang="it">L'orsetto Pompon</title>
+    <sub-title lang="it">La pipì di Pompon</sub-title>
+    <desc lang="it">Pompon sente di dover fare la pipì durante una festa in pigiama con Rita, ma non vuole alzarsi per andare in bagno. Dopo un po', si rende conto di aver avuto un incidente nel letto e non vuole che Rita lo sappia. La madre Linette lo conforta.</desc>
+    <credits>
+      <director>Matthieu Gaillard</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19232825eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E16</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315071000 +0000" stop="20260315072000 +0000">
+    <title lang="it">Lola on Board</title>
+    <sub-title lang="it">Ciak, Lola!</sub-title>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32386621ih10aa_Iconic_W660.webp" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315072000 +0000" stop="20260315072500 +0000">
+    <title lang="it">Il libro illustrato di Koumi</title>
+    <sub-title lang="it">Fenicottero</sub-title>
+    <desc lang="it">Una bambina di 6 anni, allegra e birichina, sogna di conoscere tutti gli animali del mondo. Grazie al suo libro illustrato allora, parte per un viaggio attraverso i continenti del mondo.</desc>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18646326eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315072500 +0000" stop="20260315073500 +0000">
+    <title lang="it">Il piccolo principe e i suoi amici</title>
+    <sub-title lang="it">Comete da surf</sub-title>
+    <desc lang="it">Carlotta è arrabbiata perché è arrivata seconda dopo Neela in una gara di corsa. ll Piccolo Principe porta i nostri amici sul circuito Centauris, dove si svolgono le gare di surf sulle comete.</desc>
+    <credits>
+      <director>Fabien Brandily</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25931233eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315073500 +0000" stop="20260315074500 +0000">
+    <title lang="it">Piggy Builders: Maialini costruttori</title>
+    <sub-title lang="it">La notte delle stelle cadenti</sub-title>
+    <desc lang="it">Le stelle cadenti appaiono sopra il Monte Cimapiatta. Tutti scalano la montagna, tranne Fiona. Putroppo questa si è fatta male, ma i maialini sono decisi a far sì che Fiona non perda lo spettacolo.</desc>
+    <credits>
+      <director>Romain Villemaine</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30786648eh10aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315074500 +0000" stop="20260315080000 +0000">
+    <title lang="it">Leo Da Vinci</title>
+    <sub-title lang="it">Il palio delle casate</sub-title>
+    <desc lang="it">Con l'avvicinarsi del Palio delle Casate, i pirati organizzano il rapimento del fantino dei Medici. Il progetto criminoso riesce e il fantino viene rapito, ma Leo, che ne prende il posto, vuole vincere la gara.</desc>
+    <credits>
+      <director>Sergio Manfio</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17727231eh10ab_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315080000 +0000" stop="20260315081000 +0000">
+    <title lang="it">I puffi</title>
+    <sub-title lang="it">Il tredicesimo dessert</sub-title>
+    <desc lang="it">Le emozionanti vicende dei Puffi, piccoli personaggi dalla pelle blu, che si imbarcano in incredibili avventure e combattono coraggiosamente contro il mago Gargamella.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p27956874ih8ab_Iconic_W660.webp" />
+    <country lang="it">BE</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315081000 +0000" stop="20260315082000 +0000">
+    <title lang="it">Vita da giungla: Alla riscossa!</title>
+    <sub-title lang="it">L' invasione delle carote carnivore</sub-title>
+    <desc lang="it">La Squadra della Giungla corre in soccorso dei conigli per salvarli dalle piante carnivore e dai funghi esplosivi, involontariamente piantati da Roger al posto delle carote.</desc>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19029183eh10aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315082000 +0000" stop="20260315083000 +0000">
+    <title lang="it">Snoopy nello spazio: Alla ricerca di altre forme di vita</title>
+    <sub-title lang="it">Missione 6: Sonnambulismo spaziale</sub-title>
+    <desc lang="it">L'improvvisa sparizione di Woodstock interrompe una tranquilla nottata sulla ISS. Snoopy è nel panico.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17607933eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315083000 +0000" stop="20260315084000 +0000">
+    <title lang="it">C'erano una volta...gli oggetti</title>
+    <sub-title lang="it">Lo skateboard</sub-title>
+    <desc lang="it">Psi si sta allenando per partecipare a una gara, ma un avversario disonesto riesce a rompere la sua tavola. Maestro lo porta quindi con sé negli Stati Uniti per trovarne una nuova.</desc>
+    <credits>
+      <actor role="Maestro">Jean-Claude Donda</actor>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26838070eh10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <episode-num system="onscreen">S1 E47</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315084000 +0000" stop="20260315093500 +0000">
+    <title lang="it">Il giardino di Albert</title>
+    <sub-title lang="it">Sotto una buona stella?</sub-title>
+    <desc lang="it">Da millenni l'umanità scruta il cielo in cerca di significati. L'astrologia è nata così: come un tentativo di interpretare gli eventi della Terra attraverso il linguaggio degli astri. E per secoli è stata considerata una vera scienza.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11177517bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315093500 +0000" stop="20260315113000 +0000">
+    <title lang="it">Paganini</title>
+    <desc lang="it">I dischi fonografici furono creati da Emile Berliner, l'inventore tedesco-americano che introdusse il primo disco in gommalacca a 78 giri nel 1889. Nanni Ricordi si può definire l'inventore dei dischi per l'ambito della musica italiana.</desc>
+    <credits>
+      <director>Fabio Luca</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11177170ih10ac_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315113000 +0000" stop="20260315114500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">15/03/2026, 12:30</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315114500 +0000" stop="20260315115000 +0000">
+    <title lang="it">Meteo regionale</title>
+    <sub-title lang="it">15/03/2026, 12:45</sub-title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo regionali per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164546bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315115000 +0000" stop="20260315130500 +0000">
+    <title lang="it">Colombo</title>
+    <sub-title lang="it">Il filo del delitto</sub-title>
+    <desc lang="it">Il dottor Barry Mayfield sta lavorando ad un importante progetto di ricerca in collaborazione con un collega, il dottor Edmund Hiedeman. Quest'ultimo chiede consulenza ad un famoso cardiologo straniero, firmando la propria condanna a morte.</desc>
+    <credits>
+      <actor role="Lt. Columbo">Peter Falk</actor>
+      <director>Hy Averback</director>
+    </credits>
+    <date>1973</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p1058555eh10ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315130500 +0000" stop="20260315131500 +0000">
+    <title lang="it">Donne che hanno cambiato il mondo</title>
+    <sub-title lang="it">Elizabeth Taylor</sub-title>
+    <desc lang="it">Forse l'ultima grande diva dell'era d'oro di Hollywood, l'artista raggiunge il successo tra gli anni 50 e 60. Vincitrice di due Oscar alla miglior attrice, è anche ricordata per l'intensa attività di raccolta di fondi per beneficenza.</desc>
+    <credits>
+      <director>Francesca Rossi</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep046242890026x939_stage_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315131500 +0000" stop="20260315141500 +0000">
+    <title lang="it">Tandem</title>
+    <sub-title lang="it">Colpito e affondato</sub-title>
+    <desc lang="it">Il corpo di una ricercatrice impegnata nello sviluppo dell'allevamento ittico viene ritrovato in un laghetto a pochi giorni da una importante pubblicazione. Le indagini mostrano come la donna volesse radicalmente cambiar vita.</desc>
+    <credits>
+      <actor role="Léa Soler">Astrid Veillon</actor>
+      <actor role="Paul Marchal">Stéphane Blancafort</actor>
+      <actor role="Erwan Lebellec">Piérick Tournier</actor>
+      <actor role="Camille Barbier">Nelly Lawson</actor>
+      <actor role="Sophie Vannier">Guillemette Barioz</actor>
+      <actor role="Thomas Marchal">Titouan Laporte</actor>
+      <actor role="Franck Marvaud">François-Dominique Blin</actor>
+      <actor role="Colonnello Vauvert">David Marchal</actor>
+      <actor role="Juliette Miron">Audrey Montpied</actor>
+      <actor role="Antoine Carpentier">Franck Adrien</actor>
+      <director>Jason Roffé</director>
+    </credits>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15579744eh8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315141500 +0000" stop="20260315151000 +0000">
+    <title lang="it">Delitti in Paradiso</title>
+    <sub-title lang="it">Vendetta</sub-title>
+    <desc lang="it">Un famoso chef viene avvelenato durante una gara di cucina tra diversi aspiranti. Tuttavia, la squadra rimane confusa quando si rende conto che la vittima quel giorno non ha consumato nulla di diverso da quello he hanno mangiato anche loro.</desc>
+    <credits>
+      <actor role="Ispettore Neville Parker">Ralf Little</actor>
+      <actor role="Commissario Selwyn Patterson">Don Warrington</actor>
+      <actor role="DS Naomi Thomas">Shantol Jackson</actor>
+      <actor role="Officer Marlon Pryce">Tahj Miles</actor>
+      <actor role="Agente Darlene Curtis">Ginny Holder</actor>
+      <actor role="Catherine Bordey">Élizabeth Bourgine</actor>
+      <actor role="Stanley Drake">Gordon Kennedy</actor>
+      <actor role="Andrina Harper Patterson">Genesis Lynea</actor>
+      <actor role="Dionne Bertrand">Shvorne Marks</actor>
+      <actor role="Celeste Duvall">Yasmin Mwanza</actor>
+      <director>Angie de Chastelai-Smith</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26602885eh10ab_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S13 E3</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315151000 +0000" stop="20260315170000 +0000">
+    <title lang="it">Purché finisca bene</title>
+    <sub-title lang="it">Tutto a posto</sub-title>
+    <desc lang="it">Reggio Calabria. Francesco è un professore di mezza età rimasto cieco a seguito di una malattia. Sua moglie l'ha abbandonato, mentre sua figlia Maria è partita per studiare a Londra, assecondando le sue aspettative.</desc>
+    <credits>
+      <director>Giorgio Romano</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10827530bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315170000 +0000" stop="20260315171000 +0000">
+    <title lang="it">Telegiornale flash</title>
+    <desc lang="it">Appuntamento informativo quotidiano con gli ultimi aggiornamenti dalla Svizzera Italiana.</desc>
+    <credits>
+      <director>Dimistris Statiris</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164742bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315171000 +0000" stop="20260315173500 +0000">
+    <title lang="it">Moviola 340</title>
+    <desc lang="it">Ripercorriamo avvenimenti e curiosità che hanno segnato la storia e il costume della Svizzera italiana e della televisione attraverso esibizioni musicali.</desc>
+    <credits>
+      <director>Nick Rusconi</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11362952bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315173500 +0000" stop="20260315180000 +0000">
+    <title lang="it">Nero su bianco</title>
+    <desc lang="it">Un viaggio tra storie, autori e consigli di lettura.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31509678bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <episode-num system="onscreen">S1 E17</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315180000 +0000" stop="20260315182000 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">15/03/2026, 19:00</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315182000 +0000" stop="20260315185500 +0000">
+    <title lang="it">Lo Specchio</title>
+    <desc lang="it">Personalità provenienti da ambiti diversi, come quelli della cultura, dello spettacolo, della politica o dello sport si spingono fra ricordi, confessioni ed emozioni. Ad accoglierli e accompagnarli in questo viaggio, Damiano Realini.</desc>
+    <credits>
+      <director>Chris Guidotti</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22801725bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315185500 +0000" stop="20260315190000 +0000">
+    <title lang="it">Meteo regionale</title>
+    <sub-title lang="it">15/03/2026, 19:55</sub-title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo regionali per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164546bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315190000 +0000" stop="20260315193500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">15/03/2026, 20:00</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315193500 +0000" stop="20260315194000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315194000 +0000" stop="20260315204500 +0000">
+    <title lang="it">Storie</title>
+    <desc lang="it">Dopo anni di gestione volontaria, Radio Gwendalyn si trova ad affrontare la professionalizzazione. È la prima radio comunitaria della Svizzera italiana ad aver ottenuto dall’UFCOM  lo status di radio complementare senza scopo di lucro.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep020310240181x770_stage_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315204500 +0000" stop="20260315213500 +0000">
+    <title lang="it">La vita sull'alpe</title>
+    <sub-title lang="it">Separazione sull'alpe e altri imprevisti</sub-title>
+    <desc lang="it">Sieglinde Zottmaier è triste perché il suo compagno, Fonsi, l'ha lasciata e ora deve gestire la malga da sola. Martin Salzmann, intanto, cerca di combattere la noia, ma i giorni di solitudine sull'alpe lo mettono in difficoltà.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30324039eh10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315213500 +0000" stop="20260315215000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315215000 +0000" stop="20260315215500 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315215500 +0000" stop="20260315224000 +0000">
+    <title lang="it">La legge di Lidia Poët</title>
+    <desc lang="it">Lidia ed Enrico scoprono dei segreti di famiglia quando un uomo dal passato di Lidia confessa di aver ucciso il padre proprio nella casa in cui lei è cresciuta.</desc>
+    <credits>
+      <actor role="Lidia Poët">Matilda De Angelis</actor>
+      <actor role="Teresa Barberis">Sara Lazzaro</actor>
+      <actor role="Louis">Nicolo Pasetti</actor>
+      <actor role="Andrea Caracciolo">Dario Aita</actor>
+      <actor role="Jacopo Barberis">Eduardo Scarpetta</actor>
+      <actor role="Enrico Poët">Pierluigi Pasino</actor>
+      <actor role="Marianna Poët">Sinead Thornhill</actor>
+      <director>Letizia Lamartire</director>
+      <director>Matteo Rovere</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23909993eh10aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315224000 +0000" stop="20260315232500 +0000">
+    <title lang="it">La legge di Lidia Poët</title>
+    <desc lang="it">Una donna simile a Lidia, anche lei colta, sottovalutata e derisa, finisce sotto processo. Lidia vorrebbe difenderla, ma forse è troppo coinvolta emotivamente per vedere la verità.</desc>
+    <credits>
+      <actor role="Lidia Poët">Matilda De Angelis</actor>
+      <actor role="Teresa Barberis">Sara Lazzaro</actor>
+      <actor role="Louis">Nicolo Pasetti</actor>
+      <actor role="Andrea Caracciolo">Dario Aita</actor>
+      <actor role="Jacopo Barberis">Eduardo Scarpetta</actor>
+      <actor role="Enrico Poët">Pierluigi Pasino</actor>
+      <actor role="Marianna Poët">Sinead Thornhill</actor>
+      <director>Letizia Lamartire</director>
+      <director>Matteo Rovere</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23909996eh8aa_Iconic_W660.webp" />
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260315232500 +0000" stop="20260316011000 +0000">
+    <title lang="it">Le folli notti del dottor Jerryl</title>
+    <desc lang="it">Stanco di essere deriso dagli studenti, l'eccentrico professore di chimica Julius Kelp scopre una soluzione vitaminica che lo trasforma in un disinvolto conquistatore.</desc>
+    <credits>
+      <actor role="Professor Julius Kelp/ Buddy Love">Jerry Lewis</actor>
+      <actor role="Stella Purdy">Stella Stevens</actor>
+      <actor role="Dottor Hamius R. Warfield">Del Moore</actor>
+      <actor role="Millie Lemmon">Kathleen Freeman</actor>
+      <actor role="Giocatore">Med Flory</actor>
+      <actor role="Signor Elmer Kelp">Howard Morris</actor>
+      <actor role="Edwina Kelp">Elvia Allman</actor>
+      <actor role="Gibson">Henry Gibson</actor>
+      <director>Jerry Lewis</director>
+    </credits>
+    <date>1963</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p4183bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316011000 +0000" stop="20260316011500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316011500 +0000" stop="20260316012000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316012000 +0000" stop="20260316013500 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">16/03/2026, 02:30</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316013500 +0000" stop="20260316020500 +0000">
+    <title lang="it">Lo Specchio</title>
+    <desc lang="it">Personalità provenienti da ambiti diversi, come quelli della cultura, dello spettacolo, della politica o dello sport si spingono fra ricordi, confessioni ed emozioni. Ad accoglierli e accompagnarli in questo viaggio, Damiano Realini.</desc>
+    <credits>
+      <director>Chris Guidotti</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22801725bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316020500 +0000" stop="20260316040000 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">16/03/2026, 03:15</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316040000 +0000" stop="20260316042000 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316042000 +0000" stop="20260316062000 +0000">
+    <title lang="it">La domenica sportiva</title>
+    <desc lang="it">Tutti gli eventi sportivi della domenica, vissuti attraverso le sintesi e i servizi preparati dalla redazione, le immagini salienti e interviste esclusive ai protagonisti delle sfide.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11178099bh11ac_BannerL1_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316062000 +0000" stop="20260316064500 +0000">
+    <title lang="it">Mezz'ora per voi</title>
+    <desc lang="it">Trenta minuti di benessere attraverso esercizi di yoga, pilates, tonificazione e ginnastica dolce. Scopriamo insieme i benefici dell'attività fisica, fondamentale per la nostra salute.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11390111ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316064500 +0000" stop="20260316071000 +0000">
+    <title lang="it">Mezz'ora per voi</title>
+    <desc lang="it">Trenta minuti di benessere attraverso esercizi di yoga, pilates, tonificazione e ginnastica dolce. Scopriamo insieme i benefici dell'attività fisica, fondamentale per la nostra salute.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11390111ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316071000 +0000" stop="20260316073000 +0000">
+    <title lang="it">Papà a tempo pieno</title>
+    <sub-title lang="it">Adam e il tacchino</sub-title>
+    <desc lang="it">Andi fatica a rimanere da parte quando l'organizzazione della festa per il Giorno del Ringraziamento a scuola viene affidata a Adam, David e Lowell.</desc>
+    <credits>
+      <actor role="Adam Burns">Matt LeBlanc</actor>
+      <actor role="Andi Burns">Liza Snyder</actor>
+      <actor role="Don Burns">Kevin Nealon</actor>
+      <actor role="Sig.ra Rodriguez">Dianna Maria Riva</actor>
+      <actor role="Marie Maldonado">Jessica Chaffin</actor>
+      <actor role="Lowell">Matt Cook</actor>
+      <actor role="Kate Burns">Grace Kaufman</actor>
+      <actor role="Teddy Burns">Matthew McCann</actor>
+      <actor role="Emme Burns">Hala Finley</actor>
+      <director>James Burrows</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13449123eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316073000 +0000" stop="20260316075000 +0000">
+    <title lang="it">Papà a tempo pieno</title>
+    <sub-title lang="it">Strategie</sub-title>
+    <desc lang="it">Adam e Andi cercano di scoprire chi tra i bambini abbia realizzato un buco in una parete. Kate, Teddy ed Emme, tuttavia, rimangono solidali e non rivelano chi sia il responsabile del misfatto.</desc>
+    <credits>
+      <actor role="Adam Burns">Matt LeBlanc</actor>
+      <actor role="Andi Burns">Liza Snyder</actor>
+      <actor role="Don Burns">Kevin Nealon</actor>
+      <actor role="Sig.ra Rodriguez">Dianna Maria Riva</actor>
+      <actor role="Marie Maldonado">Jessica Chaffin</actor>
+      <actor role="Lowell">Matt Cook</actor>
+      <actor role="Kate Burns">Grace Kaufman</actor>
+      <actor role="Teddy Burns">Matthew McCann</actor>
+      <actor role="Emme Burns">Hala Finley</actor>
+      <director>James Burrows</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13498204eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316075000 +0000" stop="20260316084000 +0000">
+    <title lang="it">Doc Martin</title>
+    <sub-title lang="it">Festa d'addio</sub-title>
+    <desc lang="it">Il dottore è pronto per il trasferimento a Londra, ma Pulcino scappa e, per non ferire i sentimenti di James Henry, Martin e Louisa si mettono alla sua ricerca, durante la quale il dottore ha un gravissimo incidente.</desc>
+    <credits>
+      <actor role="Dr. Martin Ellingham">Martin Clunes</actor>
+      <actor role="Louisa Glasson">Caroline Catz</actor>
+      <actor role="Bert Large">Ian McNeice</actor>
+      <actor role="Al Large">Joe Absolom</actor>
+      <actor role="Sally Tishell">Selina Cadell</actor>
+      <director>Ben Bolt</director>
+      <director>Nigel Cole</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23131767eh8aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316084000 +0000" stop="20260316093500 +0000">
+    <title lang="it">I grandi fiumi della Terra</title>
+    <sub-title lang="it">Zambesi</sub-title>
+    <desc lang="it">Nel mezzo dell'Africa si trova un luogo sacro, una sorgente limpida che è la fonte dello Zambesi. Il fiume più selvaggio dell'Africa scorre per circa 2.500 chilometri attraverso 6 paesi, prima di sfociare nell'Oceano Indiano.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21763463eh8aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316093500 +0000" stop="20260316102000 +0000">
+    <title lang="it">Grandi progetti</title>
+    <sub-title lang="it">Un castello tra tradizione e innovazione</sub-title>
+    <desc lang="it">Kevin McCabe incontra un maestro artigiano il cui sogno è costruire un castello con il fango.</desc>
+    <credits>
+      <director>Emma Bowen</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10272523eh10az_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S13 E8</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316102000 +0000" stop="20260316110500 +0000">
+    <title lang="it">Il mistero delle lettere perdute: Miracolo di Natale</title>
+    <desc lang="it">La squadra del servizio postale che recupera le lettere non recapitate fa del proprio meglio, sotto le festività, per gestire le lettere spedite dai bambini a Babbo Natale. Il messaggio di una ragazzina attira particolarmente la loro attenzione.</desc>
+    <credits>
+      <actor role="Oliver">Eric Mabius</actor>
+      <actor role="Shane">Kristin Booth</actor>
+      <actor role="Rita">Yan-Kay Crystal Lowe</actor>
+      <actor role="Norman">Geoff Gustafson</actor>
+      <actor role="Jordan">Rob Estes</actor>
+      <actor role="Marion">Marion Ross</actor>
+      <actor role="Hannah">Ava Telek</actor>
+      <actor role="Rob">Kaj-Erik Eriksen</actor>
+      <actor role="Odette">Marci T. House</actor>
+      <actor role="Signora Hodges">April Telek</actor>
+      <director>Kevin Fair</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11095223bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316110500 +0000" stop="20260316113000 +0000">
+    <title lang="it">Friends</title>
+    <sub-title lang="it">Gli ordini di Emily</sub-title>
+    <desc lang="it">Emily pretende che Ross si sbarazzi di tutto ciò che è stato in contatto con Rachel e anche che cambi casa. Gli amici non vedono di buon occhio l'invadenza di Emily, ma decidono di non dire niente a Ross.</desc>
+    <credits>
+      <actor role="Rachel Green">Jennifer Aniston</actor>
+      <actor role="Phoebe Buffay">Courteney Cox</actor>
+      <actor role="Joey Tribbiani">Matt LeBlanc</actor>
+      <actor role="Chandler Bing">Matthew Perry</actor>
+      <actor role="Ross Geller">David Schwimmer</actor>
+    </credits>
+    <date>1998</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p1712355eh10ad_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316113000 +0000" stop="20260316114500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">16/03/2026, 12:30</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316114500 +0000" stop="20260316115000 +0000">
+    <title lang="it">Meteo regionale</title>
+    <sub-title lang="it">16/03/2026, 12:45</sub-title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo regionali per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164546bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316115000 +0000" stop="20260316132000 +0000">
+    <title lang="it">Amore a Cedar Creek</title>
+    <desc lang="it">La giornalista Allison Sawyer scrive un articolo su una delle sue autrici preferite, Annabelle Lee. Quando visita il ranch dove sono ambientati i romanzi, Allison incontra Hank, protagonista dei romanzi.</desc>
+    <credits>
+      <actor role="Allison Sawyer">Laura Mitchell</actor>
+      <actor role="Hank Clybourne">Jon Cor</actor>
+      <actor role="Lynn">Erin Boyes</actor>
+      <actor role="Stella">P. Lynn Johnson</actor>
+      <actor role="Susan">Dolores Drake</actor>
+      <actor role="Sindaco Clark">Michael Patrick Denis</actor>
+      <actor role="Delilah">Lauren Maynard</actor>
+      <actor role="Ivy">Joanne Wilson</actor>
+      <actor role="Samy">David Parent</actor>
+      <director>David Strasser</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19990785bdh8ad_Backdrop_W660.webp" />
+    <country lang="it">CA</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316132000 +0000" stop="20260316132500 +0000">
+    <title lang="it">Donne che hanno cambiato il mondo</title>
+    <sub-title lang="it">Jacqueline Kennedy</sub-title>
+    <desc lang="it">Una ragazza statunitense dalla bellezza non convenzionale, curiosa, educata secondo i principi del tempo. Dopo la formazione sotto la guida dell'ambiziosa madre, è diventata coprotagonista degli uomini forti e potenti a cui si è affiancata per amore.</desc>
+    <credits>
+      <director>Francesca Rossi</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep046242890045x75_stage_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316132500 +0000" stop="20260316142000 +0000">
+    <title lang="it">White Collar</title>
+    <sub-title lang="it">Attacco alle banche</sub-title>
+    <desc lang="it">In seguito alla morte di Kate, l'accordo di Neal con l'FBI e il posto di lavoro di Peter sono a rischio e, per provare di essere ancora validi investimenti, devono mettere le mani su un brillante rapinatore di banche che si fa chiamare l'Architetto.</desc>
+    <credits>
+      <actor role="Neal Caffrey">Matt Bomer</actor>
+      <actor role="Peter Burke">Tim DeKay</actor>
+      <actor role="Elizabeth Burke">Tiffani Thiessen</actor>
+      <actor role="Mozzie">Willie Garson</actor>
+    </credits>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8159434eh11ad_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316142000 +0000" stop="20260316155500 +0000">
+    <title lang="it">Marie Brand</title>
+    <sub-title lang="it">Marie Brand e l'eredità di Olga Lenau</sub-title>
+    <desc lang="it">La giovane artista Hannah Lenau tiene la sua prima mostra ma la madre viene assassinata durante l'evento. I commissari Marie Brand e Jürgen Simmel indagano sul caso ma un secondo omicidio rimette in discussione i loro primi sospetti.</desc>
+    <credits>
+      <actor role="Marie Brand">Mariele Millowitsch</actor>
+      <actor role="Jürgen Simmel">Hinnerk Schönemann</actor>
+      <actor role="Dott. Gustav Engler">Thomas Heinze</actor>
+      <director>Florian Kern</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11392691eh12aa_Iconic_W660.webp" />
+    <country lang="it">DE</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316155500 +0000" stop="20260316170000 +0000">
+    <title lang="it">Siamo fuori</title>
+    <desc lang="it">Programma di intrattenimento e cucina in cui vengono accolti personaggi noti legati a realtà locali. L'ospite non solo ha il compito di parlare del luogo, delle sue avventure e delle esperienze della giornata, ma deve anche affrontare delle sorprese.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20687899bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316170000 +0000" stop="20260316180000 +0000">
+    <title lang="it">Prima ora</title>
+    <desc lang="it">Porta d'ingresso alla fascia informativa serale della RSI con ospiti e servizi. Notizie e ultimi aggiornamenti di attualità, cultura e sport dalla Svizzera e dal resto del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30934659ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316180000 +0000" stop="20260316183500 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">16/03/2026, 19:00</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316183500 +0000" stop="20260316185500 +0000">
+    <title lang="it">Zerovero</title>
+    <desc lang="it">Zerovero è un gioco a premi che vede i propri concorrenti sfidarsi con le parole basandosi su catene di lemmi unite da legami logici. Agli sfidanti in studio si assommano quanti da casa intendano giocare via telefono.</desc>
+    <credits>
+      <director>Manuel Buetti</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164912bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316185500 +0000" stop="20260316190000 +0000">
+    <title lang="it">Meteo regionale</title>
+    <sub-title lang="it">16/03/2026, 19:55</sub-title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo regionali per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164546bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316190000 +0000" stop="20260316193500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">16/03/2026, 20:00</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316193500 +0000" stop="20260316194000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316194000 +0000" stop="20260316203500 +0000">
+    <title lang="it">La cavia</title>
+    <sub-title lang="it">La Presenza</sub-title>
+    <desc lang="it">Nell'ultima puntata de La Cavia viaggeremo nel tempo! In un mondo in cui la tecnologia vuole sostituirsi a noi, c'è chi sceglie di vivere una vita più semplice, più libera. Rinunciare ai comfort moderni può essere la chiave per una vita più presente?</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26675190ih8ab_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316203500 +0000" stop="20260316223000 +0000">
+    <title lang="it">Il corriere: The Mule</title>
+    <desc lang="it">Un anziano orticoltore, disperato per la propria situazione finanziaria, accetta di lavorare come corriere di droga per un cartello messicano. Le sue operazioni gli portano soldi facili, ma attirano l'attenzione di un agente della DEA.</desc>
+    <credits>
+      <actor role="Earl Stone">Clint Eastwood</actor>
+      <actor role="Agente Colin Bates">Bradley Cooper</actor>
+      <actor role="Agente speciale Warren Lewis">Laurence Fishburne</actor>
+      <actor role="Agente Trevino">Michael Peña</actor>
+      <actor role="Mary">Dianne Wiest</actor>
+      <actor role="Laton">Andy Garcia</actor>
+      <actor role="Iris">Alison Eastwood</actor>
+      <actor role="Ginny">Taissa Farmiga</actor>
+      <actor role="Julio">Ignacio Serricchio</actor>
+      <actor role="Agente Brown">Loren Dean</actor>
+      <director>Clint Eastwood</director>
+    </credits>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16055860kh8aa_KeyArt_W660.webp" />
+    <country lang="it">US</country>
+    <country lang="it">CA</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316223000 +0000" stop="20260316225000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316225000 +0000" stop="20260316230000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260316230000 +0000" stop="20260317003000 +0000">
+    <title lang="it">Le indagini di Roy Grace</title>
+    <sub-title lang="it">Una morte in diretta</sub-title>
+    <desc lang="it">Grace crede ci sia un collegamento tra la morte di un insegnante e alcuni resti umani scovati in un campo. Tuttavia, il suo capo crede che la pista giusta sia un'altra.</desc>
+    <credits>
+      <actor role="Sergente ispettore Roy Grace">John Simm</actor>
+      <actor role="Ispettore Glen Branson">Richie Campbell</actor>
+      <actor role="Questrice Vosper">Rakie Ayola</actor>
+      <actor role="Harry Frame">Adrian Rawlins</actor>
+      <actor role="DS Bella Moy">Laura Elphinstone</actor>
+      <actor role="Ispettore Nick Nicholl">Brad Morrison</actor>
+      <actor role="Ispettrice Emma Jane Boutwood">Amaka Okafor</actor>
+      <actor role="Ashley Haynes">Alisha Bailey</actor>
+      <actor role="Mark B. Warden">Matt Stokoe</actor>
+      <actor role="Michael Neward">Tom Weston-Jones</actor>
+      <director>John Alexander</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22049966bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260317003000 +0000" stop="20260317005500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260317005500 +0000" stop="20260317015500 +0000">
+    <title lang="it">Prima ora</title>
+    <desc lang="it">Porta d'ingresso alla fascia informativa serale della RSI con ospiti e servizi. Notizie e ultimi aggiornamenti di attualità, cultura e sport dalla Svizzera e dal resto del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30934659ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260317015500 +0000" stop="20260317023000 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">17/03/2026, 02:55</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260317023000 +0000" stop="20260317031000 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">17/03/2026, 03:30</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260317031000 +0000" stop="20260317040000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260317040000 +0000" stop="20260317040500 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313030000 +0000" stop="20260313040000 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">13/03/2026, 04:00</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313040000 +0000" stop="20260313040500 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313040500 +0000" stop="20260313042500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313042500 +0000" stop="20260313043000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313043000 +0000" stop="20260313060000 +0000">
+    <title lang="it">Albachiara in TV</title>
+    <desc lang="it">Trasmissione di informazione ed intrattenimento del mattino.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17273515ih8ab_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313060000 +0000" stop="20260313065500 +0000">
+    <title lang="it">Un mondo senza api</title>
+    <desc lang="it">Le api sono minacciate in tutto il mondo e le possibili risposte a questo problema sono molteplici. Il mondo di domani sta prendendo forma anche grazie alle soluzioni che sono state pensate finora.</desc>
+    <credits>
+      <director>Nicolas Dupuis</director>
+      <director>Elsa Putelat</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19962963ih8aa_Iconic_W660.webp" />
+    <country lang="it">FR</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313065500 +0000" stop="20260313072500 +0000">
+    <title lang="it">24 ore sul circuito del Poncione</title>
+    <desc lang="it">Salire e scendere da una cima della Valle Bedretto con gli sci e per 24 ore filate senza quasi mai fermarsi è la folle sfida lanciata dal ticinese Christian Monti e da un gruppo di amici.</desc>
+    <credits>
+      <director>Fulvio Mariani</director>
+      <director>Nicolò Mariani</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26484809ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313072500 +0000" stop="20260313082000 +0000">
+    <title lang="it">Formula 1: GP Cina: Qualifiche sprint</title>
+    <desc lang="it">Dallo Shanghai International Circuit, Cina.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p691060bdh10ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313082000 +0000" stop="20260313085000 +0000">
+    <title lang="it">La Precarpazia</title>
+    <desc lang="it">Scopriamo le conoscenze relative allo sviluppo sostenibile e alla protezione dell'ambiente nella regione della Precarpazia. Il vovoidato presenta numerorissime aree protette e parchi paesaggistici.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25490721ih10aa_Iconic_W660.webp" />
+    <country lang="it">PL</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313085000 +0000" stop="20260313095500 +0000">
+    <title lang="it">FIS Sci di fondo Coppa del Mondo: Drammen: Sprint maschile e femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS Sci di fondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740059bdh8ac_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313095500 +0000" stop="20260313111500 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Courchevel: SuperG maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313111500 +0000" stop="20260313113500 +0000">
+    <title lang="it">Tesori del mondo</title>
+    <sub-title lang="it">Il Fiordo Geiranger</sub-title>
+    <desc lang="it">Il Geirangerfjord è un fiordo che si snoda nella regione norvegese del Sunnmøre, nel sud della contea del Møre og Romsdal. Situato all'interno del paese, tra alte montagne, ha attirato i turisti come nessun altro per ben oltre cento anni.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11255135eh12aa_Iconic_W660.webp" />
+    <country lang="it">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313113500 +0000" stop="20260313124000 +0000">
+    <title lang="it">Siamo fuori</title>
+    <desc lang="it">Programma di intrattenimento e cucina in cui vengono accolti personaggi noti legati a realtà locali. L'ospite non solo ha il compito di parlare del luogo, delle sue avventure e delle esperienze della giornata, ma deve anche affrontare delle sorprese.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20687899bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313124000 +0000" stop="20260313125500 +0000">
+    <title lang="it">Zerovero</title>
+    <desc lang="it">Zerovero è un gioco a premi che vede i propri concorrenti sfidarsi con le parole basandosi su catene di lemmi unite da legami logici. Agli sfidanti in studio si assommano quanti da casa intendano giocare via telefono.</desc>
+    <credits>
+      <director>Manuel Buetti</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164912bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313125500 +0000" stop="20260313131500 +0000">
+    <title lang="it">Papà a tempo pieno</title>
+    <sub-title lang="it">Il capitano del battello</sub-title>
+    <desc lang="it">Adam prende una decisione affrettata riguardo alla carriera scolastica di Emme dopo aver ricevuto una moltitudine di richieste irragionevoli dalla maestra d'asilo della figlia, mettendo se stesso e Andi nei guai.</desc>
+    <credits>
+      <actor role="Adam Burns">Matt LeBlanc</actor>
+      <actor role="Andi Burns">Liza Snyder</actor>
+      <actor role="Don Burns">Kevin Nealon</actor>
+      <actor role="Sig.ra Rodriguez">Dianna Maria Riva</actor>
+      <actor role="Marie Maldonado">Jessica Chaffin</actor>
+      <actor role="Lowell">Matt Cook</actor>
+      <actor role="Kate Burns">Grace Kaufman</actor>
+      <actor role="Teddy Burns">Matthew McCann</actor>
+      <actor role="Emme Burns">Hala Finley</actor>
+      <director>James Burrows</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13413629eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313131500 +0000" stop="20260313133500 +0000">
+    <title lang="it">Papà a tempo pieno</title>
+    <sub-title lang="it">Garage e ricordi</sub-title>
+    <desc lang="it">Adam pensa di aver donato uno dei ricordi più belli della moglie Andi quando Don lo incoraggia a trasformare il garage pieno di cose in un rifugio per soli uomini.</desc>
+    <credits>
+      <actor role="Adam Burns">Matt LeBlanc</actor>
+      <actor role="Andi Burns">Liza Snyder</actor>
+      <actor role="Don Burns">Kevin Nealon</actor>
+      <actor role="Sig.ra Rodriguez">Dianna Maria Riva</actor>
+      <actor role="Marie Maldonado">Jessica Chaffin</actor>
+      <actor role="Lowell">Matt Cook</actor>
+      <actor role="Kate Burns">Grace Kaufman</actor>
+      <actor role="Teddy Burns">Matthew McCann</actor>
+      <actor role="Emme Burns">Hala Finley</actor>
+      <director>Pamela Fryman</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13426281eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313133500 +0000" stop="20260313141000 +0000">
+    <title lang="it">Cuntrasts</title>
+    <desc lang="it">Un programma che esplora la cultura retoromancia e grigionese, riflettendo e presentando cambiamenti, sviluppi e storie della nostra vita quotidiana, della società, della politica, della cultura, dello sport e molto altro ancora.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21242313eh10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313141000 +0000" stop="20260313153500 +0000">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Otepaa, Donne: Sprint</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313153500 +0000" stop="20260313161000 +0000">
+    <title lang="it">UCI WorldTour: Uomini: Parigi - Nizza: 6a tappa</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313161000 +0000" stop="20260313163000 +0000">
+    <title lang="it">Tesori del mondo</title>
+    <sub-title lang="it">Spagna: Teruel, architettura moresca</sub-title>
+    <desc lang="it">Teruel è un comune spagnolo di poco più di trentamila abitanti, capoluogo dell'omonima provincia, situato nella comunità autonoma dell'Aragona. La città ha dato il nome alla comarca della Comunidad de Teruel, della quale è il capoluogo.</desc>
+    <date>1999</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10284787eh10aa_Iconic_W660.webp" />
+    <country lang="it">DE</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313163000 +0000" stop="20260313172000 +0000">
+    <title lang="it">Grandi progetti</title>
+    <sub-title lang="it">Una meraviglia avvolta tra gli alberi</sub-title>
+    <desc lang="it">Una giovane coppia decide di acquistare una casa degli anni 50 e di trasformarla in un capolavoro architettonico. Dopo un anno di ricerche, Ben e Rachel Hammond si imbattutono in una casa sepolta tra le fronde di un bellissimo parco a sud di Londra.</desc>
+    <credits>
+      <director>Emma Bowen</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10259835eh8ab_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S13 E7</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313172000 +0000" stop="20260313180500 +0000">
+    <title lang="it">Il mistero delle lettere perdute</title>
+    <sub-title lang="it">La famiglia è tutto</sub-title>
+    <desc lang="it">La lettera di una madre che ha abbandonato il figlio per necessità trentadue anni addietro porta la squadra a riunire una famiglia dispersa dai casi della vita.</desc>
+    <credits>
+      <actor role="Oliver O'Toole">Eric Mabius</actor>
+      <actor role="Shane McInerney">Kristin Booth</actor>
+      <actor role="Rita Haywith">Yan-Kay Crystal Lowe</actor>
+      <actor role="Norman Dorman">Geoff Gustafson</actor>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10748273eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <country lang="it">CA</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313180500 +0000" stop="20260313185000 +0000">
+    <title lang="it">White Collar</title>
+    <sub-title lang="it">Rapina al Consolato</sub-title>
+    <desc lang="it">Neal ed Alex cercano di mettere le mani su un prezioso carillon, mentre Peter prova ad ottenere aiuto per liberarsi definitivamente di Fowler.</desc>
+    <credits>
+      <actor role="Neal Caffrey">Matt Bomer</actor>
+      <actor role="Peter Burke">Tim DeKay</actor>
+      <actor role="Elizabeth Burke">Tiffani Thiessen</actor>
+      <actor role="Mozzie">Willie Garson</actor>
+    </credits>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8028077eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313185000 +0000" stop="20260313191500 +0000">
+    <title lang="it">Friends</title>
+    <sub-title lang="it">Un weekend da dimenticare</sub-title>
+    <desc lang="it">Monica e Chandler decidono di andare fuori per il weekend per stare insieme da soli, ma la vacanza va male e i due litigano. Ross deve dire a Rachel che non la potrà più vedere poiché Emily sta arrivando da Londra.</desc>
+    <credits>
+      <actor role="Rachel Green">Jennifer Aniston</actor>
+      <actor role="Phoebe Buffay">Courteney Cox</actor>
+      <actor role="Joey Tribbiani">Matt LeBlanc</actor>
+      <actor role="Chandler Bing">Matthew Perry</actor>
+      <actor role="Ross Geller">David Schwimmer</actor>
+    </credits>
+    <date>1998</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p1712354eh10ad_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313191500 +0000" stop="20260313193500 +0000">
+    <title lang="it">Telesguard</title>
+    <desc lang="it">Attualità ed ultime notizie dei Grigioni. Actulitad del Grischun.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168138ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313193500 +0000" stop="20260313211000 +0000">
+    <title lang="it">I sogni del Cabrini-Green</title>
+    <desc lang="it">Nel 1992 i migliori amici Malik ed Eric attraversano la città di Chicago, cercando di sfuggire alla banalità della scuola e alle difficoltà di crescere nelle case popolari. Il loro legame indissolubile viene presto messo in discussione.</desc>
+    <credits>
+      <actor role="Malik">Blake Cameron James</actor>
+      <actor role="Eric">Gian Knight Ramirez</actor>
+      <actor role="Anita">S. Epatha Merkerson</actor>
+      <actor role="Jason">Lil Rel Howery</actor>
+      <actor role="Dolores">Jurnee Smollett-Bell</actor>
+      <actor role="Amber">Avery Holliday</actor>
+      <actor role="Victoria Lucas">Ora Jones</actor>
+      <actor role="Slug">Giovani Chambers</actor>
+      <director>Minhal Baig</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26650022bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313211000 +0000" stop="20260313215500 +0000">
+    <title lang="it">Dr. Death</title>
+    <sub-title lang="it">Scalata al successo</sub-title>
+    <desc lang="it">Duntsch inizia a operare a Dallas e le disavventure mediche si accumulano immediatamente. Henderson e Kirby ottengono il sostegno del sostituto procuratore Michelle Shughart per far leva sul sistema legale e fermare Duntsch.</desc>
+    <credits>
+      <actor role="Christopher Duntsch">Joshua Jackson</actor>
+      <actor role="Robert Henderson">Alec Baldwin</actor>
+      <actor role="Randall Kirby">Christian Slater</actor>
+      <actor role="Robbie McClung">Carrie Preston</actor>
+      <actor role="Kim Morgan">Grace Gummer</actor>
+      <actor role="Michelle Shughart">AnnaSophia Robb</actor>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20157451eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313215500 +0000" stop="20260313224000 +0000">
+    <title lang="it">Dr. Death</title>
+    <sub-title lang="it">Lenta discesa verso l'abisso</sub-title>
+    <desc lang="it">Duntsch cerca di rimediare a un intervento chirurgico eseguito su un amico. L'amministrazione della Baylor sospetta che i farmaci possano influenzare i suoi risultati. Shughart costruisce il suo caso contro Duntsch.</desc>
+    <credits>
+      <actor role="Christopher Duntsch">Joshua Jackson</actor>
+      <actor role="Robert Henderson">Alec Baldwin</actor>
+      <actor role="Randall Kirby">Christian Slater</actor>
+      <actor role="Robbie McClung">Carrie Preston</actor>
+      <actor role="Kim Morgan">Grace Gummer</actor>
+      <actor role="Michelle Shughart">AnnaSophia Robb</actor>
+      <director>So-yong Kim</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20157452eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260313224000 +0000" stop="20260314001000 +0000">
+    <title lang="it">Consulente d'amore</title>
+    <desc lang="it">Sam è una consulente per appuntamenti sentimentali ma ha smesso di credere nell'amore dopo il recente divorzio dei suoi genitori. Alla festa per il nuovo fidanzamento di suo padre, la donna ha un battibecco.</desc>
+    <credits>
+      <actor role="Sam Mason">Jenna Michno</actor>
+      <actor role="Matt Cohen">John McLaughlin</actor>
+      <actor role="Jen">Skye Coyne</actor>
+      <actor role="Milly">Anne Patterson</actor>
+      <actor role="Don">James Hyde</actor>
+      <actor role="Frankie">Rib Hillis</actor>
+      <actor role="Wyatt">Nate Crnkovich</actor>
+      <actor role="Breanna">Andi Wagner</actor>
+      <director>John Murlowski</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24556989bdh10aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314001000 +0000" stop="20260314002000 +0000">
+    <title lang="it">Telesguard</title>
+    <desc lang="it">Attualità ed ultime notizie dei Grigioni. Actulitad del Grischun.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168138ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314002000 +0000" stop="20260314012000 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Courchevel: Discesa maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314012000 +0000" stop="20260314022500 +0000">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Otepaa, Donne: Sprint</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314022500 +0000" stop="20260314025500 +0000">
+    <title lang="it">UCI WorldTour: Uomini: Parigi - Nizza: 6a tappa</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314025500 +0000" stop="20260314034000 +0000">
+    <title lang="it">Formula 1: GP Cina: Gara sprint</title>
+    <desc lang="it">Dallo Shanghai International Circuit, Cina.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p691060bdh10ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314034000 +0000" stop="20260314035000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314035000 +0000" stop="20260314040000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314040000 +0000" stop="20260314040500 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314040500 +0000" stop="20260314042000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314042000 +0000" stop="20260314042500 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314042500 +0000" stop="20260314051500 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">14/03/2026, 05:25</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314051500 +0000" stop="20260314065500 +0000">
+    <title lang="it">UEFA Champions League: Paris Saint-Germain - Chelsea</title>
+    <desc lang="it">Dal Parco dei Principi di Parigi, Francia.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p3616485bdh10ad_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314065500 +0000" stop="20260314081000 +0000">
+    <title lang="it">Formula 1: GP Cina: Qualifiche</title>
+    <desc lang="it">Dallo Shanghai International Circuit, Cina.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p691060bdh10ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314081000 +0000" stop="20260314085500 +0000">
+    <title lang="it">Un mondo di isole: Fragili terre sul mare</title>
+    <desc lang="it">Scopriamo ed esploriamo insieme le isole che punteggiano e arricchiscono le acque del globo.</desc>
+    <credits>
+      <director>Pietro Pellizzieri</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30649005ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314085500 +0000" stop="20260314095500 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Åre, Donne, Slalom gigante: 1a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314095500 +0000" stop="20260314112000 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Courchevel: Super-G maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314112000 +0000" stop="20260314115500 +0000">
+    <title lang="it">Cavalli bardati che fanno tremare la terra</title>
+    <desc lang="it">Dopo averci provato più volte già dal 2015, i tre Ragni di Lecco Matteo Della Bordella, Luca Schiera e Matteo De Zaiacomo a fine 2019 salgono l'inviolata parete ovest del Bhagirathi IV (6193m) nell'Himalaya indiano.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25978573bh10aa_BannerL1_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314115500 +0000" stop="20260314125500 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Åre, Donne, Slalom gigante: 2a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314125500 +0000" stop="20260314141500 +0000">
+    <title lang="it">UCI WorldTour: Uomini: Parigi - Nizza: 7a tappa</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314141500 +0000" stop="20260314145500 +0000">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Otepää, Uomini: Inseguimento</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314145500 +0000" stop="20260314154500 +0000">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Otepää, Donne: Inseguimento</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314154500 +0000" stop="20260314170000 +0000">
+    <title lang="it">Formula 1: GP Cina: Qualifiche</title>
+    <desc lang="it">Dallo Shanghai International Circuit, Cina.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p691060bdh10ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314170000 +0000" stop="20260314181000 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Courchevel: SuperG maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314181000 +0000" stop="20260314190500 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Åre, Donne, Slalom gigante: 2a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314190500 +0000" stop="20260314192300 +0000">
+    <title lang="it">Minisguard</title>
+    <desc lang="it">Settimanale di informazione per bambini, a cura della redazione della rete. Ci si propone di spiegare ai più giovani temi politici, economici e culturali, in un modo a loro accessibile.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11177953ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314192300 +0000" stop="20260314213000 +0000">
+    <title lang="it">Super League: San Gallo - Lugano</title>
+    <desc lang="it">Dal Kybunpark di San Gallo, Svizzera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep020416260897x907_stage_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314213000 +0000" stop="20260314220000 +0000">
+    <title lang="it">Sportsera</title>
+    <desc lang="it">Tutti gli eventi sportivi della giornata rivissuti attraverso le sintesi, i servizi, le immagini salienti e le interviste ai protagonisti.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168715ih11aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260314220000 +0000" stop="20260315000000 +0000">
+    <title lang="it">Quel pomeriggio di un giorno da cani</title>
+    <desc lang="it">Dei piccoli criminali cercano di rubare alla filiale di una banca di Brooklyn, ma a causa dell'inesperienza qualcosa va storto.</desc>
+    <credits>
+      <actor role="Sonny Wortzik">Al Pacino</actor>
+      <actor role="Salvatore">John Cazale</actor>
+      <actor role="Eugene Moretti">Charles Durning</actor>
+      <actor role="Leon Shermer">Chris Sarandon</actor>
+      <actor role="Mulvaney">Sully Boyar</actor>
+      <actor role="Agente speciale Murphy">James Broderick</actor>
+      <actor role="Sylvia">Penelope Allen</actor>
+      <actor role="Jenny">Carol Kane</actor>
+      <actor role="Miriam">Marcia Jean Kurtz</actor>
+      <actor role="Maria">Amy Levitt</actor>
+      <director>Sidney Lumet</director>
+    </credits>
+    <date>1975</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p617bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315000000 +0000" stop="20260315001500 +0000">
+    <title lang="it">Minisguard</title>
+    <desc lang="it">Settimanale di informazione per bambini, a cura della redazione della rete. Ci si propone di spiegare ai più giovani temi politici, economici e culturali, in un modo a loro accessibile.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11177953ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315001500 +0000" stop="20260315004500 +0000">
+    <title lang="it">Sportsera</title>
+    <desc lang="it">Tutti gli eventi sportivi della giornata rivissuti attraverso le sintesi, i servizi, le immagini salienti e le interviste ai protagonisti.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168715ih11aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315004500 +0000" stop="20260315010000 +0000">
+    <title lang="it">UCI WorldTour: Uomini: Parigi - Nizza: 7a tappa</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315010000 +0000" stop="20260315015000 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Courchevel: SuperG maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315015000 +0000" stop="20260315022000 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Åre, Donne, Slalom gigante: 2a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315022000 +0000" stop="20260315031000 +0000">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Otepää, Donne: Inseguimento</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315031000 +0000" stop="20260315031500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315031500 +0000" stop="20260315040000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315040000 +0000" stop="20260315040500 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315040500 +0000" stop="20260315042000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315042000 +0000" stop="20260315042500 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315042500 +0000" stop="20260315043000 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315043000 +0000" stop="20260315043500 +0000">
+    <title lang="it">Super League: San Gallo - Lugano</title>
+    <desc lang="it">Dal Kybunpark di San Gallo, Svizzera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep020416260897x907_stage_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315043500 +0000" stop="20260315061500 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315061500 +0000" stop="20260315065000 +0000">
+    <title lang="it">Sportsera</title>
+    <desc lang="it">Tutti gli eventi sportivi della giornata rivissuti attraverso le sintesi, i servizi, le immagini salienti e le interviste ai protagonisti.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168715ih11aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315065000 +0000" stop="20260315083500 +0000">
+    <title lang="it">Formula 1: GP Cina: Gara</title>
+    <desc lang="it">Dallo Shanghai International Circuit, Cina.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p691060bdh10ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315083500 +0000" stop="20260315092000 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Åre, Donne, Slalom: 1a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315092000 +0000" stop="20260315094000 +0000">
+    <title lang="it">Tesori del mondo</title>
+    <sub-title lang="it">Reichenau</sub-title>
+    <desc lang="it">L'isola di Reichenau è patrimonio UNESCO per la incredibile ricchezza artistica legata alla storia della locale abbazia e ai villaggi di Schopflen e Oberzell.</desc>
+    <date>2002</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11396384eh10aa_Iconic_W660.webp" />
+    <country lang="it">DE</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315094000 +0000" stop="20260315110000 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Courchevel: SuperG maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315110000 +0000" stop="20260315112500 +0000">
+    <title lang="it">Il prima e dopo sport</title>
+    <desc lang="it">Una carrellata di immagini sportive che riassumono quanto accaduto negli ultimi eventi.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19974692ih8ab_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315112500 +0000" stop="20260315122500 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Åre, Donne, Slalom: 2a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315122500 +0000" stop="20260315130500 +0000">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Otepää: Staffetta mista individuale</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315130500 +0000" stop="20260315132000 +0000">
+    <title lang="it">Tesori del mondo</title>
+    <sub-title lang="it">Bryggen</sub-title>
+    <desc lang="it">Bryggen è l'approdo storico della città di Bergen, in Norvegia, caratterizzato dalle costruzioni in legno edificate tra Cinque e Settecento.</desc>
+    <date>2000</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10475514eh11aa_Iconic_W660.webp" />
+    <country lang="it">DE</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315132000 +0000" stop="20260315133500 +0000">
+    <title lang="it">Il prima e dopo sport</title>
+    <desc lang="it">Una carrellata di immagini sportive che riassumono quanto accaduto negli ultimi eventi.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19974692ih8ab_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315133500 +0000" stop="20260315145000 +0000">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Otepää: Staffetta mista</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315145000 +0000" stop="20260315154500 +0000">
+    <title lang="it">UCI WorldTour: Uomini: Parigi - Nizza: 8a tappa</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315154500 +0000" stop="20260315170000 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Courchevel: SuperG maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315170000 +0000" stop="20260315190500 +0000">
+    <title lang="it">La domenica sportiva</title>
+    <desc lang="it">Tutti gli eventi sportivi della domenica, vissuti attraverso le sintesi e i servizi preparati dalla redazione, le immagini salienti e interviste esclusive ai protagonisti delle sfide.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11178099bh11ac_BannerL1_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315190500 +0000" stop="20260315193500 +0000">
+    <title lang="it">UCI WorldTour: Uomini: Parigi - Nizza: 8a tappa</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315193500 +0000" stop="20260315211000 +0000">
+    <title lang="it">Old Guy</title>
+    <desc lang="it">Quando l'anziano sicario Danny viene richiamato all'azione dalla compagnia che lo ha sempre assoldato, crede sia l'occasione per tornare in prima linea. Il suo vero compito è però addestrare e affiancare il giovane sicario prodigio Wihlborg.</desc>
+    <credits>
+      <actor role="Danny Dolinski">Christoph Waltz</actor>
+      <actor role="Anata">Lucy Liu</actor>
+      <actor role="Wihlborg">Cooper Hoffman</actor>
+      <actor role="Doug">Ryan McParland</actor>
+      <actor role="Opal">Ann Akin</actor>
+      <actor role="Milo">Jason Done</actor>
+      <actor role="William">Tony Hirst</actor>
+      <actor role="Simone">Kate Katzman</actor>
+      <actor role="Barbierri">Conor Mullen</actor>
+      <actor role="Yatzeck">Rory Mullen</actor>
+      <director>Simon West</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28970690bdh8ac_Backdrop_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315211000 +0000" stop="20260315232500 +0000">
+    <title lang="it">Formula 1: GP Cina: Qualifiche</title>
+    <desc lang="it">Dallo Shanghai International Circuit, Cina.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p691060bdh10ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260315232500 +0000" stop="20260316012500 +0000">
+    <title lang="it">La domenica sportiva</title>
+    <desc lang="it">Tutti gli eventi sportivi della domenica, vissuti attraverso le sintesi e i servizi preparati dalla redazione, le immagini salienti e interviste esclusive ai protagonisti delle sfide.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11178099bh11ac_BannerL1_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316012500 +0000" stop="20260316022500 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Åre, Donne, Slalom: 2a manche</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316022500 +0000" stop="20260316033500 +0000">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Courchevel: SuperG maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316033500 +0000" stop="20260316040000 +0000">
+    <title lang="it">UCI WorldTour: Uomini: Parigi - Nizza: 8a tappa</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316040000 +0000" stop="20260316040500 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316040500 +0000" stop="20260316042000 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">16/03/2026, 04:55</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316042000 +0000" stop="20260316042500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316042500 +0000" stop="20260316043000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316043000 +0000" stop="20260316060000 +0000">
+    <title lang="it">Albachiara in TV</title>
+    <desc lang="it">Trasmissione di informazione ed intrattenimento del mattino.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17273515ih8ab_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316060000 +0000" stop="20260316062000 +0000">
+    <title lang="it">Radiogiornale e lanci Sport</title>
+    <desc lang="it">Le notizie di attualità più salienti dalla Svizzera e dal resto del mondo, presentate in diretta in formato video, a cura delle redazioni di Radiogiornale e RSI Sport.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21342973bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316062000 +0000" stop="20260316073000 +0000">
+    <title lang="it">Setteventi in TV</title>
+    <desc lang="it">Il programma mattutino per iniziare bene la giornata parlando delle notizie di attualità.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20914513ih8ac_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316073000 +0000" stop="20260316080000 +0000">
+    <title lang="it">Modem</title>
+    <desc lang="it">Un appuntamento mattutino, quotidiano, dedicato ai principali temi d'attualità, che vengono approfonditi e contestualizzati anche grazie all'apporto ed il confronto con ospiti presenti o collegati in diretta.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20914521ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316080000 +0000" stop="20260316081000 +0000">
+    <title lang="it">Radiogiornale</title>
+    <desc lang="it">Le notizie di attualità più salienti dalla Svizzera e dal resto del mondo, presentate in diretta in formato video, a cura della redazione del Radiogiornale.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21342978bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316081000 +0000" stop="20260316090000 +0000">
+    <title lang="it">Casa Svizzera</title>
+    <desc lang="it">L'appuntamento mattutino per esplorare, raccontare e vivere la Svizzera, anche la più nascosta. Attraverso l'attualità, le storie personali, gli ospiti, la musica e l'interazione con il pubblico, un viaggio quotidiano nel cuore del Paese.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31200122bh10aa_BannerL1_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316090000 +0000" stop="20260316104500 +0000">
+    <title lang="it">Millevoci in TV</title>
+    <desc lang="it">Confronti costruttivi su temi importanti per l'attualità, la cultura e la società svizzere: istituzioni civili, attività di sviluppo, problemi storici e religiosi affrontati con competenza e dettaglio.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17038548ih11ab_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316104500 +0000" stop="20260316113500 +0000">
+    <title lang="it">Controcorrente in TV</title>
+    <desc lang="it">Lo spazio del dibattito acceso, per un pubblico con opinioni forti, sbarca dalla radio alla TV. Si parte da un tema e si dà spazio a voci diverse, con la possibilità di partecipare da casa.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24058263ih10ab_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316113500 +0000" stop="20260316123500 +0000">
+    <title lang="it">Siamo fuori</title>
+    <desc lang="it">Programma di intrattenimento e cucina in cui vengono accolti personaggi noti legati a realtà locali. L'ospite non solo ha il compito di parlare del luogo, delle sue avventure e delle esperienze della giornata, ma deve anche affrontare delle sorprese.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20687899bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316123500 +0000" stop="20260316125000 +0000">
+    <title lang="it">Zerovero</title>
+    <desc lang="it">Zerovero è un gioco a premi che vede i propri concorrenti sfidarsi con le parole basandosi su catene di lemmi unite da legami logici. Agli sfidanti in studio si assommano quanti da casa intendano giocare via telefono.</desc>
+    <credits>
+      <director>Manuel Buetti</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164912bdh8ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316125000 +0000" stop="20260316131000 +0000">
+    <title lang="it">Papà a tempo pieno</title>
+    <sub-title lang="it">Adam e il tacchino</sub-title>
+    <desc lang="it">Andi fatica a rimanere da parte quando l'organizzazione della festa per il Giorno del Ringraziamento a scuola viene affidata a Adam, David e Lowell.</desc>
+    <credits>
+      <actor role="Adam Burns">Matt LeBlanc</actor>
+      <actor role="Andi Burns">Liza Snyder</actor>
+      <actor role="Don Burns">Kevin Nealon</actor>
+      <actor role="Sig.ra Rodriguez">Dianna Maria Riva</actor>
+      <actor role="Marie Maldonado">Jessica Chaffin</actor>
+      <actor role="Lowell">Matt Cook</actor>
+      <actor role="Kate Burns">Grace Kaufman</actor>
+      <actor role="Teddy Burns">Matthew McCann</actor>
+      <actor role="Emme Burns">Hala Finley</actor>
+      <director>James Burrows</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13449123eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316131000 +0000" stop="20260316133500 +0000">
+    <title lang="it">Papà a tempo pieno</title>
+    <sub-title lang="it">Strategie</sub-title>
+    <desc lang="it">Adam e Andi cercano di scoprire chi tra i bambini abbia realizzato un buco in una parete. Kate, Teddy ed Emme, tuttavia, rimangono solidali e non rivelano chi sia il responsabile del misfatto.</desc>
+    <credits>
+      <actor role="Adam Burns">Matt LeBlanc</actor>
+      <actor role="Andi Burns">Liza Snyder</actor>
+      <actor role="Don Burns">Kevin Nealon</actor>
+      <actor role="Sig.ra Rodriguez">Dianna Maria Riva</actor>
+      <actor role="Marie Maldonado">Jessica Chaffin</actor>
+      <actor role="Lowell">Matt Cook</actor>
+      <actor role="Kate Burns">Grace Kaufman</actor>
+      <actor role="Teddy Burns">Matthew McCann</actor>
+      <actor role="Emme Burns">Hala Finley</actor>
+      <director>James Burrows</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13498204eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316133500 +0000" stop="20260316134000 +0000">
+    <title lang="it">Insieme</title>
+    <desc lang="it">Programma che accende la luce sui progetti di sviluppo ambientali, ecologici, educativi ed artistici più interessanti, attualmente attivi sul territorio svizzero e nel terzo mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11180759bdh8ae_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316134000 +0000" stop="20260316144000 +0000">
+    <title lang="it">Storie</title>
+    <desc lang="it">Dopo anni di gestione volontaria, Radio Gwendalyn si trova ad affrontare la professionalizzazione. È la prima radio comunitaria della Svizzera italiana ad aver ottenuto dall’UFCOM  lo status di radio complementare senza scopo di lucro.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep020310240181x770_stage_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316144000 +0000" stop="20260316153000 +0000">
+    <title lang="it">Doc Martin</title>
+    <sub-title lang="it">Festa d'addio</sub-title>
+    <desc lang="it">Il dottore è pronto per il trasferimento a Londra, ma Pulcino scappa e, per non ferire i sentimenti di James Henry, Martin e Louisa si mettono alla sua ricerca, durante la quale il dottore ha un gravissimo incidente.</desc>
+    <credits>
+      <actor role="Dr. Martin Ellingham">Martin Clunes</actor>
+      <actor role="Louisa Glasson">Caroline Catz</actor>
+      <actor role="Bert Large">Ian McNeice</actor>
+      <actor role="Al Large">Joe Absolom</actor>
+      <actor role="Sally Tishell">Selina Cadell</actor>
+      <director>Ben Bolt</director>
+      <director>Nigel Cole</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23131767eh8aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316153000 +0000" stop="20260316162500 +0000">
+    <title lang="it">I grandi fiumi della Terra</title>
+    <sub-title lang="it">Zambesi</sub-title>
+    <desc lang="it">Nel mezzo dell'Africa si trova un luogo sacro, una sorgente limpida che è la fonte dello Zambesi. Il fiume più selvaggio dell'Africa scorre per circa 2.500 chilometri attraverso 6 paesi, prima di sfociare nell'Oceano Indiano.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21763463eh8aa_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316162500 +0000" stop="20260316172000 +0000">
+    <title lang="it">Grandi progetti</title>
+    <sub-title lang="it">Un castello tra tradizione e innovazione</sub-title>
+    <desc lang="it">Kevin McCabe incontra un maestro artigiano il cui sogno è costruire un castello con il fango.</desc>
+    <credits>
+      <director>Emma Bowen</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10272523eh10az_Iconic_W660.webp" />
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S13 E8</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316172000 +0000" stop="20260316180500 +0000">
+    <title lang="it">Il mistero delle lettere perdute: Miracolo di Natale</title>
+    <desc lang="it">La squadra del servizio postale che recupera le lettere non recapitate fa del proprio meglio, sotto le festività, per gestire le lettere spedite dai bambini a Babbo Natale. Il messaggio di una ragazzina attira particolarmente la loro attenzione.</desc>
+    <credits>
+      <actor role="Oliver">Eric Mabius</actor>
+      <actor role="Shane">Kristin Booth</actor>
+      <actor role="Rita">Yan-Kay Crystal Lowe</actor>
+      <actor role="Norman">Geoff Gustafson</actor>
+      <actor role="Jordan">Rob Estes</actor>
+      <actor role="Marion">Marion Ross</actor>
+      <actor role="Hannah">Ava Telek</actor>
+      <actor role="Rob">Kaj-Erik Eriksen</actor>
+      <actor role="Odette">Marci T. House</actor>
+      <actor role="Signora Hodges">April Telek</actor>
+      <director>Kevin Fair</director>
+    </credits>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11095223bdh8aa_Backdrop_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316180500 +0000" stop="20260316190000 +0000">
+    <title lang="it">White Collar</title>
+    <sub-title lang="it">Attacco alle banche</sub-title>
+    <desc lang="it">In seguito alla morte di Kate, l'accordo di Neal con l'FBI e il posto di lavoro di Peter sono a rischio e, per provare di essere ancora validi investimenti, devono mettere le mani su un brillante rapinatore di banche che si fa chiamare l'Architetto.</desc>
+    <credits>
+      <actor role="Neal Caffrey">Matt Bomer</actor>
+      <actor role="Peter Burke">Tim DeKay</actor>
+      <actor role="Elizabeth Burke">Tiffani Thiessen</actor>
+      <actor role="Mozzie">Willie Garson</actor>
+    </credits>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8159434eh11ad_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316190000 +0000" stop="20260316192500 +0000">
+    <title lang="it">Friends</title>
+    <sub-title lang="it">Gli ordini di Emily</sub-title>
+    <desc lang="it">Emily pretende che Ross si sbarazzi di tutto ciò che è stato in contatto con Rachel e anche che cambi casa. Gli amici non vedono di buon occhio l'invadenza di Emily, ma decidono di non dire niente a Ross.</desc>
+    <credits>
+      <actor role="Rachel Green">Jennifer Aniston</actor>
+      <actor role="Phoebe Buffay">Courteney Cox</actor>
+      <actor role="Joey Tribbiani">Matt LeBlanc</actor>
+      <actor role="Chandler Bing">Matthew Perry</actor>
+      <actor role="Ross Geller">David Schwimmer</actor>
+    </credits>
+    <date>1998</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p1712355eh10ad_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316192500 +0000" stop="20260316194500 +0000">
+    <title lang="it">Telesguard</title>
+    <desc lang="it">Attualità ed ultime notizie dei Grigioni. Actulitad del Grischun.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168138ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316194500 +0000" stop="20260316205500 +0000">
+    <title lang="it">60 minuti</title>
+    <desc lang="it">Dibattito televisivo su temi di attualità a carattere sia regionale che nazionale ed internazionale.</desc>
+    <credits>
+      <director>Gigi Neri</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168178bdh10ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+    <episode-num system="onscreen">S15 E17</episode-num>
+    <premiere />
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316205500 +0000" stop="20260316225000 +0000">
+    <title lang="it">Stray Bodies</title>
+    <desc lang="it">Robin è incinta, ma non vuole diventare madre. Caterina non può avere figli, ma ne vorrebbe. Kiki vorrebbe porre fine alla sua vita con dignità. Aborto, fecondazione in vitro ed eutanasia non sono legali nei paesi in cui vivono. Stray Bodies esplora.</desc>
+    <credits>
+      <director>Elina Psykou</director>
+    </credits>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28945020ih8aa_Iconic_W660.webp" />
+    <country lang="it">GR</country>
+    <country lang="it">CH</country>
+    <country lang="it">IT</country>
+    <country lang="it">BG</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316225000 +0000" stop="20260316231000 +0000">
+    <title lang="it">Segni dei tempi</title>
+    <desc lang="it">Una rubrica settimanale evangelica, attenta a ciò che accade nel mondo cristiano e nella società. Segni dei Tempi si occupa di fede, spiritualità, etica e diritti umani.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11175983bdh8ac_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260316231000 +0000" stop="20260317010500 +0000">
+    <title lang="it">Paganini</title>
+    <desc lang="it">I dischi fonografici furono creati da Emile Berliner, l'inventore tedesco-americano che introdusse il primo disco in gommalacca a 78 giri nel 1889. Nanni Ricordi si può definire l'inventore dei dischi per l'ambito della musica italiana.</desc>
+    <credits>
+      <director>Fabio Luca</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11177170ih10ac_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260317010500 +0000" stop="20260317011500 +0000">
+    <title lang="it">Telesguard</title>
+    <desc lang="it">Attualità ed ultime notizie dei Grigioni. Actulitad del Grischun.</desc>
+    <date>2014</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11168138ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260317011500 +0000" stop="20260317014500 +0000">
+    <title lang="it">TG Notte</title>
+    <desc lang="it">Ripercorriamo le ultime notizie della giornata con aggiornamenti sull'attualità della sera.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31038426ih8aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260317014500 +0000" stop="20260317024000 +0000">
+    <title lang="it">Prima ora</title>
+    <desc lang="it">Porta d'ingresso alla fascia informativa serale della RSI con ospiti e servizi. Notizie e ultimi aggiornamenti di attualità, cultura e sport dalla Svizzera e dal resto del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30934659ih10aa_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260317024000 +0000" stop="20260317031500 +0000">
+    <title lang="it">Il quotidiano</title>
+    <sub-title lang="it">17/03/2026, 03:40</sub-title>
+    <desc lang="it">Le ultime notizie nazionali ed internazionali: Il quotidiano di attualità della Svizzera Italiana.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163695ih10ae_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260317031500 +0000" stop="20260317034500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">17/03/2026, 03:30</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11164465ih8ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260317034500 +0000" stop="20260317040000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni meteo per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11163437bdh10ab_Backdrop_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260317040000 +0000" stop="20260317040500 +0000">
+    <title lang="it">In volo sulla Svizzera italiana</title>
+    <desc lang="it">Un volo spettacolare sui paesaggi unici che costellano Canton Ticino e Grigioni italiano. Vallate e monti, nuclei e urbanizzazioni più recenti, lunghi nastri di autostrade e ferrovie.</desc>
+    <credits>
+      <director>Claudio Lazzarino</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12280913ih10ad_Iconic_W660.webp" />
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="Giallo.ch" start="20260313033000 +0000" stop="20260313043000 +0000">
     <title lang="it">Nightmare Next Door</title>
     <sub-title lang="it">Morire a Philadelphia</sub-title>
     <desc lang="it">Quando il corpo brutalmente percosso e ormai senza vita di Christian Rojaas viene ritrovato a Bensalem, in Pennsylvania, tutti pensano che il colpevole sia uno sconosciuto.</desc>
@@ -24852,7 +28008,7 @@
   </programme>
   <programme channel="Mezzo.ch" start="20260314080000 +0000" stop="20260314084000 +0000">
     <title lang="fr">Brahms: Quartetto con pianoforte n. 3 - András Schiff, Yuuko Shiokawa, Nabuko Imai, Miklós Perényi</title>
-    <desc lang="fr">Esecuzione del Quartetto per pianoforte n. 3 in do minore op. 60, di Johannes Brahms.</desc>
+    <desc lang="fr">Esecuzione del Quartetto con pianoforte n. 3 in do minore op. 60, di Johannes Brahms.</desc>
     <credits>
       <director>János Darvas</director>
     </credits>
@@ -25038,7 +28194,7 @@
     <country lang="fr">IL</country>
   </programme>
   <programme channel="Mezzo.ch" start="20260315041000 +0000" stop="20260315064000 +0000">
-    <title lang="fr">Beethoven: Fidelio – Opera Nazionale Olandese</title>
+    <title lang="fr">Beethoven: Fidelio - Opera Nazionale Olandese</title>
     <desc lang="fr">Una registrazione di Fidelio, un'opera in due atti di Ludwig van Beethoven, prodotta il 29 giugno 2024 all'Opera Nazionale Olandese, ad Amsterdam.</desc>
     <credits>
       <director>Ferenc Soeteman</director>
@@ -25144,7 +28300,7 @@
   </programme>
   <programme channel="Mezzo.ch" start="20260315235000 +0000" stop="20260316014500 +0000">
     <title lang="fr">Orchestra del festival di Lucerna, Riccardo Chailly, Mao Fujita: Rachmaninov</title>
-    <desc lang="fr">In occasione del Lucerne Festival 2022, il pianista Mao Fujita esegue il Concerto per pianoforte n. 2 di Rachmaninoff. La Lucerne Festival Orchestra è diretta da Riccardo Chailly.</desc>
+    <desc lang="fr">In occasione del Lucerne Festival 2022, il pianista Mao Fujita esegue il Concerto per pianoforte n. 2 di Rachmaninov. La Lucerne Festival Orchestra è diretta da Riccardo Chailly.</desc>
     <credits>
       <director>Ute Feudel</director>
     </credits>
@@ -25153,7 +28309,7 @@
     <country lang="fr">DE</country>
   </programme>
   <programme channel="Mezzo.ch" start="20260316014500 +0000" stop="20260316041500 +0000">
-    <title lang="fr">Beethoven: Fidelio – Opera Nazionale Olandese</title>
+    <title lang="fr">Beethoven: Fidelio - Opera Nazionale Olandese</title>
     <desc lang="fr">Una registrazione di Fidelio, un'opera in due atti di Ludwig van Beethoven, prodotta il 29 giugno 2024 all'Opera Nazionale Olandese, ad Amsterdam.</desc>
     <credits>
       <director>Ferenc Soeteman</director>
