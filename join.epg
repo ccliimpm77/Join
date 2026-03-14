@@ -9,6 +9,16 @@
     <icon src="http://epg.ovh/logo/MEZZO.png" />
     <url>http://www.epg.ovh</url>
   </channel>
+  <channel id="Sky Sports F1">
+    <display-name lang="pl">SkySport F1</display-name>
+    <icon src="http://epg.ovh/logo/Sky+Sports+F1.png" />
+    <url>http://www.epg.ovh</url>
+  </channel>
+  <channel id="Sky Sports Tennis">
+    <display-name lang="pl">Tennis Sky Sport</display-name>
+    <icon src="http://epg.ovh/logo/Sky+Sports+Tennis.png" />
+    <url>http://www.epg.ovh</url>
+  </channel>
   <channel id="Sport 1">
     <display-name lang="cs">Sport 1</display-name>
     <icon src="http://epg.ovh/logo/Sport+1.png" />
@@ -289,7 +299,7 @@
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
   <programme start="20260314085600 +0100" stop="20260314100000 +0100" channel="MEZZO">
-    <title lang="pl">Brahms: Quartetto per pianoforte n. 3 - András Schiff, Yuuko Shiokawa, Nobuko Imai, Miklós Perényi</title>
+    <title lang="pl">Brahms: Quartetto con pianoforte n. 3 - András Schiff, Yuuko Shiokawa, Nobuko Imai, Miklós Perényi</title>
     <credits>
       <director>Janos Darvas</director>
     </credits>
@@ -401,7 +411,7 @@
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
   <programme start="20260315051300 +0100" stop="20260315074300 +0100" channel="MEZZO">
-    <title lang="pl">Beethoven: Fidelio - Opera Nazionale Olandese</title>
+    <title lang="pl">Beethoven: Fidelio – Opera Nazionale Olandese</title>
     <desc lang="pl">Fidelio Opera in due atti di Ludwig van Beethoven (1770 - 1827) Libretto di Joseph Sonnleitner e Stephan von Breuning Prima rappresentazione a Vienna, Theater und der Wien, 20 novembre 1805 Orchestra reale del Concertgebouw, Andrés Orozco Estrada (direttore) Coro dell'Opera nazionale olandese, Edward Ananian-Cooper (maestro del coro) Andriy Zholdak (regia, scenografia e luci design) Andriy Zholdak, Simon Machabeli (costumi) Andriy Zholdak, Daniel Zholdak (scenografia) Etienne Guiol (video design) Jacquelyn Wagner (Leonore) Eric Cutler (Florestan) James Creswell (Rocco) Nicholas Brownlee (Don Pizarro) Anna El-Khashem (Marzelline) Linard Vrielink (Jaquino) Mark Kurmanbayev (Don Fernando) Amsterdam, Dutch National Opera, 29 giugno 2024.</desc>
     <credits>
       <director>Ferenc Soeteman</director>
@@ -514,7 +524,7 @@
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
   </programme>
   <programme start="20260316024500 +0100" stop="20260316051600 +0100" channel="MEZZO">
-    <title lang="pl">Beethoven: Fidelio - Opera Nazionale Olandese</title>
+    <title lang="pl">Beethoven: Fidelio – Opera Nazionale Olandese</title>
     <desc lang="pl">Fidelio Opera in due atti di Ludwig van Beethoven (1770 - 1827) Libretto di Joseph Sonnleitner e Stephan von Breuning Prima rappresentazione a Vienna, Theater und der Wien, 20 novembre 1805 Orchestra reale del Concertgebouw, Andrés Orozco Estrada (direttore) Coro dell'Opera nazionale olandese, Edward Ananian-Cooper (maestro del coro) Andriy Zholdak (regia, scenografia e luci design) Andriy Zholdak, Simon Machabeli (costumi) Andriy Zholdak, Daniel Zholdak (scenografia) Etienne Guiol (video design) Jacquelyn Wagner (Leonore) Eric Cutler (Florestan) James Creswell (Rocco) Nicholas Brownlee (Don Pizarro) Anna El-Khashem (Marzelline) Linard Vrielink (Jaquino) Mark Kurmanbayev (Don Fernando) Amsterdam, Dutch National Opera, 29 giugno 2024.</desc>
     <credits>
       <director>Ferenc Soeteman</director>
@@ -947,6 +957,1110 @@
     <date>2024</date>
     <category lang="pl">concerto jazz</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984469.jpg" />
+  </programme>
+  <programme start="20260313001500 +0000" stop="20260313004500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Paddock F1 non tagliato: Cina</title>
+    <sub-title lang="pl">E21</sub-title>
+    <desc lang="pl">Unisciti alle voci principali di Sky F1 mentre analizzano e discutono le storie più importanti emerse dalla giornata dei media in vista del Gran Premio della Cina.</desc>
+  </programme>
+  <programme start="20260313004500 +0000" stop="20260313005500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Kimi e Ted</title>
+    <desc lang="pl">Il pilota della Mercedes Kimi Antonelli si siede con Ted Kravitz di Sky F1.</desc>
+  </programme>
+  <programme start="20260313005500 +0000" stop="20260313010500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Martin Brundle &amp;amp; L'elicottero di F1</title>
+    <desc lang="pl">Martin Brundle di Sky F1 va dietro le quinte con l'elicottero di Formula 1.</desc>
+  </programme>
+  <programme start="20260313010500 +0000" stop="20260313020000 +0000" channel="Sky Sports F1">
+    <title lang="pl">DAL VIVO: F1 Academy: pratica</title>
+    <sub-title lang="pl">E1</sub-title>
+    <desc lang="pl">La F1 Academy ritorna per la quarta stagione mentre il gruppo tutto femminile inizia i preparativi con le prove libere sul Circuito Internazionale di Shanghai. Doriane Pin ha vinto il campionato 2025.</desc>
+  </programme>
+  <programme start="20260313020000 +0000" stop="20260313020500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Formula Uno Varie</title>
+    <sub-title lang="pl">E27</sub-title>
+    <desc lang="pl">Ted Kravitz si unisce al campione del mondo del 1997 Jacques Villeneuve per l'ultima puntata della serie F1 Explainer per discutere degli stili di guida della Formula 1.</desc>
+  </programme>
+  <programme start="20260313020500 +0000" stop="20260313021500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Williams F1 Angeli Blu</title>
+    <desc lang="pl">Il direttore del team Williams F1 James Vowles e il pilota Alex Albon prendono il volo con i Blue Angels della Marina degli Stati Uniti.</desc>
+  </programme>
+  <programme start="20260313021500 +0000" stop="20260313023000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Lando Norris IV</title>
+    <desc lang="pl">Un servizio di Sky Sports F1 incentrato sul campione del mondo di Formula 1 del 2025 Lando Norris.</desc>
+  </programme>
+  <programme start="20260313023000 +0000" stop="20260313030000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Paddock F1 non tagliato: Cina</title>
+    <sub-title lang="pl">E21</sub-title>
+    <desc lang="pl">Unisciti alle voci principali di Sky F1 mentre analizzano e discutono le storie più importanti emerse dalla giornata dei media in vista del Gran Premio della Cina.</desc>
+  </programme>
+  <programme start="20260313030000 +0000" stop="20260313044500 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: GP F1 cinese: prove libere 1</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Il semaforo si accende verde per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione.</desc>
+  </programme>
+  <programme start="20260313044500 +0000" stop="20260313051500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Paddock F1 non tagliato: Cina</title>
+    <sub-title lang="pl">E21</sub-title>
+    <desc lang="pl">Unisciti alle voci principali di Sky F1 mentre analizzano e discutono le storie più importanti emerse dalla giornata dei media in vista del Gran Premio della Cina.</desc>
+  </programme>
+  <programme start="20260313051500 +0000" stop="20260313053000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Lando Norris IV</title>
+    <desc lang="pl">Un servizio di Sky Sports F1 incentrato sul campione del mondo di Formula 1 del 2025 Lando Norris.</desc>
+  </programme>
+  <programme start="20260313053000 +0000" stop="20260313060000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Conferenza Stampa dei Team Principal</title>
+    <sub-title lang="pl">E298</sub-title>
+    <desc lang="pl">I capi dei team di Formula 1 si siedono per rispondere alle domande dei media in vista del Gran Premio della Cina.</desc>
+  </programme>
+  <programme start="20260313060000 +0000" stop="20260313064500 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: F1 Academy: qualifiche</title>
+    <sub-title lang="pl">E2</sub-title>
+    <desc lang="pl">Il campo della F1 Academy si prepara per le qualifiche a Shanghai. Il giro più veloce di ogni pilota determina la griglia per Gara due, mentre l'ordine per Gara uno è determinato invertendo i primi otto.</desc>
+  </programme>
+  <programme start="20260313064500 +0000" stop="20260313090000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: GP F1 Cinese: Qualifiche Sprint</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole.</desc>
+  </programme>
+  <programme start="20260313090000 +0000" stop="20260313101500 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP F1 cinese: prove libere 1</title>
+    <sub-title lang="pl">E48</sub-title>
+    <desc lang="pl">Il semaforo si accende verde per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione. (13.03).</desc>
+  </programme>
+  <programme start="20260313101500 +0000" stop="20260313111500 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Qualifiche Sprint</title>
+    <sub-title lang="pl">E49</sub-title>
+    <desc lang="pl">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
+  </programme>
+  <programme start="20260313111500 +0000" stop="20260313113000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Oscar Piastri IV</title>
+    <desc lang="pl">Uno sguardo al giovane pilota australiano della McLaren Oscar Piastri, che ha spinto il compagno di squadra Lando Norris fino alla fine nella corsa per il campionato 2025.</desc>
+  </programme>
+  <programme start="20260313113000 +0000" stop="20260313123000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti del GP d'Australia di F1</title>
+    <sub-title lang="pl">E140</sub-title>
+    <desc lang="pl">Luci spente all'Albert Park per il Gran Premio d'Australia di apertura della stagione. Lando Norris ha ottenuto la vittoria della gara lo scorso anno, la prima della sua stagione da vincitore del campionato del mondo. (08.03).</desc>
+  </programme>
+  <programme start="20260313123000 +0000" stop="20260313134500 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP F1 cinese: prove libere 1</title>
+    <sub-title lang="pl">E48</sub-title>
+    <desc lang="pl">Il semaforo si accende verde per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione. (13.03).</desc>
+  </programme>
+  <programme start="20260313134500 +0000" stop="20260313143000 +0000" channel="Sky Sports F1">
+    <title lang="pl">F1 Academy: qualifiche</title>
+    <sub-title lang="pl">E2</sub-title>
+    <desc lang="pl">Il campo della F1 Academy si prepara per le qualifiche a Shanghai. Il giro più veloce di ogni pilota determina la griglia per Gara due, mentre l'ordine per Gara uno è determinato invertendo i primi otto.</desc>
+  </programme>
+  <programme start="20260313143000 +0000" stop="20260313153000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Qualifiche Sprint</title>
+    <sub-title lang="pl">E49</sub-title>
+    <desc lang="pl">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
+  </programme>
+  <programme start="20260313153000 +0000" stop="20260313154500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Brad Pitt x McLaren</title>
+    <desc lang="pl">Scopri le interazioni della star di F1 The Movie Brad Pitt con la McLaren.</desc>
+  </programme>
+  <programme start="20260313154500 +0000" stop="20260313164500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti del GP d'Australia di F1</title>
+    <sub-title lang="pl">E140</sub-title>
+    <desc lang="pl">Luci spente all'Albert Park per il Gran Premio d'Australia di apertura della stagione. Lando Norris ha ottenuto la vittoria della gara lo scorso anno, la prima della sua stagione da vincitore del campionato del mondo. (08.03).</desc>
+  </programme>
+  <programme start="20260313164500 +0000" stop="20260313180000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP F1 cinese: prove libere 1</title>
+    <sub-title lang="pl">E48</sub-title>
+    <desc lang="pl">Il semaforo si accende verde per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione. (13.03).</desc>
+  </programme>
+  <programme start="20260313180000 +0000" stop="20260313190000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Qualifiche Sprint</title>
+    <sub-title lang="pl">E49</sub-title>
+    <desc lang="pl">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
+  </programme>
+  <programme start="20260313190000 +0000" stop="20260313200000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti dell'IndyCar</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">È il giorno della gara della NTT IndyCar Series al Phoenix Raceway con lo schieramento di piloti del 2026 sulla griglia per l'inizio del Good Ranchers 250. (07.03).</desc>
+  </programme>
+  <programme start="20260313200000 +0000" stop="20260313213000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Indycar Series: prove libere 1</title>
+    <sub-title lang="pl">E11</sub-title>
+    <desc lang="pl">La NTT IndyCar Series si dirige in Texas per la terza gara della stagione 2026 mentre i preparativi iniziano sulle strade di Arlington con le prove.</desc>
+  </programme>
+  <programme start="20260313213000 +0000" stop="20260313223000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Qualifiche Sprint</title>
+    <sub-title lang="pl">E49</sub-title>
+    <desc lang="pl">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
+  </programme>
+  <programme start="20260313223000 +0000" stop="20260313225000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Novità: Inseguendo il sogno</title>
+    <sub-title lang="pl">E2</sub-title>
+    <desc lang="pl">In questa serie avvincente, vai dietro le quinte della Formula 2. Ecco uno sguardo alla gara di apertura della stagione sul circuito dell'Albert Park a Melbourne, in Australia.</desc>
+  </programme>
+  <programme start="20260313225000 +0000" stop="20260313230000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Kimi e Ted</title>
+    <desc lang="pl">Il pilota della Mercedes Kimi Antonelli si siede con Ted Kravitz di Sky F1.</desc>
+  </programme>
+  <programme start="20260313230000 +0000" stop="20260314000000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti del GP d'Australia di F1</title>
+    <sub-title lang="pl">E140</sub-title>
+    <desc lang="pl">Luci spente per il Gran Premio d'Australia di apertura della stagione. George Russell guida una Mercedes in prima fila con Isack Hadjar della Red Bull terzo. Lando Norris parte dalla sesta posizione. (08.03).</desc>
+  </programme>
+  <programme start="20260314000000 +0000" stop="20260314011500 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP F1 cinese: prove libere 1</title>
+    <sub-title lang="pl">E48</sub-title>
+    <desc lang="pl">Il semaforo si accende verde per l'unica ora di prove libere mentre il Circuito Internazionale di Shanghai prepara la scena per il primo weekend Sprint di Formula 1 della stagione. (13.03).</desc>
+  </programme>
+  <programme start="20260314011500 +0000" stop="20260314021500 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Qualifiche Sprint</title>
+    <sub-title lang="pl">E49</sub-title>
+    <desc lang="pl">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
+  </programme>
+  <programme start="20260314021500 +0000" stop="20260314022500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Pedalare per lavorare con Leclerc</title>
+    <desc lang="pl">Karun Chandhok di Sky F1 si unisce al pilota della Ferrari Charles Leclerc in un piacevole giro in bicicletta sull'iconica pista di Monaco.</desc>
+  </programme>
+  <programme start="20260314022500 +0000" stop="20260314043000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: GP F1 Cina: Sprint</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Il fine settimana del Gran Premio della Cina vede il primo dei sei Sprint di F1 di questa stagione. La prima vittoria della Ferrari di Lewis Hamilton è arrivata qui a Shanghai l'anno scorso.</desc>
+  </programme>
+  <programme start="20260314043000 +0000" stop="20260314050000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Taccuino Sprint di Ted: Cina</title>
+    <sub-title lang="pl">E292</sub-title>
+    <desc lang="pl">Ted Kravitz è nel paddock mentre ripercorre tutte le storie più importanti dello Sprint di F1 di apertura della stagione 2026 a Shanghai.</desc>
+  </programme>
+  <programme start="20260314050000 +0000" stop="20260314052000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Inseguendo il sogno</title>
+    <sub-title lang="pl">E2</sub-title>
+    <desc lang="pl">In questa serie avvincente, vai dietro le quinte della Formula 2. Ecco uno sguardo alla gara di apertura della stagione sul circuito dell'Albert Park a Melbourne, in Australia.</desc>
+  </programme>
+  <programme start="20260314052000 +0000" stop="20260314053000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Martin Brundle &amp;amp; L'elicottero di F1</title>
+    <desc lang="pl">Martin Brundle di Sky F1 va dietro le quinte con l'elicottero di Formula 1.</desc>
+  </programme>
+  <programme start="20260314053000 +0000" stop="20260314063000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: F1 Academy: Gara 1</title>
+    <sub-title lang="pl">E3</sub-title>
+    <desc lang="pl">Il gruppo tutto femminile dei piloti della F1 Academy ha raggiunto il Circuito Internazionale di Shanghai per la gara di apertura della stagione, con le prime otto qualificazioni invertite.</desc>
+  </programme>
+  <programme start="20260314063000 +0000" stop="20260314090000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: GP F1 della Cina: qualifiche</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">La griglia del Gran Premio della Cina è impostata con le qualifiche della Formula 1, mentre i piloti cercano di lottare per raggiungere la Q3 per un colpo alla pole position.</desc>
+  </programme>
+  <programme start="20260314090000 +0000" stop="20260314093000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Taccuino Quali di Ted: Cina</title>
+    <sub-title lang="pl">E245</sub-title>
+    <desc lang="pl">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
+  </programme>
+  <programme start="20260314093000 +0000" stop="20260314103000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP F1 Cina: qualifiche</title>
+    <sub-title lang="pl">E213</sub-title>
+    <desc lang="pl">La griglia del Gran Premio della Cina è impostata con le qualifiche della Formula 1, mentre i piloti cercano di lottare per raggiungere la Q3 per un colpo alla pole position. (14.03).</desc>
+  </programme>
+  <programme start="20260314103000 +0000" stop="20260314110000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Quali di Ted: Cina</title>
+    <sub-title lang="pl">E245</sub-title>
+    <desc lang="pl">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
+  </programme>
+  <programme start="20260314110000 +0000" stop="20260314120000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Sprint</title>
+    <sub-title lang="pl">E50</sub-title>
+    <desc lang="pl">Il fine settimana del Gran Premio della Cina vede il primo dei sei Sprint di F1 di questa stagione. La prima vittoria della Ferrari di Lewis Hamilton è arrivata qui a Shanghai l'anno scorso. (14.03).</desc>
+  </programme>
+  <programme start="20260314120000 +0000" stop="20260314123000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Sprint di Ted: Cina</title>
+    <sub-title lang="pl">E292</sub-title>
+    <desc lang="pl">Ted Kravitz è nel paddock mentre ripercorre tutte le storie più importanti dello Sprint di F1 di apertura della stagione 2026 a Shanghai.</desc>
+  </programme>
+  <programme start="20260314123000 +0000" stop="20260314133000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP F1 Cina: qualifiche</title>
+    <sub-title lang="pl">E213</sub-title>
+    <desc lang="pl">La griglia del Gran Premio della Cina è impostata con le qualifiche della Formula 1, mentre i piloti cercano di lottare per raggiungere la Q3 per un colpo alla pole position. (14.03).</desc>
+  </programme>
+  <programme start="20260314133000 +0000" stop="20260314150000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Indycar Series: Pratica 2</title>
+    <sub-title lang="pl">E12</sub-title>
+    <desc lang="pl">Continuano le prove per la terza gara della campagna NTT Indy Car Series 2026 sulle strade di Arlington.</desc>
+  </programme>
+  <programme start="20260314150000 +0000" stop="20260314170000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: qualifiche</title>
+    <sub-title lang="pl">E51</sub-title>
+    <desc lang="pl">La griglia del Gran Premio della Cina è impostata con le qualifiche della Formula 1, mentre i piloti cercano di lottare per raggiungere la Q3 per un colpo alla pole position. (14.03).</desc>
+  </programme>
+  <programme start="20260314170000 +0000" stop="20260314173000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Quali di Ted: Cina</title>
+    <sub-title lang="pl">E245</sub-title>
+    <desc lang="pl">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
+  </programme>
+  <programme start="20260314173000 +0000" stop="20260314183000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Sprint</title>
+    <sub-title lang="pl">E50</sub-title>
+    <desc lang="pl">Il fine settimana del Gran Premio della Cina vede il primo dei sei Sprint di F1 di questa stagione. La prima vittoria della Ferrari di Lewis Hamilton è arrivata qui a Shanghai l'anno scorso. (14.03).</desc>
+  </programme>
+  <programme start="20260314183000 +0000" stop="20260314203000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Indycar Series: qualifiche</title>
+    <sub-title lang="pl">E13</sub-title>
+    <desc lang="pl">La griglia del Gran Premio di Arlington di domenica è fissata con le qualifiche della NTT IndyCar Series in Texas.</desc>
+  </programme>
+  <programme start="20260314203000 +0000" stop="20260314210000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Quali di Ted: Cina</title>
+    <sub-title lang="pl">E245</sub-title>
+    <desc lang="pl">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
+  </programme>
+  <programme start="20260314210000 +0000" stop="20260314220000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Ferrari Challenge Europa</title>
+    <sub-title lang="pl">E1</sub-title>
+    <desc lang="pl">Piloti provenienti da tutto il continente arrivano al Circuit Paul Ricard in Francia per l'inizio della stagione Ferrari Challenge 2026.</desc>
+  </programme>
+  <programme start="20260314220000 +0000" stop="20260314230000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Ferrari Challenge Europa</title>
+    <sub-title lang="pl">E2</sub-title>
+    <desc lang="pl">Il Trofeo Pirelli in gara dalla gara di apertura del Ferrari Challenge 2026 al Circuito Paul Ricard in Francia.</desc>
+  </programme>
+  <programme start="20260314230000 +0000" stop="20260315010000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: qualifiche</title>
+    <sub-title lang="pl">E51</sub-title>
+    <desc lang="pl">La griglia del Gran Premio della Cina è impostata con le qualifiche della Formula 1, mentre i piloti cercano di lottare per raggiungere la Q3 per un colpo alla pole position. (14.03).</desc>
+  </programme>
+  <programme start="20260315010000 +0000" stop="20260315013000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Quali di Ted: Cina</title>
+    <sub-title lang="pl">E245</sub-title>
+    <desc lang="pl">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
+  </programme>
+  <programme start="20260315013000 +0000" stop="20260315023000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Accademia F1: Gara 1</title>
+    <sub-title lang="pl">E3</sub-title>
+    <desc lang="pl">Il gruppo tutto femminile dei piloti della F1 Academy ha raggiunto il Circuito Internazionale di Shanghai per la gara di apertura della stagione, con le prime otto qualificazioni invertite.</desc>
+  </programme>
+  <programme start="20260315023000 +0000" stop="20260315023500 +0000" channel="Sky Sports F1">
+    <title lang="pl">F1 spiegato: il sottosquadro</title>
+    <sub-title lang="pl">E110</sub-title>
+    <desc lang="pl">Nella prossima puntata della serie F1 Explainer, Bernie Collins e Anthony Davidson spiegano il sottosquadro.</desc>
+  </programme>
+  <programme start="20260315023500 +0000" stop="20260315032500 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: F1 Academy: Gara 2</title>
+    <sub-title lang="pl">E4</sub-title>
+    <desc lang="pl">Il gruppo tutto femminile dei piloti della F1 Academy ha toccato il Circuito Internazionale di Shanghai per la seconda gara della stagione.</desc>
+  </programme>
+  <programme start="20260315032500 +0000" stop="20260315033000 +0000" channel="Sky Sports F1">
+    <title lang="pl">F1 spiegato: il sottosquadro</title>
+    <sub-title lang="pl">E110</sub-title>
+    <desc lang="pl">Nella prossima puntata della serie F1 Explainer, Bernie Collins e Anthony Davidson spiegano il sottosquadro.</desc>
+  </programme>
+  <programme start="20260315033000 +0000" stop="20260315040000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Sprint di Ted: Cina</title>
+    <sub-title lang="pl">E292</sub-title>
+    <desc lang="pl">Ted Kravitz è nel paddock mentre ripercorre tutte le storie più importanti dello Sprint di F1 di apertura della stagione 2026 a Shanghai.</desc>
+  </programme>
+  <programme start="20260315040000 +0000" stop="20260315050000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP F1 Cina: qualifiche</title>
+    <sub-title lang="pl">E213</sub-title>
+    <desc lang="pl">La griglia del Gran Premio della Cina è impostata con le qualifiche della Formula 1, mentre i piloti cercano di lottare per raggiungere la Q3 per un colpo alla pole position. (14.03).</desc>
+  </programme>
+  <programme start="20260315050000 +0000" stop="20260315053000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Quali di Ted: Cina</title>
+    <sub-title lang="pl">E245</sub-title>
+    <desc lang="pl">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
+  </programme>
+  <programme start="20260315053000 +0000" stop="20260315065500 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Domenica del Gran Premio: Cina</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Unisciti a Sky Sports F1 sulla griglia prima dell'inizio della gara del Gran Premio della Cina sul Circuito Internazionale di Shanghai.</desc>
+  </programme>
+  <programme start="20260315065500 +0000" stop="20260315090000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Gran Premio di Cina F1</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto.</desc>
+  </programme>
+  <programme start="20260315090000 +0000" stop="20260315100000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Bandiera a scacchi: Cina</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Mentre scende la bandiera a scacchi sul Gran Premio della Cina, unisciti a Sky Sports F1 per tutte le reazioni e le analisi a Shanghai.</desc>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315103000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Il taccuino di Ted: Cina</title>
+    <sub-title lang="pl">E269</sub-title>
+    <desc lang="pl">Ted Kravitz segue in diretta il Gran Premio della Cina, mentre condivide i suoi pensieri sulla gara mentre raccoglie le reazioni dal paddock.</desc>
+  </programme>
+  <programme start="20260315103000 +0000" stop="20260315113000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti del GP di F1 cinese</title>
+    <sub-title lang="pl">E141</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
+  </programme>
+  <programme start="20260315113000 +0000" stop="20260315115500 +0000" channel="Sky Sports F1">
+    <title lang="pl">La replica della domenica del Gran Premio</title>
+  </programme>
+  <programme start="20260315115500 +0000" stop="20260315140000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Replay del Gran Premio di F1 della Cina</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto.</desc>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315150000 +0000" channel="Sky Sports F1">
+    <title lang="pl">LIVE: Serie Indycar: riscaldamento</title>
+    <sub-title lang="pl">E14</sub-title>
+    <desc lang="pl">In vista del Gran Premio di Arlington, i piloti della IndyCar Series si preparano a correre in Texas con un riscaldamento sulle strade di Arlington.</desc>
+  </programme>
+  <programme start="20260315150000 +0000" stop="20260315160000 +0000" channel="Sky Sports F1">
+    <title lang="pl">DAL VIVO: IndyNXT</title>
+    <sub-title lang="pl">E77</sub-title>
+    <desc lang="pl">La prossima generazione di stelle IndyCar si schiera sulla griglia per una gara Indy NXT sulle strade di Arlington.</desc>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315161500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Lando Norris IV</title>
+    <desc lang="pl">Un servizio di Sky Sports F1 incentrato sul campione del mondo di Formula 1 del 2025 Lando Norris.</desc>
+  </programme>
+  <programme start="20260315161500 +0000" stop="20260315162500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Kimi e Ted</title>
+    <desc lang="pl">Il pilota della Mercedes Kimi Antonelli si siede con Ted Kravitz di Sky F1.</desc>
+  </programme>
+  <programme start="20260315162500 +0000" stop="20260315163000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Formula Uno Varie</title>
+    <sub-title lang="pl">E27</sub-title>
+    <desc lang="pl">Ted Kravitz si unisce al campione del mondo del 1997 Jacques Villeneuve per l'ultima puntata della serie F1 Explainer per discutere degli stili di guida della Formula 1.</desc>
+  </programme>
+  <programme start="20260315163000 +0000" stop="20260315193000 +0000" channel="Sky Sports F1">
+    <title lang="pl">DAL VIVO: Serie Indycar</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">È il giorno della gara della NTT IndyCar Series mentre inizia il Gran Premio di Arlington.</desc>
+  </programme>
+  <programme start="20260315193000 +0000" stop="20260315203000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti del GP di F1 cinese</title>
+    <sub-title lang="pl">E141</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
+  </programme>
+  <programme start="20260315203000 +0000" stop="20260315210000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il taccuino di Ted: Cina</title>
+    <sub-title lang="pl">E269</sub-title>
+    <desc lang="pl">Ted Kravitz segue in diretta il Gran Premio della Cina, mentre condivide i suoi pensieri sulla gara mentre raccoglie le reazioni dal paddock.</desc>
+  </programme>
+  <programme start="20260315210000 +0000" stop="20260315220000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Ferrari Challenge Europa</title>
+    <sub-title lang="pl">E3</sub-title>
+    <desc lang="pl">Altre gare della Coppa Shell dal Circuito Paul Ricard durante il round di apertura della stagione Ferrari Challenge 2026.</desc>
+  </programme>
+  <programme start="20260315220000 +0000" stop="20260315230000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Ferrari Challenge Europa</title>
+    <sub-title lang="pl">E4</sub-title>
+    <desc lang="pl">Altre gare del Trofeo Pirelli dal Circuito Paul Ricard durante il round di apertura della stagione Ferrari Challenge 2026.</desc>
+  </programme>
+  <programme start="20260315230000 +0000" stop="20260316000000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti del GP di F1 cinese</title>
+    <sub-title lang="pl">E141</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
+  </programme>
+  <programme start="20260316000000 +0000" stop="20260316003000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il taccuino di Ted: Cina</title>
+    <sub-title lang="pl">E269</sub-title>
+    <desc lang="pl">Ted Kravitz segue in diretta il Gran Premio della Cina, mentre condivide i suoi pensieri sulla gara mentre raccoglie le reazioni dal paddock.</desc>
+  </programme>
+  <programme start="20260316003000 +0000" stop="20260316013000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Accademia F1: Gara 2</title>
+    <sub-title lang="pl">E4</sub-title>
+    <desc lang="pl">Il gruppo tutto femminile dei piloti della F1 Academy ha toccato il Circuito Internazionale di Shanghai per la seconda gara della stagione.</desc>
+  </programme>
+  <programme start="20260316013000 +0000" stop="20260316034500 +0000" channel="Sky Sports F1">
+    <title lang="pl">F1 Kids: Gran Premio della Cina</title>
+  </programme>
+  <programme start="20260316034500 +0000" stop="20260316044500 +0000" channel="Sky Sports F1">
+    <title lang="pl">IndyNXT</title>
+    <sub-title lang="pl">E77</sub-title>
+    <desc lang="pl">La prossima generazione di stelle IndyCar si schiera sulla griglia per una gara Indy NXT sulle strade di Arlington.</desc>
+  </programme>
+  <programme start="20260316044500 +0000" stop="20260316045500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Pit-stop della Red Bull</title>
+    <desc lang="pl">Craig Slater di Sky Sports News prova la squadra dei box della Red Bull, sette volte vincitrice del DHL Fastest Pit Stop Award, per vedere se ha le carte in regola per unirsi alla squadra.</desc>
+  </programme>
+  <programme start="20260316045500 +0000" stop="20260316050000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Formula Uno Varie</title>
+    <sub-title lang="pl">E27</sub-title>
+    <desc lang="pl">Ted Kravitz si unisce al campione del mondo del 1997 Jacques Villeneuve per l'ultima puntata della serie F1 Explainer per discutere degli stili di guida della Formula 1.</desc>
+  </programme>
+  <programme start="20260316050000 +0000" stop="20260316060000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="pl">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260316060000 +0000" stop="20260316072500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Domenica del Gran Premio: Cina</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Unisciti a Sky Sports F1 sulla griglia prima dell'inizio della gara del Gran Premio della Cina sul Circuito Internazionale di Shanghai.</desc>
+  </programme>
+  <programme start="20260316072500 +0000" stop="20260316093000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Gran Premio di F1 della Cina</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto.</desc>
+  </programme>
+  <programme start="20260316093000 +0000" stop="20260316103000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Bandiera a scacchi: Cina</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Mentre scende la bandiera a scacchi sul Gran Premio della Cina, unisciti a Sky Sports F1 per tutte le reazioni e le analisi a Shanghai.</desc>
+  </programme>
+  <programme start="20260316103000 +0000" stop="20260316110000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il taccuino di Ted: Cina</title>
+    <sub-title lang="pl">E269</sub-title>
+    <desc lang="pl">Ted Kravitz segue in diretta il Gran Premio della Cina, mentre condivide i suoi pensieri sulla gara mentre raccoglie le reazioni dal paddock.</desc>
+  </programme>
+  <programme start="20260316110000 +0000" stop="20260316111000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Pedalare per lavorare con Leclerc</title>
+    <desc lang="pl">Karun Chandhok di Sky F1 si unisce al pilota della Ferrari Charles Leclerc in un piacevole giro in bicicletta sull'iconica pista di Monaco.</desc>
+  </programme>
+  <programme start="20260316111000 +0000" stop="20260316112000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Pit-stop della Red Bull</title>
+    <desc lang="pl">Craig Slater di Sky Sports News prova la squadra dei box della Red Bull, sette volte vincitrice del DHL Fastest Pit Stop Award, per vedere se ha le carte in regola per unirsi alla squadra.</desc>
+  </programme>
+  <programme start="20260316112000 +0000" stop="20260316113000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Martin Brundle &amp;amp; L'elicottero di F1</title>
+    <desc lang="pl">Martin Brundle di Sky F1 va dietro le quinte con l'elicottero di Formula 1.</desc>
+  </programme>
+  <programme start="20260316113000 +0000" stop="20260316120000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Paddock F1 non tagliato: Cina</title>
+    <sub-title lang="pl">E21</sub-title>
+    <desc lang="pl">Unisciti alle voci principali di Sky F1 mentre analizzano e discutono le storie più importanti emerse dalla giornata dei media in vista del Gran Premio della Cina.</desc>
+  </programme>
+  <programme start="20260316120000 +0000" stop="20260316131500 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP F1 cinese: prove libere 1</title>
+    <sub-title lang="pl">E48</sub-title>
+    <desc lang="pl">Il semaforo si accende verde per l'unica ora di prove mentre Shanghai prepara la scena per il primo fine settimana Sprint della stagione. La Mercedes ha dato il via alla nuova era della F1 con una doppietta. (13.03).</desc>
+  </programme>
+  <programme start="20260316131500 +0000" stop="20260316141500 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Qualifiche Sprint</title>
+    <sub-title lang="pl">E49</sub-title>
+    <desc lang="pl">Il Gran Premio della Cina mette in scena la sessione di qualifiche Sprint di apertura del 2026 mentre le posizioni in griglia vengono fissate per la Sprint Race di sabato alle 3:00, dove il pilota più veloce qui conquisterà la pole. (13.03).</desc>
+  </programme>
+  <programme start="20260316141500 +0000" stop="20260316143000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Brad Pitt x McLaren</title>
+    <desc lang="pl">Scopri le interazioni della star di F1 The Movie Brad Pitt con la McLaren.</desc>
+  </programme>
+  <programme start="20260316143000 +0000" stop="20260316153000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Sprint</title>
+    <sub-title lang="pl">E50</sub-title>
+    <desc lang="pl">Il fine settimana del Gran Premio della Cina vede il primo dei sei Sprint di F1 di questa stagione. La prima vittoria della Ferrari di Lewis Hamilton è arrivata qui a Shanghai l'anno scorso. (14.03).</desc>
+  </programme>
+  <programme start="20260316153000 +0000" stop="20260316160000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Sprint di Ted: Cina</title>
+    <sub-title lang="pl">E292</sub-title>
+    <desc lang="pl">Ted Kravitz è nel paddock mentre ripercorre tutte le storie più importanti dello Sprint di F1 di apertura della stagione 2026 a Shanghai.</desc>
+  </programme>
+  <programme start="20260316160000 +0000" stop="20260316180000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: qualifiche</title>
+    <sub-title lang="pl">E51</sub-title>
+    <desc lang="pl">La griglia del Gran Premio della Cina è impostata con le qualifiche della Formula 1, mentre i piloti cercano di lottare per raggiungere la Q3 per un colpo alla pole position. (14.03).</desc>
+  </programme>
+  <programme start="20260316180000 +0000" stop="20260316183000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Quali di Ted: Cina</title>
+    <sub-title lang="pl">E245</sub-title>
+    <desc lang="pl">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
+  </programme>
+  <programme start="20260316183000 +0000" stop="20260316184000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Williams F1 Angeli Blu</title>
+    <desc lang="pl">Il direttore del team Williams F1 James Vowles e il pilota Alex Albon prendono il volo con i Blue Angels della Marina degli Stati Uniti.</desc>
+  </programme>
+  <programme start="20260316184000 +0000" stop="20260316185000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Kimi e Ted</title>
+    <desc lang="pl">Il pilota della Mercedes Kimi Antonelli si siede con Ted Kravitz di Sky F1.</desc>
+  </programme>
+  <programme start="20260316185000 +0000" stop="20260316190000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Brad Pitt x McLaren</title>
+    <desc lang="pl">Scopri le interazioni della star di F1 The Movie Brad Pitt con la McLaren.</desc>
+  </programme>
+  <programme start="20260316190000 +0000" stop="20260316211500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Gran Premio di F1 della Cina</title>
+    <sub-title lang="pl">E165</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
+  </programme>
+  <programme start="20260316211500 +0000" stop="20260316214500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il taccuino di Ted: Cina</title>
+    <sub-title lang="pl">E269</sub-title>
+    <desc lang="pl">Ted Kravitz segue in diretta il Gran Premio della Cina, mentre condivide i suoi pensieri sulla gara mentre raccoglie le reazioni dal paddock.</desc>
+  </programme>
+  <programme start="20260316214500 +0000" stop="20260316220000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Brad Pitt x McLaren</title>
+    <desc lang="pl">Scopri le interazioni della star di F1 The Movie Brad Pitt con la McLaren.</desc>
+  </programme>
+  <programme start="20260316220000 +0000" stop="20260317010000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Serie Indycar</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">È il giorno della gara della NTT IndyCar Series mentre inizia il Gran Premio di Arlington.</desc>
+  </programme>
+  <programme start="20260317010000 +0000" stop="20260317020000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="pl">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260317020000 +0000" stop="20260317030000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="pl">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260317030000 +0000" stop="20260317040000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="pl">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260317040000 +0000" stop="20260317050000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="pl">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260317050000 +0000" stop="20260317060000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio di Sky Sports F1 2025</title>
+    <desc lang="pl">Una carrellata delle storie e degli approfondimenti più importanti di questo sport con i presentatori della Formula 1 di Sky.</desc>
+  </programme>
+  <programme start="20260317060000 +0000" stop="20260317070000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio della F1 2014</title>
+    <sub-title lang="pl">E24</sub-title>
+    <desc lang="pl">Il Gran Premio del Bahrain 2014 dal Circuito Internazionale del Bahrain. Nico Rosberg ha conquistato la pole position davanti al compagno di squadra della Mercedes Lewis Hamilton.</desc>
+  </programme>
+  <programme start="20260317070000 +0000" stop="20260317080000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio della F1 2014</title>
+    <sub-title lang="pl">E32</sub-title>
+    <desc lang="pl">Il Gran Premio della Cina 2014 dal Circuito Internazionale di Shanghai. Lewis Hamilton parte in pole position con Daniel Ricciardo che completa la prima fila della griglia.</desc>
+  </programme>
+  <programme start="20260317080000 +0000" stop="20260317090000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio della F1 2014</title>
+    <sub-title lang="pl">E47</sub-title>
+    <desc lang="pl">Il Gran Premio di Spagna 2014 dal Circuit de Barcelona-Catalunya. Lewis Hamilton parte in pole position, con il compagno di squadra della Mercedes Nico Rosberg che lo raggiunge in prima fila in griglia.</desc>
+  </programme>
+  <programme start="20260317090000 +0000" stop="20260317100000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il meglio della F1 2014</title>
+    <sub-title lang="pl">E48</sub-title>
+    <desc lang="pl">Il Gran Premio di Monaco 2014 dal Circuito di Monaco. Nico Rosberg parte in pole position con il compagno di squadra Mercedes Lewis Hamilton che lo raggiunge in prima fila in griglia.</desc>
+  </programme>
+  <programme start="20260317100000 +0000" stop="20260317110000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: Sprint</title>
+    <sub-title lang="pl">E50</sub-title>
+    <desc lang="pl">Il fine settimana del Gran Premio della Cina vede il primo dei sei Sprint di F1 di questa stagione. La prima vittoria della Ferrari di Lewis Hamilton è arrivata qui a Shanghai l'anno scorso. (14.03).</desc>
+  </programme>
+  <programme start="20260317110000 +0000" stop="20260317113000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Sprint di Ted: Cina</title>
+    <sub-title lang="pl">E292</sub-title>
+    <desc lang="pl">Ted Kravitz è nel paddock mentre ripercorre tutte le storie più importanti dello Sprint di F1 di apertura della stagione 2026 a Shanghai.</desc>
+  </programme>
+  <programme start="20260317113000 +0000" stop="20260317133000 +0000" channel="Sky Sports F1">
+    <title lang="pl">GP Cina F1: qualifiche</title>
+    <sub-title lang="pl">E51</sub-title>
+    <desc lang="pl">La griglia del Gran Premio della Cina è impostata con le qualifiche della Formula 1, mentre i piloti cercano di lottare per raggiungere la Q3 per un colpo alla pole position. (14.03).</desc>
+  </programme>
+  <programme start="20260317133000 +0000" stop="20260317140000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Taccuino Quali di Ted: Cina</title>
+    <sub-title lang="pl">E245</sub-title>
+    <desc lang="pl">Ted Kravitz è in diretta mentre raccoglie le reazioni dall'interno del paddock e ripercorre tutte le storie più importanti delle qualifiche del Gran Premio della Cina a Shanghai.</desc>
+  </programme>
+  <programme start="20260317140000 +0000" stop="20260317152500 +0000" channel="Sky Sports F1">
+    <title lang="pl">Domenica del Gran Premio: Cina</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Unisciti a Sky Sports F1 sulla griglia prima dell'inizio della gara del Gran Premio della Cina sul Circuito Internazionale di Shanghai.</desc>
+  </programme>
+  <programme start="20260317152500 +0000" stop="20260317173000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Gran Premio di F1 della Cina</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto.</desc>
+  </programme>
+  <programme start="20260317173000 +0000" stop="20260317183000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Bandiera a scacchi: Cina</title>
+    <sub-title lang="pl">E0</sub-title>
+    <desc lang="pl">Mentre scende la bandiera a scacchi sul Gran Premio della Cina, unisciti a Sky Sports F1 per tutte le reazioni e le analisi a Shanghai.</desc>
+  </programme>
+  <programme start="20260317183000 +0000" stop="20260317190000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Il taccuino di Ted: Cina</title>
+    <sub-title lang="pl">E269</sub-title>
+    <desc lang="pl">Ted Kravitz segue in diretta il Gran Premio della Cina, mentre condivide i suoi pensieri sulla gara mentre raccoglie le reazioni dal paddock.</desc>
+  </programme>
+  <programme start="20260317190000 +0000" stop="20260317200000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti del GP di F1 cinese</title>
+    <sub-title lang="pl">E141</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
+  </programme>
+  <programme start="20260317200000 +0000" stop="20260317210000 +0000" channel="Sky Sports F1">
+    <title lang="pl">IndyNXT</title>
+    <sub-title lang="pl">E77</sub-title>
+    <desc lang="pl">La prossima generazione di stelle IndyCar si schiera sulla griglia per una gara Indy NXT sulle strade di Arlington.</desc>
+  </programme>
+  <programme start="20260317210000 +0000" stop="20260317220000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti dell'IndyCar</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">È il giorno della gara della NTT IndyCar Series mentre inizia il Gran Premio di Arlington. (15.03).</desc>
+  </programme>
+  <programme start="20260317220000 +0000" stop="20260317230000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti del GP di F1 cinese</title>
+    <sub-title lang="pl">E141</sub-title>
+    <desc lang="pl">Luci spente sul Circuito Internazionale di Shanghai per il Gran Premio della Cina 2026. Oscar Piastri è passato dalla pole qui la scorsa stagione, battendo Lando Norris e George Russell al primo posto. (15.03).</desc>
+  </programme>
+  <programme start="20260317230000 +0000" stop="20260318000000 +0000" channel="Sky Sports F1">
+    <title lang="pl">Momenti salienti dell'IndyCar</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">È il giorno della gara della NTT IndyCar Series mentre inizia il Gran Premio di Arlington. (15.03).</desc>
+  </programme>
+  <programme start="20260313000000 +0000" stop="20260313040000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">In diretta: QF ATP/WTA Indian Wells</title>
+    <sub-title lang="pl">E22</sub-title>
+    <desc lang="pl">Goditi l'azione dal vivo dei tour ATP e WTA.</desc>
+  </programme>
+  <programme start="20260313040000 +0000" stop="20260313041500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Parigi</title>
+    <sub-title lang="pl">E63</sub-title>
+    <desc lang="pl">Un campione di fine anno viene incoronato nella capitale francese al Rolex Paris Masters. (02.11).</desc>
+  </programme>
+  <programme start="20260313041500 +0000" stop="20260313043000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Dubai</title>
+    <sub-title lang="pl">E30</sub-title>
+    <desc lang="pl">A Dubai viene incoronata la campionessa del singolare femminile. Mirra Andreeva, la più giovane finalista WTA di sempre, e la danese Clara Tauson si affrontano per la gloria. (22.02).</desc>
+  </programme>
+  <programme start="20260313043000 +0000" stop="20260313044500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finali ATP: Finale di Torino</title>
+    <sub-title lang="pl">E65</sub-title>
+    <desc lang="pl">Il numero uno al mondo Carlos Alcaraz affronta il campione italiano in carica delle ATP Finals Jannik Sinner nel sesto incontro dell'anno, che segna il finale della stagione del Tour 2025 a Torino. (16.11).</desc>
+  </programme>
+  <programme start="20260313044500 +0000" stop="20260313050000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Indian Wells</title>
+    <sub-title lang="pl">E31</sub-title>
+    <desc lang="pl">Mirra Andreeva incontra la testa di serie Aryna Sabalenka nella finale di Indian Wells. Sabalenka ha vendicato la sconfitta agli Australian Open contro il Keys in semifinale, mentre Andreeva ha detronizzato Swiatek. (16.03).</desc>
+  </programme>
+  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E7</sub-title>
+    <desc lang="pl">Risparmiando quattro match point, Roger Federer è stato spinto al limite nella semifinale delle ATP Finals 2014 con la superstar svizzera Stan Wawrinka.</desc>
+  </programme>
+  <programme start="20260313060000 +0000" stop="20260313070000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Dubai</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Incontrandosi per la prima volta in una finale, le 31enni Jessica Pegula ed Elina Svitolina si contendono la corona di Dubai. Svitolina punta a porre fine ad un'attesa di otto anni per il suo terzo titolo qui. (21.02).</desc>
+  </programme>
+  <programme start="20260313070000 +0000" stop="20260313090000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Punti salienti del tennis</title>
+    <sub-title lang="pl">E9</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260313090000 +0000" stop="20260313110000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Punti salienti del tennis</title>
+    <sub-title lang="pl">E9</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260313110000 +0000" stop="20260313120000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Ostrava</title>
+    <sub-title lang="pl">E6</sub-title>
+    <desc lang="pl">Katie Boulter punta al suo quarto titolo in carriera mentre l'ex numero 23 del mondo affronta la tedesca Tamara Korpatsch nella finale di Ostrava. Boulter tornerà tra i primi 100 con la vittoria. (07.02).</desc>
+  </programme>
+  <programme start="20260313120000 +0000" stop="20260313140000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Indian Wells: Dieci al tie-break</title>
+    <sub-title lang="pl">E44</sub-title>
+    <desc lang="pl">Alla vigilia di Indian Wells, Tie Break Tens ritorna per una vetrina di tennis frenetico, ad alta energia e in cui il vincitore prende tutto in un formato doppio misto.</desc>
+  </programme>
+  <programme start="20260313140000 +0000" stop="20260313160000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Punti salienti del tennis</title>
+    <sub-title lang="pl">E9</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260313160000 +0000" stop="20260313180000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Punti salienti del tennis</title>
+    <sub-title lang="pl">E9</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260313180000 +0000" stop="20260313210000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Live: ATP Indian Wells Doppio SF</title>
+    <sub-title lang="pl">E23</sub-title>
+    <desc lang="pl">Goditi l'azione dal vivo dei tour ATP e WTA.</desc>
+  </programme>
+  <programme start="20260313210000 +0000" stop="20260314030000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Dal vivo: WTA Indian Well SF</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Goditi l'azione dal vivo dei tour ATP e WTA.</desc>
+  </programme>
+  <programme start="20260314030000 +0000" stop="20260314031500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Indian Wells</title>
+    <sub-title lang="pl">E35</sub-title>
+    <desc lang="pl">Il britannico Jack Draper gareggia nella sua prima finale dell'ATP Masters 1000 a Indian Wells mentre il britannico nella top 10 affronta Holger Rune. Draper ha eliminato Carlos Alcaraz negli ultimi quattro. (16.03).</desc>
+  </programme>
+  <programme start="20260314031500 +0000" stop="20260314033000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Miami</title>
+    <sub-title lang="pl">E32</sub-title>
+    <desc lang="pl">A Miami, la finale femminile avrà inizio quando la testa di serie Aryna Sabalenka incontrerà la favorita di casa Jessica Pegula in una ripetizione della partita decisiva degli US Open dello scorso anno. (29.03).</desc>
+  </programme>
+  <programme start="20260314033000 +0000" stop="20260314034500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Miami</title>
+    <sub-title lang="pl">E36</sub-title>
+    <desc lang="pl">A caccia del settimo titolo record maschile di Miami, Novak Djokovic - ora il più anziano finalista dell'ATP Masters 1000 - affronta Jakub Mensik, con l'obiettivo di vincere il suo primo trofeo a livello di tour. (30.03).</desc>
+  </programme>
+  <programme start="20260314034500 +0000" stop="20260314040000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Madrid</title>
+    <sub-title lang="pl">E33</sub-title>
+    <desc lang="pl">In una ripetizione della finale degli US Open del 2023, la due volte campionessa del Real Madrid Aryna Sabalenka punta a un altro titolo di punta contro Coco Gauff, che ha vinto il loro unico precedente incontro su terra battuta. (03.05).</desc>
+  </programme>
+  <programme start="20260314040000 +0000" stop="20260314050000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E17</sub-title>
+    <desc lang="pl">In una prova di volontà durata tre ore, Justine Henin tentava di chiudere un anno di alti e bassi difendendo il titolo delle WTA Finals contro Maria Sharapova nel 2007.</desc>
+  </programme>
+  <programme start="20260314050000 +0000" stop="20260314060000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E8</sub-title>
+    <desc lang="pl">In una partita che avrebbe deciso il numero uno del mondo di fine anno 2016, Andy Murray - cercando di coronare una stagione da favola all'O2 di Londra - ha incontrato il rivale Novak Djokovic alle ATP Finals.</desc>
+  </programme>
+  <programme start="20260314060000 +0000" stop="20260314070000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Doha</title>
+    <sub-title lang="pl">E8</sub-title>
+    <desc lang="pl">Victoria Mboko, una delle stelle nascenti del gioco, punta alla sua seconda corona WTA 1000 dopo quella di Montreal dello scorso anno quando la 19enne incontra Karolina Muchova. (14.02).</desc>
+  </programme>
+  <programme start="20260314070000 +0000" stop="20260314090000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Momenti salienti del WTA Indian Wells SF</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260314090000 +0000" stop="20260314110000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Momenti salienti del WTA Indian Wells SF</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260314110000 +0000" stop="20260314120000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Rotterdam</title>
+    <sub-title lang="pl">E8</sub-title>
+    <desc lang="pl">La testa di serie Alex de Minaur gareggia nella sua terza finale consecutiva a Rotterdam mentre l'ex campione Felix Auger-Aliassime tenta di negare all'australiano un trofeo tanto atteso all'ATP 500. (15.02).</desc>
+  </programme>
+  <programme start="20260314120000 +0000" stop="20260314130000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Dubai</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Incontrandosi per la prima volta in una finale, le 31enni Jessica Pegula ed Elina Svitolina si contendono la corona di Dubai. Svitolina punta a porre fine ad un'attesa di otto anni per il suo terzo titolo qui. (21.02).</desc>
+  </programme>
+  <programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Rio</title>
+    <sub-title lang="pl">E11</sub-title>
+    <desc lang="pl">La sesta finale a livello di tour di Alejandro Tabilo, e la prima a livello ATP 500, vede il 28enne cileno scontrarsi con l'ottava testa di serie argentina Tomas Martin Etcheverry per il titolo di Rio. (21.02).</desc>
+  </programme>
+  <programme start="20260314140000 +0000" stop="20260314160000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Momenti salienti del WTA Indian Wells SF</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260314160000 +0000" stop="20260314180000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Momenti salienti del WTA Indian Wells SF</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260314180000 +0000" stop="20260314193000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Dal vivo: finale di doppio WTA Indian Wells</title>
+    <sub-title lang="pl">E24</sub-title>
+    <desc lang="pl">Due campioni vengono incoronati nella finale di doppio a Indian Wells.</desc>
+  </programme>
+  <programme start="20260314193000 +0000" stop="20260315003000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">In diretta: ATP Indian Wells SFs</title>
+    <sub-title lang="pl">E11</sub-title>
+    <desc lang="pl">Goditi l'azione dal vivo dei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260315003000 +0000" stop="20260315020000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">In diretta: Finale Doppio ATP Indian Wells</title>
+    <sub-title lang="pl">E25</sub-title>
+    <desc lang="pl">Una coppia di campioni viene incoronata nella finale di doppio a Indian Wells.</desc>
+  </programme>
+  <programme start="20260315020000 +0000" stop="20260315030000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E18</sub-title>
+    <desc lang="pl">Aggiungendo il titolo di Doha alla sua difesa di successo agli Australian Open, Victoria Azarenka ha tenuto a bada Serena Williams mentre le prime due teste di serie hanno servito una finale memorabile nel 2013.</desc>
+  </programme>
+  <programme start="20260315030000 +0000" stop="20260315031500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Montecarlo</title>
+    <sub-title lang="pl">E37</sub-title>
+    <desc lang="pl">A caccia del sesto titolo ATP 1000 e del primo a Monte-Carlo, il 21enne spagnolo Carlos Alcaraz gareggia in uno scontro di successo con il primo finalista del Masters Lorenzo Musetti. (13.04).</desc>
+  </programme>
+  <programme start="20260315031500 +0000" stop="20260315033000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Roma</title>
+    <sub-title lang="pl">E34</sub-title>
+    <desc lang="pl">Una campionessa del singolare femminile viene incoronata agli Open d'Italia, quando la favorita di casa e numero cinque del mondo Jasmine Paolini affronta l'americana Coco Gauff. (17.05).</desc>
+  </programme>
+  <programme start="20260315033000 +0000" stop="20260315034500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Madrid</title>
+    <sub-title lang="pl">E38</sub-title>
+    <desc lang="pl">Il britannico Jack Draper scende in campo per la finale dell'Open di Madrid con l'obiettivo di sollevare la sua seconda corona Masters 1000, mentre il 23enne affronta per la prima volta la 14esima testa di serie Casper Ruud. (04.05).</desc>
+  </programme>
+  <programme start="20260315034500 +0000" stop="20260315040000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Montreal</title>
+    <sub-title lang="pl">E38</sub-title>
+    <desc lang="pl">La corsa miracolosa della stella canadese emergente Victoria Mboko a Montreal continua mentre la diciottenne incontra la quattro volte campionessa del Grande Slam Naomi Osaka nella sua prima finale a livello di tour. (07.08).</desc>
+  </programme>
+  <programme start="20260315040000 +0000" stop="20260315050000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E9</sub-title>
+    <desc lang="pl">Il 36enne Novak Djokovic è tornato indietro negli anni in una classica di tre set contro il numero uno al mondo Carlos Alcaraz per conquistare il titolo di Cincinnati, il suo 39esimo titolo ATP Masters 1000.</desc>
+  </programme>
+  <programme start="20260315050000 +0000" stop="20260315060000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E19</sub-title>
+    <desc lang="pl">Finalista agli US Open un mese prima, la campagna di Caroline Wozniacki alle WTA Finals 2014 era iniziata contro l'allora numero due del mondo Maria Sharapova a Singapore.</desc>
+  </programme>
+  <programme start="20260315060000 +0000" stop="20260315070000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Ostrava</title>
+    <sub-title lang="pl">E6</sub-title>
+    <desc lang="pl">Katie Boulter punta al suo quarto titolo in carriera mentre l'ex numero 23 del mondo affronta la tedesca Tamara Korpatsch nella finale di Ostrava. Boulter tornerà tra i primi 100 con la vittoria. (07.02).</desc>
+  </programme>
+  <programme start="20260315070000 +0000" stop="20260315090000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Aspetti salienti dell'ATP Indian Wells SF</title>
+    <sub-title lang="pl">E11</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260315090000 +0000" stop="20260315110000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Aspetti salienti dell'ATP Indian Wells SF</title>
+    <sub-title lang="pl">E11</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260315110000 +0000" stop="20260315130000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Indian Wells: Dieci al tie-break</title>
+    <sub-title lang="pl">E44</sub-title>
+    <desc lang="pl">Alla vigilia di Indian Wells, Tie Break Tens ritorna per una vetrina di tennis frenetico, ad alta energia e in cui il vincitore prende tutto in un formato doppio misto.</desc>
+  </programme>
+  <programme start="20260315130000 +0000" stop="20260315133000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Recensione WTA Dubai 2026</title>
+    <sub-title lang="pl">E2</sub-title>
+    <desc lang="pl">Goditi una recensione approfondita dei Campionati di tennis Duty Free di Dubai 2026, un evento WTA 1000.</desc>
+  </programme>
+  <programme start="20260315133000 +0000" stop="20260315153000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Aspetti salienti dell'ATP Indian Wells SF</title>
+    <sub-title lang="pl">E11</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260315153000 +0000" stop="20260315173000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Momenti salienti del WTA Indian Wells SF</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Rivivi una partita eccezionale di ieri nei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260315173000 +0000" stop="20260315203000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Dal vivo: finale WTA Indian Wells</title>
+    <sub-title lang="pl">E12</sub-title>
+    <desc lang="pl">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells.</desc>
+  </programme>
+  <programme start="20260315203000 +0000" stop="20260315230000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Dal vivo: finale ATP Indian Wells</title>
+    <sub-title lang="pl">E13</sub-title>
+    <desc lang="pl">Il campione del singolare maschile viene incoronato nella finale di Indian Wells.</desc>
+  </programme>
+  <programme start="20260315230000 +0000" stop="20260315233000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Recensione WTA Dubai 2026</title>
+    <sub-title lang="pl">E2</sub-title>
+    <desc lang="pl">Goditi una recensione approfondita dei Campionati di tennis Duty Free di Dubai 2026, un evento WTA 1000.</desc>
+  </programme>
+  <programme start="20260315233000 +0000" stop="20260316000000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Recensione WTA Doha 2026</title>
+    <sub-title lang="pl">E1</sub-title>
+    <desc lang="pl">Una recensione del Qatar Open 2026, il primo evento WTA 1000 della stagione.</desc>
+  </programme>
+  <programme start="20260316000000 +0000" stop="20260316001500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Roma</title>
+    <sub-title lang="pl">E39</sub-title>
+    <desc lang="pl">Il numero uno del mondo Jannik Sinner affronta il futuro numero due del mondo Carlos Alcaraz in una finale di grande successo agli Open d'Italia. Nel complesso, la coppia ha vinto gli ultimi cinque major. (18.05).</desc>
+  </programme>
+  <programme start="20260316001500 +0000" stop="20260316003000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Cincinnati</title>
+    <sub-title lang="pl">E40</sub-title>
+    <desc lang="pl">La sei volte campionessa del Grande Slam Iga Swiatek affronta Jasmine Paolini per il titolo di Cincinnati. In quella che sarà la 13a finale WTA 1000 di Swiatek, Paolini è alla sua terza finale. (18.08).</desc>
+  </programme>
+  <programme start="20260316003000 +0000" stop="20260316004500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Toronto</title>
+    <sub-title lang="pl">E45</sub-title>
+    <desc lang="pl">Ben Shelton è protagonista della sua prima finale ATP Masters, il 22enne punta a diventare numero sei del mondo contro Karen Khachanov, che mette fine a un'attesa di sette anni per competere su questo palco. (07.08).</desc>
+  </programme>
+  <programme start="20260316004500 +0000" stop="20260316010000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Pechino</title>
+    <sub-title lang="pl">E47</sub-title>
+    <desc lang="pl">Bitesize si mette in evidenza mentre la campionessa del singolare femminile viene incoronata nella finale del China Open, un evento WTA 1000. (05.10).</desc>
+  </programme>
+  <programme start="20260316010000 +0000" stop="20260316030000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Indian Wells</title>
+    <sub-title lang="pl">E12</sub-title>
+    <desc lang="pl">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316030000 +0000" stop="20260316050000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Indian Wells</title>
+    <sub-title lang="pl">E13</sub-title>
+    <desc lang="pl">Il campione del singolare maschile viene incoronato nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316050000 +0000" stop="20260316051500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Ginevra</title>
+    <sub-title lang="pl">E49</sub-title>
+    <desc lang="pl">Novak Djokovic ha avuto la possibilità di unirsi a Jimmy Connors e Roger Federer per vincere il 100esimo titolo a livello di tour, il 38enne serbo ha combattuto contro Hubert Hurkacz nella finale dell'Open di Ginevra.</desc>
+  </programme>
+  <programme start="20260316051500 +0000" stop="20260316053000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Wuhan</title>
+    <sub-title lang="pl">E49</sub-title>
+    <desc lang="pl">Bitesize si mette in evidenza mentre la campionessa del singolare femminile viene incoronata nella finale del Wuhan Open. (12.10).</desc>
+  </programme>
+  <programme start="20260316053000 +0000" stop="20260316054500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Doha</title>
+    <sub-title lang="pl">E50</sub-title>
+    <desc lang="pl">A Doha, il britannico Jack Draper, alla sua quinta finale ATP, si scontrerà con la quinta testa di serie e campione del torneo 2020 Andrey Rublev nella finale del Qatar Open 2025. (22.02).</desc>
+  </programme>
+  <programme start="20260316054500 +0000" stop="20260316060000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finali WTA</title>
+    <sub-title lang="pl">E58</sub-title>
+    <desc lang="pl">Una campionessa del singolare femminile viene incoronata alle finali WTA a Riyadh, in Arabia Saudita. (08.11).</desc>
+  </programme>
+  <programme start="20260316060000 +0000" stop="20260316063000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Tour ATP questa settimana</title>
+    <sub-title lang="pl">S2026E28</sub-title>
+    <desc lang="pl">Scopri dietro le quinte del tennis professionistico maschile durante tutta la stagione 2026 dell'ATP Tour con contenuti speciali, interviste e molto altro.</desc>
+  </programme>
+  <programme start="20260316063000 +0000" stop="20260316083000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Indian Wells</title>
+    <sub-title lang="pl">E12</sub-title>
+    <desc lang="pl">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316083000 +0000" stop="20260316103000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Indian Wells</title>
+    <sub-title lang="pl">E13</sub-title>
+    <desc lang="pl">Il campione del singolare maschile viene incoronato nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316103000 +0000" stop="20260316110000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Tour ATP questa settimana</title>
+    <sub-title lang="pl">S2026E28</sub-title>
+    <desc lang="pl">Scopri dietro le quinte del tennis professionistico maschile durante tutta la stagione 2026 dell'ATP Tour con contenuti speciali, interviste e molto altro.</desc>
+  </programme>
+  <programme start="20260316110000 +0000" stop="20260316130000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Indian Wells</title>
+    <sub-title lang="pl">E12</sub-title>
+    <desc lang="pl">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316130000 +0000" stop="20260316150000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Indian Wells</title>
+    <sub-title lang="pl">E13</sub-title>
+    <desc lang="pl">Il campione del singolare maschile viene incoronato nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316150000 +0000" stop="20260316160000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Miami</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">A Miami, la finale femminile avrà inizio quando la testa di serie Aryna Sabalenka incontrerà la favorita di casa Jessica Pegula in una ripetizione della partita decisiva degli US Open dello scorso anno. (29.03).</desc>
+  </programme>
+  <programme start="20260316160000 +0000" stop="20260316170000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Miami</title>
+    <sub-title lang="pl">E17</sub-title>
+    <desc lang="pl">A caccia del settimo titolo record maschile di Miami, Novak Djokovic - ora il più anziano finalista dell'ATP Masters 1000 - affronta Jakub Mensik, con l'obiettivo di vincere il suo primo trofeo a livello di tour. (30.03).</desc>
+  </programme>
+  <programme start="20260316170000 +0000" stop="20260316180000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Indian Wells</title>
+    <sub-title lang="pl">E14</sub-title>
+    <desc lang="pl">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316180000 +0000" stop="20260316190000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Indian Wells</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">Il campione del singolare maschile viene incoronato nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316190000 +0000" stop="20260316200000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Miami</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">A Miami, la finale femminile avrà inizio quando la testa di serie Aryna Sabalenka incontrerà la favorita di casa Jessica Pegula in una ripetizione della partita decisiva degli US Open dello scorso anno. (29.03).</desc>
+  </programme>
+  <programme start="20260316200000 +0000" stop="20260316210000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Miami</title>
+    <sub-title lang="pl">E17</sub-title>
+    <desc lang="pl">A caccia del settimo titolo record maschile di Miami, Novak Djokovic - ora il più anziano finalista dell'ATP Masters 1000 - affronta Jakub Mensik, con l'obiettivo di vincere il suo primo trofeo a livello di tour. (30.03).</desc>
+  </programme>
+  <programme start="20260316210000 +0000" stop="20260316220000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Indian Wells</title>
+    <sub-title lang="pl">E14</sub-title>
+    <desc lang="pl">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316220000 +0000" stop="20260316230000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Indian Wells</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">Il campione del singolare maschile viene incoronato nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Tour ATP questa settimana</title>
+    <sub-title lang="pl">S2026E28</sub-title>
+    <desc lang="pl">Scopri dietro le quinte del tennis professionistico maschile durante tutta la stagione 2026 dell'ATP Tour con contenuti speciali, interviste e molto altro.</desc>
+  </programme>
+  <programme start="20260316233000 +0000" stop="20260316234500 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Indian Wells</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260316234500 +0000" stop="20260317000000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Indian Wells</title>
+    <sub-title lang="pl">E16</sub-title>
+    <desc lang="pl">Il campione del singolare maschile viene incoronato nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260317000000 +0000" stop="20260317010000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Il climax del China Open vede Jannik Sinner e Carlos Alcaraz prepararsi per un secondo incontro finale. Sinner punta a difendere il titolo, mentre Alcaraz cerca di vendicare la sconfitta dello scorso anno.</desc>
+  </programme>
+  <programme start="20260317010000 +0000" stop="20260317020000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E20</sub-title>
+    <desc lang="pl">Nella rivincita della finale dell'Open di Madrid del 2023, la numero uno al mondo Iga Swiatek e la campionessa in carica Aryna Sabalenka si incontrano di nuovo per determinare la campionessa del singolare femminile di quest'anno.</desc>
+  </programme>
+  <programme start="20260317020000 +0000" stop="20260317030000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E1</sub-title>
+    <desc lang="pl">Andre Agassi e Pete Sampras si sono incontrati nella finale di Indian Wells del 2001, uno dei 34 incontri della loro carriera. Agassi ha ottenuto la seconda vittoria consecutiva su Sampras nel loro primo incontro in oltre un anno.</desc>
+  </programme>
+  <programme start="20260317030000 +0000" stop="20260317040000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E11</sub-title>
+    <desc lang="pl">Nella finale di Indian Wells del 1996, Steffi Graf - dopo aver fatto il suo ritorno competitivo dopo un licenziamento di quattro mesi per infortunio - avrebbe gareggiato con la spagnola Conchita Martinez per il titolo.</desc>
+  </programme>
+  <programme start="20260317040000 +0000" stop="20260317050000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E2</sub-title>
+    <desc lang="pl">In una battaglia intergenerazionale, due dei più grandi di tutti i tempi, Roger Federer e Andre Agassi, hanno combattuto per il campionato di fine anno nel 2003. Federer puntava al suo primo titolo sul suolo americano.</desc>
+  </programme>
+  <programme start="20260317050000 +0000" stop="20260317060000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Partite classiche dell'ATP/WTA Tour</title>
+    <sub-title lang="pl">E12</sub-title>
+    <desc lang="pl">Incontrandosi per la prima volta in una finale a livello di tour, le sorelle Williams Venus e Serena si sono affrontate in una gara carica di emozioni per il titolo del Miami Open.</desc>
+  </programme>
+  <programme start="20260317060000 +0000" stop="20260317070000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Miami</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">A Miami, la finale femminile avrà inizio quando la testa di serie Aryna Sabalenka incontrerà la favorita di casa Jessica Pegula in una ripetizione della partita decisiva degli US Open dello scorso anno. (29.03).</desc>
+  </programme>
+  <programme start="20260317070000 +0000" stop="20260317080000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Miami</title>
+    <sub-title lang="pl">E17</sub-title>
+    <desc lang="pl">A caccia del settimo titolo record maschile di Miami, Novak Djokovic - ora il più anziano finalista dell'ATP Masters 1000 - affronta Jakub Mensik, con l'obiettivo di vincere il suo primo trofeo a livello di tour. (30.03).</desc>
+  </programme>
+  <programme start="20260317080000 +0000" stop="20260317090000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Indian Wells</title>
+    <sub-title lang="pl">E14</sub-title>
+    <desc lang="pl">La campionessa del singolare femminile viene incoronata nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260317090000 +0000" stop="20260317100000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale ATP: Indian Wells</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">Il campione del singolare maschile viene incoronato nella finale di Indian Wells. (15.03).</desc>
+  </programme>
+  <programme start="20260317100000 +0000" stop="20260317110000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Dubai</title>
+    <sub-title lang="pl">E10</sub-title>
+    <desc lang="pl">Incontrandosi per la prima volta in una finale, le 31enni Jessica Pegula ed Elina Svitolina si contendono la corona di Dubai. Svitolina punta a porre fine ad un'attesa di otto anni per il suo terzo titolo qui. (21.02).</desc>
+  </programme>
+  <programme start="20260317110000 +0000" stop="20260317120000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Finale WTA: Ostrava</title>
+    <sub-title lang="pl">E6</sub-title>
+    <desc lang="pl">Katie Boulter punta al suo quarto titolo in carriera mentre l'ex numero 23 del mondo affronta la tedesca Tamara Korpatsch nella finale di Ostrava. Boulter tornerà tra i primi 100 con la vittoria. (07.02).</desc>
+  </programme>
+  <programme start="20260317120000 +0000" stop="20260317123000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Recensione WTA Indian Wells 2026</title>
+    <sub-title lang="pl">E3</sub-title>
+    <desc lang="pl">Goditi un resoconto approfondito di tutta l'azione del tabellone principale femminile del BNP Paribas Open 2026 di Indian Wells.</desc>
+  </programme>
+  <programme start="20260317123000 +0000" stop="20260317133000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Recensione ATP Indian Wells 2026</title>
+    <sub-title lang="pl">E1</sub-title>
+    <desc lang="pl">Goditi un resoconto approfondito di tutta l'azione del tabellone principale maschile del BNP Paribas Open 2026 di Indian Wells.</desc>
+  </programme>
+  <programme start="20260317133000 +0000" stop="20260317140000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Recensione WTA Indian Wells 2025</title>
+    <sub-title lang="pl">E3</sub-title>
+    <desc lang="pl">Una recensione del BNP Paribas Open 2025, un evento WTA 1000 che si tiene a Indian Wells negli Stati Uniti.</desc>
+  </programme>
+  <programme start="20260317140000 +0000" stop="20260317150000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">Recensione dell'ATP Miami 2025</title>
+    <sub-title lang="pl">E2</sub-title>
+    <desc lang="pl">Una recensione del Miami Open 2025, un evento dell'ATP Masters 1000.</desc>
+  </programme>
+  <programme start="20260317150000 +0000" stop="20260317230000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">In diretta: WTA Miami</title>
+    <sub-title lang="pl">E1</sub-title>
+    <desc lang="pl">Goditi l'azione dal vivo dei tour WTA e ATP.</desc>
+  </programme>
+  <programme start="20260317230000 +0000" stop="20260318030000 +0000" channel="Sky Sports Tennis">
+    <title lang="pl">In diretta: ATP/WTA Miami</title>
+    <sub-title lang="pl">E15</sub-title>
+    <desc lang="pl">Goditi l'azione dal vivo dei tour WTA e ATP.</desc>
   </programme>
   <programme start="20260313000000 +0100" stop="20260313020000 +0100" channel="Sport 1">
     <title lang="cs">Calcio</title>
