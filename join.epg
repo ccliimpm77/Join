@@ -68,6 +68,12 @@
     <url>http://www.tv.blue.ch</url>
     <display-name lang="de">Giallo</display-name>
   </channel>
+  <channel id="CNN.ch">
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/a3e698a4-ce67-4a36-bdb6-b6a2297cd520_W90.png" />
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/a3e698a4-ce67-4a36-bdb6-b6a2297cd520_W90.png" />
+    <url>http://www.tv.blue.ch</url>
+    <display-name lang="de">CNN</display-name>
+  </channel>
   <channel id="RSI.LA.2.ch">
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/295e54ea-2982-4ed6-88c2-6441a770f34a_W90.png" />
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/295e54ea-2982-4ed6-88c2-6441a770f34a_W90.png" />
@@ -14379,6 +14385,766 @@
       <value>6+</value>
     </rating>
   </programme>
+  <programme channel="CNN.ch" start="20260315030000 +0000" stop="20260315040000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315040000 +0000" stop="20260315050000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315050000 +0000" stop="20260315060000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315060000 +0000" stop="20260315070000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315070000 +0000" stop="20260315080000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315080000 +0000" stop="20260315090000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315090000 +0000" stop="20260315100000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315100000 +0000" stop="20260315110000 +0000">
+    <title lang="en">CNN This Morning Weekend</title>
+    <desc lang="en">Stories from across the world and refreshing conversations with Boris Sanchez and Amara Walker.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23278533ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315110000 +0000" stop="20260315120000 +0000">
+    <title lang="en">CNN This Morning Weekend</title>
+    <desc lang="en">Stories from across the world and refreshing conversations with Boris Sanchez and Amara Walker.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23278533ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315120000 +0000" stop="20260315130000 +0000">
+    <title lang="en">Inside Politics With Manu Raju</title>
+    <desc lang="en">Chief congressional correspondent Manu Raju leads an in-depth conversation on the week's most important political storylines with a diverse set of analysts and news-making interviews.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25612453ih8ad_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315130000 +0000" stop="20260315140000 +0000">
+    <title lang="en">State of the Union With Jake Tapper and Dana Bash</title>
+    <desc lang="en">Jake Tapper and Dana Bash bring together major news-makers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19358336ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315140000 +0000" stop="20260315150000 +0000">
+    <title lang="en">Fareed Zakaria GPS</title>
+    <desc lang="en">Fareed Zakaria debates and discusses world events and public affairs, and looks at innovative approaches to solving the toughest global issues.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30593255ih10aa_Iconic_W660.webp" />
+  </programme>
+  <programme channel="CNN.ch" start="20260315150000 +0000" stop="20260315160000 +0000">
+    <title lang="en">Inside Politics With Manu Raju</title>
+    <desc lang="en">Chief congressional correspondent Manu Raju leads an in-depth conversation on the week's most important political storylines with a diverse set of analysts and news-making interviews.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25612453ih8ad_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315160000 +0000" stop="20260315170000 +0000">
+    <title lang="en">State of the Union With Jake Tapper and Dana Bash</title>
+    <desc lang="en">Jake Tapper and Dana Bash bring together major news-makers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19358336ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315170000 +0000" stop="20260315180000 +0000">
+    <title lang="en">Fareed Zakaria GPS</title>
+    <desc lang="en">Fareed Zakaria debates and discusses world events and public affairs, and looks at innovative approaches to solving the toughest global issues.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30593255ih10aa_Iconic_W660.webp" />
+  </programme>
+  <programme channel="CNN.ch" start="20260315180000 +0000" stop="20260315190000 +0000">
+    <title lang="en">CNN Newsroom Sunday</title>
+    <desc lang="en">Updates of the latest news from around the world.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16195037ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315190000 +0000" stop="20260315200000 +0000">
+    <title lang="en">CNN Newsroom Sunday</title>
+    <desc lang="en">Updates of the latest news from around the world.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16195037ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315200000 +0000" stop="20260315210000 +0000">
+    <title lang="en">The Amanpour Hour</title>
+    <desc lang="en">Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26010561ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315210000 +0000" stop="20260315220000 +0000">
+    <title lang="en">Fareed Zakaria GPS</title>
+    <desc lang="en">Fareed Zakaria debates and discusses world events and public affairs, and looks at innovative approaches to solving the toughest global issues.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30593255ih10aa_Iconic_W660.webp" />
+  </programme>
+  <programme channel="CNN.ch" start="20260315220000 +0000" stop="20260315223000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315223000 +0000" stop="20260315230000 +0000">
+    <title lang="en">CNN Newsroom Sunday</title>
+    <desc lang="en">Updates of the latest news from around the world.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16195037ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315230000 +0000" stop="20260315233000 +0000">
+    <title lang="en">CNN Newsroom Sunday</title>
+    <desc lang="en">Updates of the latest news from around the world.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16195037ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260315233000 +0000" stop="20260316003000 +0000">
+    <title lang="en">CNN Newsroom Sunday</title>
+    <desc lang="en">Updates of the latest news from around the world.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16195037ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316003000 +0000" stop="20260316013000 +0000">
+    <title lang="en">CNN Newsroom Sunday</title>
+    <desc lang="en">Updates of the latest news from around the world.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16195037ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316013000 +0000" stop="20260316020000 +0000">
+    <title lang="en">CNN Newsroom Sunday</title>
+    <desc lang="en">Updates of the latest news from around the world.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16195037ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316020000 +0000" stop="20260316030000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316030000 +0000" stop="20260316040000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316040000 +0000" stop="20260316050000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316050000 +0000" stop="20260316054500 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316054500 +0000" stop="20260316060000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316060000 +0000" stop="20260316070000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316070000 +0000" stop="20260316074500 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316074500 +0000" stop="20260316080000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316080000 +0000" stop="20260316090000 +0000">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Get a jump on the day's news with Kasie Hunt.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25319291ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316090000 +0000" stop="20260316100000 +0000">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Get a jump on the day's news with Kasie Hunt.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25319291ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316100000 +0000" stop="20260316110000 +0000">
+    <title lang="en">CNN This Morning</title>
+    <desc lang="en">The hosts present some of the most important news stories, reports and happenings of national and international significance.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23245784ih8ak_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316110000 +0000" stop="20260316120000 +0000">
+    <title lang="en">CNN News Central</title>
+    <desc lang="en">The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24440871ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316120000 +0000" stop="20260316130000 +0000">
+    <title lang="en">CNN News Central</title>
+    <desc lang="en">The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24440871ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316130000 +0000" stop="20260316134500 +0000">
+    <title lang="en">Connect the World</title>
+    <desc lang="en">Presenting a journey across the continents to explore all the varied landscapes and cultures. Thus, making this world more connected.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p7818268ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316134500 +0000" stop="20260316140000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316140000 +0000" stop="20260316150000 +0000">
+    <title lang="en">Connect the World</title>
+    <desc lang="en">Presenting a journey across the continents to explore all the varied landscapes and cultures. Thus, making this world more connected.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p7818268ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316150000 +0000" stop="20260316160000 +0000">
+    <title lang="en">One World With Zain Asher and Bianna Golodryga</title>
+    <desc lang="en">A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25708185ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316160000 +0000" stop="20260316170000 +0000">
+    <title lang="en">One World With Zain Asher and Bianna Golodryga</title>
+    <desc lang="en">A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25708185ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316170000 +0000" stop="20260316180000 +0000">
+    <title lang="en">Amanpour</title>
+    <desc lang="en">Join Christiane Amanpour as she provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p7827806ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316180000 +0000" stop="20260316190000 +0000">
+    <title lang="en">Isa Soares Tonight</title>
+    <desc lang="en">Isa Soares breaks down the news of the day, curating the stories that matter as well as getting into exactly why they are important to discuss.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22504907ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316190000 +0000" stop="20260316200000 +0000">
+    <title lang="en">What We Know With Max Foster</title>
+    <desc lang="en">Max Foster brings a definitive round-up of the day's top stories, giving you the urgent need-to-know context and diving deeper into the questions sparking debate around the world.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30150302ih10aa_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316200000 +0000" stop="20260316210000 +0000">
+    <title lang="en">Quest Means Business</title>
+    <desc lang="en">Richard Quest presents a round-up of the day's global business news with a focus on international business and market trends.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p278911ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316210000 +0000" stop="20260316220000 +0000">
+    <title lang="en">The Lead With Jake Tapper</title>
+    <desc lang="en">Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9816414ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316220000 +0000" stop="20260316230000 +0000">
+    <title lang="en">The Brief With Jim Sciutto</title>
+    <desc lang="en">The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p29947738ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260316230000 +0000" stop="20260317000000 +0000">
+    <title lang="en">Erin Burnett OutFront</title>
+    <desc lang="en">Anchor Erin Burnett presents information beyond the regular headlines by providing objective reports on top issues along with compelling interviews, lively debates and in-depth analysis of situations.</desc>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8855245ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317000000 +0000" stop="20260317010000 +0000">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Anderson Cooper brings his prickly but often witty perspective to current events and personalities in the news. He is joined by a series of guests that frequently include political and legal analysts.</desc>
+    <date>2003</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p185440ih10ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317010000 +0000" stop="20260317020000 +0000">
+    <title lang="en">The Source With Kaitlan Collins</title>
+    <desc lang="en">Kaitlan Collins chases the facts, asks the tough questions and connects with her sources on prime time to break down the day's biggest news stories.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25168881ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317020000 +0000" stop="20260317030000 +0000">
+    <title lang="en">CNN NewsNight With Abby Phillip</title>
+    <desc lang="en">Abby Phillip delivers a smart, sharp approach to the day's biggest stories.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25850185ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317030000 +0000" stop="20260317040000 +0000">
+    <title lang="en">Laura Coates Live</title>
+    <desc lang="en">Laura Coates discusses the daily intersections of politics, pop culture and the law.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25850193ih8ad_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317040000 +0000" stop="20260317050000 +0000">
+    <title lang="en">The Story Is With Elex Michaelson</title>
+    <desc lang="en">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humour.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31514402ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317050000 +0000" stop="20260317054500 +0000">
+    <title lang="en">The Story Is With Elex Michaelson</title>
+    <desc lang="en">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humour.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31514402ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317054500 +0000" stop="20260317060000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317060000 +0000" stop="20260317070000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317070000 +0000" stop="20260317074500 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317074500 +0000" stop="20260317080000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317080000 +0000" stop="20260317090000 +0000">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Get a jump on the day's news with Kasie Hunt.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25319291ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317090000 +0000" stop="20260317100000 +0000">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Get a jump on the day's news with Kasie Hunt.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25319291ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317100000 +0000" stop="20260317110000 +0000">
+    <title lang="en">CNN This Morning</title>
+    <desc lang="en">The hosts present some of the most important news stories, reports and happenings of national and international significance.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23245784ih8ak_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317110000 +0000" stop="20260317120000 +0000">
+    <title lang="en">CNN News Central</title>
+    <desc lang="en">The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24440871ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317120000 +0000" stop="20260317130000 +0000">
+    <title lang="en">CNN News Central</title>
+    <desc lang="en">The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24440871ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317130000 +0000" stop="20260317134500 +0000">
+    <title lang="en">Connect the World</title>
+    <desc lang="en">Presenting a journey across the continents to explore all the varied landscapes and cultures. Thus, making this world more connected.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p7818268ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317134500 +0000" stop="20260317140000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317140000 +0000" stop="20260317150000 +0000">
+    <title lang="en">Connect the World</title>
+    <desc lang="en">Presenting a journey across the continents to explore all the varied landscapes and cultures. Thus, making this world more connected.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p7818268ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317150000 +0000" stop="20260317160000 +0000">
+    <title lang="en">One World With Zain Asher and Bianna Golodryga</title>
+    <desc lang="en">A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25708185ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317160000 +0000" stop="20260317170000 +0000">
+    <title lang="en">One World With Zain Asher and Bianna Golodryga</title>
+    <desc lang="en">A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25708185ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317170000 +0000" stop="20260317180000 +0000">
+    <title lang="en">Amanpour</title>
+    <desc lang="en">Join Christiane Amanpour as she provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p7827806ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317180000 +0000" stop="20260317190000 +0000">
+    <title lang="en">Isa Soares Tonight</title>
+    <desc lang="en">Isa Soares breaks down the news of the day, curating the stories that matter as well as getting into exactly why they are important to discuss.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22504907ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317190000 +0000" stop="20260317200000 +0000">
+    <title lang="en">What We Know With Max Foster</title>
+    <desc lang="en">Max Foster brings a definitive round-up of the day's top stories, giving you the urgent need-to-know context and diving deeper into the questions sparking debate around the world.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30150302ih10aa_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317200000 +0000" stop="20260317210000 +0000">
+    <title lang="en">Quest Means Business</title>
+    <desc lang="en">Richard Quest presents a round-up of the day's global business news with a focus on international business and market trends.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p278911ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317210000 +0000" stop="20260317220000 +0000">
+    <title lang="en">The Lead With Jake Tapper</title>
+    <desc lang="en">Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9816414ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317220000 +0000" stop="20260317230000 +0000">
+    <title lang="en">The Brief With Jim Sciutto</title>
+    <desc lang="en">The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p29947738ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260317230000 +0000" stop="20260318000000 +0000">
+    <title lang="en">Erin Burnett OutFront</title>
+    <desc lang="en">Anchor Erin Burnett presents information beyond the regular headlines by providing objective reports on top issues along with compelling interviews, lively debates and in-depth analysis of situations.</desc>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8855245ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318000000 +0000" stop="20260318010000 +0000">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Anderson Cooper brings his prickly but often witty perspective to current events and personalities in the news. He is joined by a series of guests that frequently include political and legal analysts.</desc>
+    <date>2003</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p185440ih10ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318010000 +0000" stop="20260318020000 +0000">
+    <title lang="en">The Source With Kaitlan Collins</title>
+    <desc lang="en">Kaitlan Collins chases the facts, asks the tough questions and connects with her sources on prime time to break down the day's biggest news stories.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25168881ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318020000 +0000" stop="20260318030000 +0000">
+    <title lang="en">CNN NewsNight With Abby Phillip</title>
+    <desc lang="en">Abby Phillip delivers a smart, sharp approach to the day's biggest stories.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25850185ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318030000 +0000" stop="20260318040000 +0000">
+    <title lang="en">Laura Coates Live</title>
+    <desc lang="en">Laura Coates discusses the daily intersections of politics, pop culture and the law.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25850193ih8ad_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318040000 +0000" stop="20260318050000 +0000">
+    <title lang="en">The Story Is With Elex Michaelson</title>
+    <desc lang="en">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humour.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31514402ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318050000 +0000" stop="20260318054500 +0000">
+    <title lang="en">The Story Is With Elex Michaelson</title>
+    <desc lang="en">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humour.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31514402ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318054500 +0000" stop="20260318060000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318060000 +0000" stop="20260318070000 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318070000 +0000" stop="20260318074500 +0000">
+    <title lang="en">CNN Newsroom</title>
+    <desc lang="en">A rotating cast of anchors and contributors present daily headlines and breaking stories live from CNN headquarters in Atlanta.</desc>
+    <date>2006</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p186552ih8ag_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318074500 +0000" stop="20260318080000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318080000 +0000" stop="20260318090000 +0000">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Get a jump on the day's news with Kasie Hunt.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25319291ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318090000 +0000" stop="20260318100000 +0000">
+    <title lang="en">Early Start</title>
+    <desc lang="en">Get a jump on the day's news with Kasie Hunt.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25319291ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318100000 +0000" stop="20260318110000 +0000">
+    <title lang="en">CNN This Morning</title>
+    <desc lang="en">The hosts present some of the most important news stories, reports and happenings of national and international significance.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23245784ih8ak_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318110000 +0000" stop="20260318120000 +0000">
+    <title lang="en">CNN News Central</title>
+    <desc lang="en">The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24440871ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318120000 +0000" stop="20260318130000 +0000">
+    <title lang="en">CNN News Central</title>
+    <desc lang="en">The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24440871ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318130000 +0000" stop="20260318134500 +0000">
+    <title lang="en">Connect the World</title>
+    <desc lang="en">Presenting a journey across the continents to explore all the varied landscapes and cultures. Thus, making this world more connected.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p7818268ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318134500 +0000" stop="20260318140000 +0000">
+    <title lang="en">World Sport</title>
+    <desc lang="en">Highlights and action from the world's sporting competitions.</desc>
+    <date>2010</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8193600ih8ab_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318140000 +0000" stop="20260318150000 +0000">
+    <title lang="en">Connect the World</title>
+    <desc lang="en">Presenting a journey across the continents to explore all the varied landscapes and cultures. Thus, making this world more connected.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p7818268ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318150000 +0000" stop="20260318160000 +0000">
+    <title lang="en">One World With Zain Asher and Bianna Golodryga</title>
+    <desc lang="en">A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25708185ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318160000 +0000" stop="20260318170000 +0000">
+    <title lang="en">One World With Zain Asher and Bianna Golodryga</title>
+    <desc lang="en">A fresh and inclusive take on the top stories from Africa, Europe and beyond, giving every continent an equal voice.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25708185ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318170000 +0000" stop="20260318180000 +0000">
+    <title lang="en">Amanpour</title>
+    <desc lang="en">Join Christiane Amanpour as she provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p7827806ih8aa_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318180000 +0000" stop="20260318190000 +0000">
+    <title lang="en">Isa Soares Tonight</title>
+    <desc lang="en">Isa Soares breaks down the news of the day, curating the stories that matter as well as getting into exactly why they are important to discuss.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22504907ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318190000 +0000" stop="20260318200000 +0000">
+    <title lang="en">What We Know With Max Foster</title>
+    <desc lang="en">Max Foster brings a definitive round-up of the day's top stories, giving you the urgent need-to-know context and diving deeper into the questions sparking debate around the world.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30150302ih10aa_Iconic_W660.webp" />
+    <country lang="en">GB</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318200000 +0000" stop="20260318210000 +0000">
+    <title lang="en">Quest Means Business</title>
+    <desc lang="en">Richard Quest presents a round-up of the day's global business news with a focus on international business and market trends.</desc>
+    <date>2009</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p278911ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318210000 +0000" stop="20260318220000 +0000">
+    <title lang="en">The Lead With Jake Tapper</title>
+    <desc lang="en">Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9816414ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318220000 +0000" stop="20260318230000 +0000">
+    <title lang="en">The Brief With Jim Sciutto</title>
+    <desc lang="en">The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p29947738ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260318230000 +0000" stop="20260319000000 +0000">
+    <title lang="en">Erin Burnett OutFront</title>
+    <desc lang="en">Anchor Erin Burnett presents information beyond the regular headlines by providing objective reports on top issues along with compelling interviews, lively debates and in-depth analysis of situations.</desc>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8855245ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260319000000 +0000" stop="20260319010000 +0000">
+    <title lang="en">Anderson Cooper 360</title>
+    <desc lang="en">Anderson Cooper brings his prickly but often witty perspective to current events and personalities in the news. He is joined by a series of guests that frequently include political and legal analysts.</desc>
+    <date>2003</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p185440ih10ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260319010000 +0000" stop="20260319020000 +0000">
+    <title lang="en">The Source With Kaitlan Collins</title>
+    <desc lang="en">Kaitlan Collins chases the facts, asks the tough questions and connects with her sources on prime time to break down the day's biggest news stories.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25168881ih8ac_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260319020000 +0000" stop="20260319030000 +0000">
+    <title lang="en">CNN NewsNight With Abby Phillip</title>
+    <desc lang="en">Abby Phillip delivers a smart, sharp approach to the day's biggest stories.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25850185ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260319030000 +0000" stop="20260319040000 +0000">
+    <title lang="en">Laura Coates Live</title>
+    <desc lang="en">Laura Coates discusses the daily intersections of politics, pop culture and the law.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25850193ih8ad_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
+  <programme channel="CNN.ch" start="20260319040000 +0000" stop="20260319050000 +0000">
+    <title lang="en">The Story Is With Elex Michaelson</title>
+    <desc lang="en">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humour.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31514402ih8ab_Iconic_W660.webp" />
+    <country lang="en">US</country>
+  </programme>
   <programme channel="Mezzo.ch" start="20260315030000 +0000" stop="20260315041500 +0000">
     <title lang="fr">Festival di musica da camera di Gerusalemme 2022: Rachmaninov, Weinberg</title>
     <desc lang="fr">Festival di musica da camera di Gerusalemme 2022 con Suite per due pianoforti n. 2, op. 17 di Sergei Rachmaninov, e il quintetto per pianoforte e archi in fa minore op. 18 di Mieczysław Weinberg.</desc>
@@ -14451,7 +15217,7 @@
   </programme>
   <programme channel="Mezzo.ch" start="20260315151000 +0000" stop="20260315164000 +0000">
     <title lang="fr">Jascha Heifetz: il violinista di Dio</title>
-    <desc lang="fr">Non vedevamo un simile mago del violino dai tempi di Paganini: Jascha Heifetz. Questo documentario presenta clip vintage e filmati amatoriali mai visti prima, che mostrano perché Heifetz è stato il primo virtuoso del violino veramente moderno.</desc>
+    <desc lang="fr">Non vedevamo un simile mago del violino dai tempi di Paganini: Jascha Heifetz. Questo documentario presenta clip vintage e filmati amatoriali mai visti prima, che mostrano perché Heifetz è stato il primo vero virtuoso del violino moderno.</desc>
     <date>2015</date>
     <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12349732bdh10aa_Backdrop_W660.webp" />
     <country lang="fr">FR</country>
@@ -14513,7 +15279,7 @@
   </programme>
   <programme channel="Mezzo.ch" start="20260315235500 +0000" stop="20260316015000 +0000">
     <title lang="fr">Orchestra del festival di Lucerna, Riccardo Chailly, Mao Fujita: Rachmaninov</title>
-    <desc lang="fr">In occasione del Lucerne Festival 2022, il pianista Mao Fujita esegue il Concerto per pianoforte n. 2 di Rachmaninov. La Lucerne Festival Orchestra è diretta da Riccardo Chailly.</desc>
+    <desc lang="fr">In occasione del Lucerne Festival 2022, il pianista Mao Fujita esegue il Concerto per pianoforte n. 2 di Rachmaninoff. La Lucerne Festival Orchestra è diretta da Riccardo Chailly.</desc>
     <credits>
       <director>Ute Feudel</director>
     </credits>
@@ -14720,7 +15486,7 @@
   </programme>
   <programme channel="Mezzo.ch" start="20260316183500 +0000" stop="20260316190000 +0000">
     <title lang="fr">Bomsori Kim, Camerata Salisburgo: Mozart, Concerto per violino n.3</title>
-    <desc lang="fr">Wolfgang Amadeus Mozart, 1756-1791. Concerto per violino n. 3 in sol maggiore K.216.</desc>
+    <desc lang="fr">Wolfang Amadeus Mozart, 1756-1791. Concerto per violino n. 3 in sol maggiore K.216.</desc>
     <credits>
       <director>Alexander Radulescu</director>
     </credits>
@@ -14784,7 +15550,7 @@
     <country lang="fr">DE</country>
   </programme>
   <programme channel="Mezzo.ch" start="20260317020000 +0000" stop="20260317024000 +0000">
-    <title lang="fr">Gil Evans Orchestra e McCoy Tyner Sextet - Berliner Jazztage</title>
+    <title lang="fr">Gil Evans Orchestra e Mccoy Tyner Sextet - Berliner Jazztage</title>
     <desc lang="fr">La Gil Evans Orchestra accompagna il McCoy Tyner Sextet per un concerto durante il festival Berliner Jazztage. Una performance data il 3 novembre 1976 alla Filarmonica di Berlino.</desc>
     <credits>
       <director>Oskar Krüger</director>
@@ -14981,7 +15747,7 @@
   </programme>
   <programme channel="Mezzo.ch" start="20260318135500 +0000" stop="20260318162500 +0000">
     <title lang="fr">John Eliot Gardiner dirige la Messa in si minore di Bach</title>
-    <desc lang="fr">John Eliot Gardiner, che ha diretto e registrato quasi tutta l'opera di Bach, ha appena completato la pubblicazione, sotto la sua etichetta "Soli Deo Gloria", delle 200 cantate.</desc>
+    <desc lang="fr">John Eliot Gardiner, che ha diretto e registrato quasi tutte le opere di Bach, ha appena completato la pubblicazione, sotto la sua etichetta "Soli Deo Gloria", delle 200 cantate.</desc>
     <date>2015</date>
     <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11553405ih10ab_Iconic_W660.webp" />
     <country lang="fr">FR</country>
