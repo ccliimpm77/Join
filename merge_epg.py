@@ -3,37 +3,42 @@ import xml.etree.ElementTree as ET
 import os
 
 def load_bad_strings(filepath):
-    """Carica la lista di stringhe da rimuovere dal file."""
+    """Carica la lista di stringhe da rimuovere."""
     if not os.path.exists(filepath):
         return []
     with open(filepath, 'r', encoding='utf-8') as f:
         return [line.strip() for line in f if line.strip()]
 
-def fix_element(elem, bad_strings):
+def deep_clean_element(element, bad_strings):
     """
-    Applica correzioni formali all'elemento:
-    - Cambia lingua da 'de' a 'it'
-    - Pulisce il testo dalle stringhe indesiderate
+    Funzione ricorsiva che corregge ogni elemento e i suoi figli:
+    - Cambia lang='de' in lang='it'
     - Rimuove icone duplicate
+    - Pulisce i testi dalle stringhe indesiderate
     """
-    # 1. Cambio lingua
-    if elem.get('lang') == 'de':
-        elem.set('lang', 'it')
+    # 1. Correzione attributo lingua
+    if element.get('lang') == 'de':
+        element.set('lang', 'it')
     
-    # 2. Pulizia testo (per descrizioni, titoli, ecc.)
-    if elem.text:
+    # 2. Pulizia testo
+    if element.text:
         for s in bad_strings:
-            elem.text = elem.text.replace(s, "")
-        elem.text = " ".join(elem.text.split()).strip()
+            element.text = element.text.replace(s, "")
+        element.text = " ".join(element.text.split()).strip()
 
-    # 3. Rimozione icone duplicate all'interno dell'elemento
-    icons = elem.findall('icon')
+    # 3. Gestione icone duplicate (mantiene solo la prima)
+    icons = element.findall('icon')
     if len(icons) > 1:
-        for duplicate in icons[1:]:
-            elem.remove(duplicate)
+        # Teniamo solo la prima, rimuoviamo le altre
+        for extra_icon in icons[1:]:
+            element.remove(extra_icon)
+
+    # 4. Ricorsione sui figli (per gestire display-name, desc, title, ecc.)
+    for child in list(element):
+        deep_clean_element(child, bad_strings)
 
 def main():
-    print("Inizio Elaborazione EPG Professionale...")
+    print("Inizio Elaborazione EPG (Deep Cleaning)...")
     
     JOIN_FILE = 'join.txt'
     STRINGS_FILE = 'stringhe.txt'
@@ -47,17 +52,15 @@ def main():
         urls = [line.strip() for line in f if line.strip().startswith('http')]
     
     bad_strings = load_bad_strings(STRINGS_FILE)
-
     unique_channels = {}
     all_programmes = []
 
     for url in urls:
         try:
             print(f"Scaricamento: {url}")
-            r = requests.get(url, timeout=30)
+            r = requests.get(url, timeout=45)
             r.raise_for_status()
             
-            # Parsing
             root_input = ET.fromstring(r.content)
             
             # Elaborazione Canali
@@ -66,48 +69,41 @@ def main():
                 if not ch_id: continue
                 
                 if ch_id not in unique_channels:
-                    # Controllo tag primario <display-name>
+                    # Assicuriamo la presenza del display-name (tag primario)
                     if channel.find('display-name') is None:
                         dn = ET.SubElement(channel, 'display-name')
                         dn.text = ch_id
                     
-                    # Fix icone e lingua nel canale
-                    fix_element(channel, bad_strings)
-                    for child in channel:
-                        fix_element(child, bad_strings)
-                        
+                    # Pulizia profonda (lingua, icone, testi)
+                    deep_clean_element(channel, bad_strings)
                     unique_channels[ch_id] = channel
             
             # Elaborazione Programmi
             for prog in root_input.findall('programme'):
-                # Controllo integrità attributi base
                 if not prog.get('start') or not prog.get('channel'):
                     continue
                 
-                # Fix icone, lingua e descrizioni nel programma
-                fix_element(prog, bad_strings)
-                for child in prog:
-                    fix_element(child, bad_strings)
-                
+                # Pulizia profonda anche sui programmi
+                deep_clean_element(prog, bad_strings)
                 all_programmes.append(prog)
                 
             print(f"OK: {url} elaborato.")
         except Exception as e:
             print(f"ERRORE su {url}: {e}")
 
-    # Creazione nuovo XML
+    # Creazione struttura finale
     new_root = ET.Element('tv')
-    new_root.set('generator-info-name', 'ccliimpm77-Ultimate-Merger')
+    new_root.set('generator-info-name', 'ccliimpm77-Advanced-Fixer-V3')
 
-    # 1. ORDINAMENTO ALFABETICO CANALI
+    # 1. Ordinamento alfabetico canali per ID
     print("Ordinamento canali...")
     sorted_channel_ids = sorted(unique_channels.keys())
     for ch_id in sorted_channel_ids:
         new_root.append(unique_channels[ch_id])
 
-    # 2. FILTRO DUPLICATI E ORDINAMENTO PROGRAMMI
-    print("Validazione e ordinamento programmi...")
-    # Ordiniamo per canale e poi per orario di inizio
+    # 2. Ordinamento e Filtro Duplicati Programmi
+    print("Validazione programmi...")
+    # Ordiniamo per canale e orario
     all_programmes.sort(key=lambda p: (p.get('channel', ''), p.get('start', '')))
     
     seen_progs = set()
@@ -117,23 +113,21 @@ def main():
             new_root.append(prog)
             seen_progs.add(prog_id)
 
-    # Scrittura Finale
-    print("Generazione file finale...")
+    # Scrittura del file
+    print("Salvataggio join.epg...")
     tree = ET.ElementTree(new_root)
     
-    # ET.indent corregge i problemi di newline e formattazione (Python 3.9+)
+    # Formattazione per evitare spazi eccessivi (Python 3.9+)
     try:
         ET.indent(tree, space="  ", level=0)
     except AttributeError:
-        # Fallback per versioni Python vecchie
         pass
 
+    # Salvataggio con codifica esplicita per evitare troncamenti
     with open(OUTPUT_FILE, 'wb') as f:
-        # Usiamo write direttamente per evitare troncamenti tipici delle stringhe di minidom
         tree.write(f, encoding='utf-8', xml_declaration=True)
     
-    print(f"SUCCESSO: {OUTPUT_FILE} creato correttamente.")
-    print(f"Canali: {len(sorted_channel_ids)} | Programmi: {len(seen_progs)}")
+    print(f"SUCCESSO! File creato con {len(sorted_channel_ids)} canali e {len(seen_progs)} programmi.")
 
 if __name__ == "__main__":
     main()
