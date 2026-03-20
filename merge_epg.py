@@ -1,30 +1,68 @@
 import requests
 import xml.etree.ElementTree as ET
 import os
+from xml.dom import minidom
 
 def load_bad_strings(filepath):
-    """Carica la lista di stringhe da rimuovere dal file specificato."""
+    """Carica la lista di stringhe da rimuovere."""
     if not os.path.exists(filepath):
-        print(f"AVVISO: {filepath} non trovato. Nessuna stringa verrà rimossa.")
+        print(f"AVVISO: {filepath} non trovato.")
         return []
     with open(filepath, 'r', encoding='utf-8') as f:
-        # Legge le righe, rimuove spazi bianchi e ignora righe vuote
         return [line.strip() for line in f if line.strip()]
 
 def clean_element_text(element, bad_strings):
-    """Rimuove le stringhe indesiderate dal testo di un elemento XML."""
+    """Pulisce il testo eliminando le stringhe indesiderate e spazi extra."""
     if element is not None and element.text:
         original_text = element.text
         for s in bad_strings:
-            if s in original_text:
-                original_text = original_text.replace(s, "")
-        # Pulizia finale per evitare doppi spazi o spazi all'inizio/fine rimasti dopo la rimozione
+            original_text = original_text.replace(s, "")
         element.text = " ".join(original_text.split()).strip()
 
-def main():
-    print("Inizio unione EPG avanzata con pulizia descrizioni...")
+def sanitize_and_fix_epg(root):
+    """
+    Controlla l'integrità del file EPG:
+    - Rimuove programmi senza attributi obbligatori (start, channel).
+    - Rimuove programmi duplicati (stesso canale e stesso orario).
+    - Assicura che la struttura sia coerente.
+    """
+    seen_programmes = set()
+    to_remove = []
     
-    # Percorsi file configurazione
+    programmes = root.findall('programme')
+    print(f"Validazione in corso su {len(programmes)} programmi...")
+
+    for prog in programmes:
+        start = prog.get('start')
+        channel = prog.get('channel')
+        
+        # 1. Controllo attributi obbligatori
+        if not start or not channel:
+            to_remove.append(prog)
+            continue
+            
+        # 2. Controllo duplicati (Chiave: canale + orario inizio)
+        prog_id = f"{channel}_{start}"
+        if prog_id in seen_programmes:
+            to_remove.append(prog)
+        else:
+            seen_programmes.add(prog_id)
+
+    # Rimozione dei programmi non validi o duplicati
+    for prog in to_remove:
+        root.remove(prog)
+    
+    print(f"Pulizia completata: rimosse {len(to_remove)} voci non valide o duplicate.")
+
+def prettify(elem):
+    """Ritorna una stringa XML formattata correttamente (indentata)."""
+    rough_string = ET.tostring(elem, 'utf-8')
+    reparsed = minidom.parseString(rough_string)
+    return reparsed.toprettyxml(indent="  ")
+
+def main():
+    print("Inizio unione EPG con controllo integrità...")
+    
     JOIN_FILE = 'join.txt'
     STRINGS_FILE = 'stringhe.txt'
     OUTPUT_FILE = 'join.epg'
@@ -33,17 +71,12 @@ def main():
         print(f"ERRORE: {JOIN_FILE} non trovato!")
         return
 
-    # Caricamento URL e stringhe da rimuovere
     with open(JOIN_FILE, 'r', encoding='utf-8') as f:
         urls = [line.strip() for line in f if line.strip().startswith('http')]
     
     bad_strings = load_bad_strings(STRINGS_FILE)
-    if bad_strings:
-        print(f"Caricate {len(bad_strings)} stringhe da rimuovere.")
 
-    # Dizionario per memorizzare i canali unici (usa l'ID come chiave)
     unique_channels = {}
-    # Lista per memorizzare tutti i programmi
     all_programmes = []
 
     for url in urls:
@@ -52,48 +85,51 @@ def main():
             r = requests.get(url, timeout=30)
             r.raise_for_status()
             
-            # Parsing del file XML
             tree = ET.fromstring(r.content)
             
-            # Estrazione canali
+            # Canali
             for channel in tree.findall('channel'):
                 ch_id = channel.get('id')
                 if ch_id and ch_id not in unique_channels:
                     unique_channels[ch_id] = channel
             
-            # Estrazione e pulizia programmi
+            # Programmi
             for programme in tree.findall('programme'):
-                # Cerchiamo tutti i tag <desc> (possono essercene più di uno per lingua)
                 for desc in programme.findall('desc'):
                     clean_element_text(desc, bad_strings)
-                
                 all_programmes.append(programme)
                 
             print(f"OK: {url} elaborato.")
         except Exception as e:
             print(f"ERRORE su {url}: {e}")
 
-    # Creazione del nuovo file XML
+    # Creazione root
     new_root = ET.Element('tv')
-    new_root.set('generator-info-name', 'ccliimpm77-Advanced-Merger-Clean')
+    new_root.set('generator-info-name', 'ccliimpm77-Advanced-Sanitizer')
 
-    # 1. Aggiungiamo i canali
-    print(f"Inserimento di {len(unique_channels)} canali unici...")
+    # Aggiunta canali
     for ch_id in unique_channels:
         new_root.append(unique_channels[ch_id])
 
-    # 2. Aggiungiamo i programmi (già puliti)
-    print(f"Inserimento di {len(all_programmes)} programmi...")
+    # Aggiunta programmi
     for prog in all_programmes:
         new_root.append(prog)
 
-    # Scrittura del file finale
-    new_tree = ET.ElementTree(new_root)
-    
-    with open(OUTPUT_FILE, 'wb') as f:
-        new_tree.write(f, encoding='utf-8', xml_declaration=True)
-    
-    print(f"Successo: {OUTPUT_FILE} creato, ottimizzato e pulito!")
+    # --- FASE DI CONTROLLO INTEGRITÀ ---
+    sanitize_and_fix_epg(new_root)
+    # ----------------------------------
+
+    # Salvataggio con formattazione pulita
+    print("Salvataggio file finale...")
+    try:
+        xml_string = prettify(new_root)
+        # Il modulo minidom aggiunge una sua dichiarazione XML, 
+        # scriviamo in 'w' (stringa) invece di 'wb'
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            f.write(xml_string)
+        print(f"Successo: {OUTPUT_FILE} creato e validato!")
+    except Exception as e:
+        print(f"Errore durante il salvataggio: {e}")
 
 if __name__ == "__main__":
     main()
