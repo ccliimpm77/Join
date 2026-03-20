@@ -1,0 +1,44 @@
+name: Update Daily EPG
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run merge script
+        run: python merge_epg.py
+
+      - name: Verificata creazione file
+        run: |
+          if [ -f "join.epg" ]; then
+            echo "Il file join.epg esiste ed è pronto."
+            ls -lh join.epg
+          else
+            echo "Errore: Il file join.epg non è stato creato dallo script Python."
+            exit 1
+          fi
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update EPG automatico"
+          file_pattern: 'join.epg'
+          # Abbiamo tolto status_options per permettere l'invio di nuovi file
