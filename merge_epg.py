@@ -1,67 +1,39 @@
 import requests
 import xml.etree.ElementTree as ET
 import os
-from xml.dom import minidom
 
 def load_bad_strings(filepath):
-    """Carica la lista di stringhe da rimuovere."""
+    """Carica la lista di stringhe da rimuovere dal file."""
     if not os.path.exists(filepath):
-        print(f"AVVISO: {filepath} non trovato.")
         return []
     with open(filepath, 'r', encoding='utf-8') as f:
         return [line.strip() for line in f if line.strip()]
 
-def clean_element_text(element, bad_strings):
-    """Pulisce il testo eliminando le stringhe indesiderate e spazi extra."""
-    if element is not None and element.text:
-        original_text = element.text
+def fix_element(elem, bad_strings):
+    """
+    Applica correzioni formali all'elemento:
+    - Cambia lingua da 'de' a 'it'
+    - Pulisce il testo dalle stringhe indesiderate
+    - Rimuove icone duplicate
+    """
+    # 1. Cambio lingua
+    if elem.get('lang') == 'de':
+        elem.set('lang', 'it')
+    
+    # 2. Pulizia testo (per descrizioni, titoli, ecc.)
+    if elem.text:
         for s in bad_strings:
-            original_text = original_text.replace(s, "")
-        element.text = " ".join(original_text.split()).strip()
+            elem.text = elem.text.replace(s, "")
+        elem.text = " ".join(elem.text.split()).strip()
 
-def sanitize_and_fix_epg(root):
-    """
-    Controlla l'integrità del file EPG:
-    - Rimuove programmi senza attributi obbligatori (start, channel).
-    - Rimuove programmi duplicati (stesso canale e stesso orario).
-    - Assicura che la struttura sia coerente.
-    """
-    seen_programmes = set()
-    to_remove = []
-    
-    programmes = root.findall('programme')
-    print(f"Validazione in corso su {len(programmes)} programmi...")
-
-    for prog in programmes:
-        start = prog.get('start')
-        channel = prog.get('channel')
-        
-        # 1. Controllo attributi obbligatori
-        if not start or not channel:
-            to_remove.append(prog)
-            continue
-            
-        # 2. Controllo duplicati (Chiave: canale + orario inizio)
-        prog_id = f"{channel}_{start}"
-        if prog_id in seen_programmes:
-            to_remove.append(prog)
-        else:
-            seen_programmes.add(prog_id)
-
-    # Rimozione dei programmi non validi o duplicati
-    for prog in to_remove:
-        root.remove(prog)
-    
-    print(f"Pulizia completata: rimosse {len(to_remove)} voci non valide o duplicate.")
-
-def prettify(elem):
-    """Ritorna una stringa XML formattata correttamente (indentata)."""
-    rough_string = ET.tostring(elem, 'utf-8')
-    reparsed = minidom.parseString(rough_string)
-    return reparsed.toprettyxml(indent="  ")
+    # 3. Rimozione icone duplicate all'interno dell'elemento
+    icons = elem.findall('icon')
+    if len(icons) > 1:
+        for duplicate in icons[1:]:
+            elem.remove(duplicate)
 
 def main():
-    print("Inizio unione EPG con controllo integrità...")
+    print("Inizio Elaborazione EPG Professionale...")
     
     JOIN_FILE = 'join.txt'
     STRINGS_FILE = 'stringhe.txt'
@@ -85,51 +57,83 @@ def main():
             r = requests.get(url, timeout=30)
             r.raise_for_status()
             
-            tree = ET.fromstring(r.content)
+            # Parsing
+            root_input = ET.fromstring(r.content)
             
-            # Canali
-            for channel in tree.findall('channel'):
+            # Elaborazione Canali
+            for channel in root_input.findall('channel'):
                 ch_id = channel.get('id')
-                if ch_id and ch_id not in unique_channels:
+                if not ch_id: continue
+                
+                if ch_id not in unique_channels:
+                    # Controllo tag primario <display-name>
+                    if channel.find('display-name') is None:
+                        dn = ET.SubElement(channel, 'display-name')
+                        dn.text = ch_id
+                    
+                    # Fix icone e lingua nel canale
+                    fix_element(channel, bad_strings)
+                    for child in channel:
+                        fix_element(child, bad_strings)
+                        
                     unique_channels[ch_id] = channel
             
-            # Programmi
-            for programme in tree.findall('programme'):
-                for desc in programme.findall('desc'):
-                    clean_element_text(desc, bad_strings)
-                all_programmes.append(programme)
+            # Elaborazione Programmi
+            for prog in root_input.findall('programme'):
+                # Controllo integrità attributi base
+                if not prog.get('start') or not prog.get('channel'):
+                    continue
+                
+                # Fix icone, lingua e descrizioni nel programma
+                fix_element(prog, bad_strings)
+                for child in prog:
+                    fix_element(child, bad_strings)
+                
+                all_programmes.append(prog)
                 
             print(f"OK: {url} elaborato.")
         except Exception as e:
             print(f"ERRORE su {url}: {e}")
 
-    # Creazione root
+    # Creazione nuovo XML
     new_root = ET.Element('tv')
-    new_root.set('generator-info-name', 'ccliimpm77-Advanced-Sanitizer')
+    new_root.set('generator-info-name', 'ccliimpm77-Ultimate-Merger')
 
-    # Aggiunta canali
-    for ch_id in unique_channels:
+    # 1. ORDINAMENTO ALFABETICO CANALI
+    print("Ordinamento canali...")
+    sorted_channel_ids = sorted(unique_channels.keys())
+    for ch_id in sorted_channel_ids:
         new_root.append(unique_channels[ch_id])
 
-    # Aggiunta programmi
+    # 2. FILTRO DUPLICATI E ORDINAMENTO PROGRAMMI
+    print("Validazione e ordinamento programmi...")
+    # Ordiniamo per canale e poi per orario di inizio
+    all_programmes.sort(key=lambda p: (p.get('channel', ''), p.get('start', '')))
+    
+    seen_progs = set()
     for prog in all_programmes:
-        new_root.append(prog)
+        prog_id = f"{prog.get('channel')}_{prog.get('start')}"
+        if prog_id not in seen_progs:
+            new_root.append(prog)
+            seen_progs.add(prog_id)
 
-    # --- FASE DI CONTROLLO INTEGRITÀ ---
-    sanitize_and_fix_epg(new_root)
-    # ----------------------------------
-
-    # Salvataggio con formattazione pulita
-    print("Salvataggio file finale...")
+    # Scrittura Finale
+    print("Generazione file finale...")
+    tree = ET.ElementTree(new_root)
+    
+    # ET.indent corregge i problemi di newline e formattazione (Python 3.9+)
     try:
-        xml_string = prettify(new_root)
-        # Il modulo minidom aggiunge una sua dichiarazione XML, 
-        # scriviamo in 'w' (stringa) invece di 'wb'
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            f.write(xml_string)
-        print(f"Successo: {OUTPUT_FILE} creato e validato!")
-    except Exception as e:
-        print(f"Errore durante il salvataggio: {e}")
+        ET.indent(tree, space="  ", level=0)
+    except AttributeError:
+        # Fallback per versioni Python vecchie
+        pass
+
+    with open(OUTPUT_FILE, 'wb') as f:
+        # Usiamo write direttamente per evitare troncamenti tipici delle stringhe di minidom
+        tree.write(f, encoding='utf-8', xml_declaration=True)
+    
+    print(f"SUCCESSO: {OUTPUT_FILE} creato correttamente.")
+    print(f"Canali: {len(sorted_channel_ids)} | Programmi: {len(seen_progs)}")
 
 if __name__ == "__main__":
     main()
