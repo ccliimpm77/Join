@@ -109,6 +109,12 @@ def main():
     OUTPUT_FILE = 'join.epg'
     M3U_URL = "https://drive.google.com/uc?export=download&id=1owM9i05x7pJ03gOG_kA47NJ0GbH7dBgw"
 
+    # Mappatura manuale per canali specifici
+    MANUAL_ID_MAP = {
+        "La7Cinema.it": "La7 Cinema",
+        "RadioitaliaTV.it": "Radio Italia TV"
+    }
+
     if not os.path.exists(JOIN_FILE): return
     bad_strings = load_bad_strings(STRINGS_FILE)
     
@@ -123,47 +129,35 @@ def main():
             r = requests.get(url, timeout=45)
             r.raise_for_status()
             root = ET.fromstring(r.content)
+            
+            # Processamento Canali
             for ch in root.findall('channel'):
                 cid = ch.get('id')
-                if cid and cid not in unique_channels:
+                if not cid: continue
+                
+                # Applica correzione manuale ID se presente nella lista
+                if cid in MANUAL_ID_MAP:
+                    cid = MANUAL_ID_MAP[cid]
+                    ch.set('id', cid)
+                
+                if cid not in unique_channels:
                     aggressive_clean(ch, bad_strings)
                     unique_channels[cid] = ch
+            
+            # Processamento Programmi
             for pr in root.findall('programme'):
-                if pr.get('channel') and pr.get('start'):
+                pid = pr.get('channel')
+                if pid and pr.get('start'):
+                    
+                    # Applica correzione manuale ID anche ai programmi
+                    if pid in MANUAL_ID_MAP:
+                        pid = MANUAL_ID_MAP[pid]
+                        pr.set('channel', pid)
+                        
                     aggressive_clean(pr, bad_strings)
                     all_programmes.append(pr)
+            
             print(f"OK: {url}")
         except Exception as e: print(f"Errore {url}: {e}")
 
-    unique_channels, all_programmes = apply_m3u_mapping(unique_channels, all_programmes, M3U_URL)
-
-    # Creazione del tag root <tv>
-    new_root = ET.Element('tv')
-    new_root.set('generator-info-name', 'ccliimpm77-Clean-Symbols-V7')
-    
-    # --- AGGIUNTA RICHIESTA: Imposta il refresh ogni 12 ore (720 minuti) ---
-    new_root.set('refresh', '720')
-    # ----------------------------------------------------------------------
-
-    for cid in sorted(unique_channels.keys(), key=lambda x: x.lower()):
-        new_root.append(unique_channels[cid])
-
-    all_programmes.sort(key=lambda p: (p.get('channel', '').lower(), p.get('start', '')))
-    seen_progs = set()
-    for p in all_programmes:
-        pid = f"{p.get('channel')}_{p.get('start')}"
-        if pid not in seen_progs:
-            new_root.append(p)
-            seen_progs.add(pid)
-
-    tree = ET.ElementTree(new_root)
-    try: ET.indent(tree, space="  ", level=0)
-    except AttributeError: pass
-
-    with open(OUTPUT_FILE, 'wb') as f:
-        tree.write(f, encoding='utf-8', xml_declaration=True)
-    
-    print(f"SUCCESSO: {OUTPUT_FILE} generato con refresh=720.")
-
-if __name__ == "__main__":
-    main()
+    unique_channels, all_programmes = ap
