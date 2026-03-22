@@ -19,9 +19,6 @@ def clean_non_standard_symbols(text):
         return text
     
     # Rimuove caratteri di controllo (0-31 e 127-159) e caratteri invisibili comuni
-    # Mantiene i caratteri latini, accentati (italiani) e la punteggiatura standard
-    # Regex: [^...] nega la selezione -> rimuove tutto ciò che NON è in questa lista
-    # \u00C0-\u00FF copre le lettere accentate italiane (àèéìòù ecc.)
     text = re.sub(r'[^\x20-\x7E\u00A0-\u00FF]', '', text)
     
     # Rimuove spazi doppi creati dalla pulizia
@@ -30,19 +27,11 @@ def clean_non_standard_symbols(text):
 
 def aggressive_clean(elem, bad_strings):
     """
-    Pulisce l'elemento in modo profondo:
-    - Rimuove Icone
-    - Rimuove simboli non standard e caratteri invisibili
-    - Cambia 'de' in 'it'
-    - Blacklist stringhe
+    Pulisce l'elemento in modo profondo.
     """
-    # 1. Pulizia testo
     if elem.text:
-        # Applica blacklist stringhe (es. siti web o pubblicità)
         for s in bad_strings:
             elem.text = elem.text.replace(s, "")
-        
-        # Pulizia simboli non standard
         elem.text = clean_non_standard_symbols(elem.text)
     else:
         elem.text = None
@@ -50,16 +39,13 @@ def aggressive_clean(elem, bad_strings):
     if elem.tail:
         elem.tail = None
 
-    # 2. Correzione Lingua e pulizia attributi
     for attr_name, attr_value in elem.attrib.items():
         if attr_value.lower() == 'de':
             elem.set(attr_name, 'it')
         
-        # Pulisce anche i titoli o categorie negli attributi se necessario
         if isinstance(attr_value, str):
             elem.set(attr_name, clean_non_standard_symbols(attr_value))
 
-    # 3. Rimozione TOTALE icone
     for child in list(elem):
         if child.tag == 'icon':
             elem.remove(child)
@@ -67,7 +53,7 @@ def aggressive_clean(elem, bad_strings):
         aggressive_clean(child, bad_strings)
 
 def normalize_name_for_match(name):
-    """Normalizza solo per il confronto (rimuove .it e rende minuscolo)."""
+    """Normalizza solo per il confronto."""
     if not name: return ""
     name = name.lower().replace(".it", "")
     return re.sub(r'[^a-z0-9]', '', name)
@@ -151,8 +137,13 @@ def main():
 
     unique_channels, all_programmes = apply_m3u_mapping(unique_channels, all_programmes, M3U_URL)
 
+    # Creazione del tag root <tv>
     new_root = ET.Element('tv')
     new_root.set('generator-info-name', 'ccliimpm77-Clean-Symbols-V7')
+    
+    # --- AGGIUNTA RICHIESTA: Imposta il refresh ogni 12 ore (720 minuti) ---
+    new_root.set('refresh', '720')
+    # ----------------------------------------------------------------------
 
     for cid in sorted(unique_channels.keys(), key=lambda x: x.lower()):
         new_root.append(unique_channels[cid])
@@ -172,7 +163,7 @@ def main():
     with open(OUTPUT_FILE, 'wb') as f:
         tree.write(f, encoding='utf-8', xml_declaration=True)
     
-    print(f"SUCCESSO: {OUTPUT_FILE} pulito da icone e simboli speciali.")
+    print(f"SUCCESSO: {OUTPUT_FILE} generato con refresh=720.")
 
 if __name__ == "__main__":
     main()
