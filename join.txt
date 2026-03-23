@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/ccliimpm77/01/refs/heads/main/01.xml
+https://raw.githubusercontent.com/ccliimpm77/01/refs/heads/main/01.xmltv
 https://raw.githubusercontent.com/ccliimpm77/05/refs/heads/main/05.epg
 https://raw.githubusercontent.com/ccliimpm77/02.1/refs/heads/main/02.1.epg
 https://raw.githubusercontent.com/ccliimpm77/02/refs/heads/main/02.epg
