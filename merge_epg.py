@@ -1,119 +1,146 @@
 import xml.etree.ElementTree as ET
-import urllib.request
+import requests
 import os
-import time
+from concurrent.futures import ThreadPoolExecutor
 from deep_translator import GoogleTranslator
 
-def download_file(url):
-    print(f"Scaricando: {url}")
+# Configurazione
+JOIN_TXT = 'join.txt'
+OLD_TXT = 'old.txt'
+NEW_TXT = 'new.txt'
+OUTPUT_EPG = 'join.epg'
+CHANNEL_TXT = 'channel.txt'
+
+def download_url(url):
+    """Scarica il contenuto di un URL (veloce con requests)."""
     try:
-        response = urllib.request.urlopen(url)
-        return response.read()
+        r = requests.get(url, timeout=15)
+        r.raise_for_status()
+        return r.content
     except Exception as e:
-        print(f"Errore nello scaricamento di {url}: {e}")
+        print(f"Errore download {url}: {e}")
         return None
 
-def translate_text(text, target_lang='it'):
-    if not text or len(text) < 2:
-        return text
-    try:
-        # Traduzione via Google (deep-translator)
-        return GoogleTranslator(source='auto', target=target_lang).translate(text)
-    except Exception as e:
-        print(f"Errore traduzione: {e}")
-        return text
+def batch_translate(texts, target_lang='it'):
+    """Traduce una lista di testi in blocchi per massimizzare la velocità."""
+    if not texts:
+        return []
+    
+    translator = GoogleTranslator(source='auto', target=target_lang)
+    separator = " [|] "
+    # Uniamo i testi in stringhe da max 4500 caratteri (limite Google)
+    chunks = []
+    current_chunk = ""
+    
+    for text in texts:
+        if len(current_chunk) + len(text) + len(separator) < 4500:
+            current_chunk += text + separator
+        else:
+            chunks.append(current_chunk.strip(separator))
+            current_chunk = text + separator
+    if current_chunk:
+        chunks.append(current_chunk.strip(separator))
+
+    translated_flat = []
+    for chunk in chunks:
+        try:
+            translated = translator.translate(chunk)
+            translated_flat.extend(translated.split(separator))
+        except:
+            translated_flat.extend(chunk.split(separator)) # Fallback in caso di errore
+            
+    return [t.strip() for t in translated_flat]
 
 def main():
-    join_txt = 'join.txt'
-    old_txt = 'old.txt'
-    new_txt = 'new.txt'
-    output_file = 'join.epg'
-    channel_info_file = 'channel.txt'
-
-    # 1. UNIRE LE LISTE EPG
-    print("Fase 1: Unione liste...")
-    if not os.path.exists(join_txt):
-        print(f"Errore: {join_txt} non trovato.")
+    if not os.path.exists(JOIN_TXT):
         return
+
+    # 1. DOWNLOAD PARALLELO
+    with open(JOIN_TXT, 'r') as f:
+        urls = [line.strip() for line in f if line.strip()]
+    
+    print(f"Scaricamento di {len(urls)} liste in parallelo...")
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        results = list(executor.map(download_url, urls))
 
     all_channels = []
     all_programmes = []
 
-    with open(join_txt, 'r') as f:
-        urls = [line.strip() for line in f if line.strip()]
-
-    for url in urls:
-        content = download_file(url)
+    # 2. PARSING XML
+    for content in results:
         if content:
             try:
                 root = ET.fromstring(content)
                 all_channels.extend(root.findall('channel'))
                 all_programmes.extend(root.findall('programme'))
             except Exception as e:
-                print(f"Errore parsing XML: {e}")
+                print(f"Errore parsing: {e}")
 
-    # --- NUOVA FUNZIONE: TRADUZIONE CANALE "MEZZO" ---
-    print("Fase: Traduzione programmi canale Mezzo...")
-    # Cerchiamo i programmi il cui canale contiene "Mezzo"
-    mezzo_programmes = [p for p in all_programmes if "Mezzo" in (p.get('channel') or "")]
+    # 3. TRADUZIONE OTTIMIZZATA CANALE MEZZO
+    print("Traduzione batch per canale Mezzo...")
+    mezzo_progs = [p for p in all_programmes if p.get('channel') and "Mezzo" in p.get('channel')]
     
-    for prog in mezzo_programmes:
-        # Traduci Titolo
-        title_node = prog.find('title')
-        if title_node is not None:
-            title_node.text = translate_text(title_node.text)
-        
-        # Traduci Descrizione
-        desc_node = prog.find('desc')
-        if desc_node is not None:
-            desc_node.text = translate_text(desc_node.text)
-        
-        # Piccolo delay per non essere bloccati da Google (opzionale)
-        # time.sleep(0.1)
+    to_translate = []
+    for p in mezzo_progs:
+        title = p.find('title')
+        desc = p.find('desc')
+        to_translate.append(title.text if title is not None and title.text else " ")
+        to_translate.append(desc.text if desc is not None and desc.text else " ")
 
-    # 3. ELIMINARE RIFERIMENTI ALLE ICONE
-    print("Fase 3: Rimozione icone...")
+    translated_list = batch_translate(to_translate)
+
+    # Riassegnazione testi tradotti
+    idx = 0
+    for p in mezzo_progs:
+        title = p.find('title')
+        desc = p.find('desc')
+        if title is not None and idx < len(translated_list):
+            title.text = translated_list[idx]
+            idx += 1
+        if desc is not None and idx < len(translated_list):
+            desc.text = translated_list[idx]
+            idx += 1
+
+    # 4. PULIZIA ICONE E CREAZIONE CHANNEL.TXT (Passaggio Singolo)
+    print(f"Pulizia icone e creazione {CHANNEL_TXT}...")
+    channel_lines = []
     for channel in all_channels:
+        c_id = channel.get('id', 'N/A')
+        names = [n.text for n in channel.findall('display-name') if n.text]
+        channel_lines.append(f"{c_id}: {' | '.join(names)}\n")
+        
         for icon in channel.findall('icon'):
             channel.remove(icon)
-    for programme in all_programmes:
-        for icon in programme.findall('icon'):
-            programme.remove(icon)
 
-    # 6. CREA CHANNEL.TXT (Punto richiesto: ID e tutti i Display Name)
-    print(f"Fase: Creazione {channel_info_file}...")
-    with open(channel_info_file, 'w', encoding='utf-8') as cf:
-        for channel in all_channels:
-            c_id = channel.get('id')
-            names = [dn.text for dn in channel.findall('display-name') if dn.text]
-            names_str = " | ".join(names)
-            cf.write(f"{c_id}: {names_str}\n")
+    for prog in all_programmes:
+        for icon in prog.findall('icon'):
+            prog.remove(icon)
 
-    # Ricostruiamo l'XML per le fasi successive
+    with open(CHANNEL_TXT, 'w', encoding='utf-8') as f:
+        f.writelines(channel_lines)
+
+    # 5. COSTRUZIONE STRINGA FINALE E SOSTITUZIONE VELOCE
     new_root = ET.Element('tv')
-    for c in all_channels: new_root.append(c)
-    for p in all_programmes: new_root.append(p)
+    new_root.extend(all_channels)
+    new_root.extend(all_programmes)
     
     xml_str = ET.tostring(new_root, encoding='unicode')
 
-    # 2. SOSTITUZIONE STRINGHE (OLD -> NEW)
-    print("Fase 2: Sostituzione stringhe...")
-    if os.path.exists(old_txt) and os.path.exists(new_txt):
-        with open(old_txt, 'r', encoding='utf-8') as f_old, \
-             open(new_txt, 'r', encoding='utf-8') as f_new:
-            old_lines = [l.strip() for l in f_old if l.strip()]
-            new_lines = [l.strip() for l in f_new if l.strip()]
-        
-        for old_s, new_s in zip(old_lines, new_lines):
-            xml_str = xml_str.replace(old_s, new_s)
+    if os.path.exists(OLD_TXT) and os.path.exists(NEW_TXT):
+        print("Sostituzione stringhe...")
+        with open(OLD_TXT, 'r', encoding='utf-8') as f_o, open(NEW_TXT, 'r', encoding='utf-8') as f_n:
+            for old_s, new_s in zip(f_o, f_n):
+                o, n = old_s.strip(), new_s.strip()
+                if o:
+                    xml_str = xml_str.replace(o, n)
 
-    # Salvataggio finale join.epg
-    print(f"Salvataggio in {output_file}...")
-    with open(output_file, 'w', encoding='utf-8') as f:
+    # 6. SALVATAGGIO
+    print(f"Salvataggio {OUTPUT_EPG}...")
+    with open(OUTPUT_EPG, 'w', encoding='utf-8') as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         f.write(xml_str)
 
-    print("Procedura completata.")
+    print("Completato!")
 
 if __name__ == "__main__":
     main()
