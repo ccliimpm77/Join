@@ -1,181 +1,125 @@
-import requests
 import xml.etree.ElementTree as ET
-import os
+import urllib.request
 import re
+import os
 
-def load_bad_strings(filepath):
-    """Carica la lista di stringhe da rimuovere."""
-    if not os.path.exists(filepath):
-        return []
-    with open(filepath, 'r', encoding='utf-8') as f:
-        return [line.strip() for line in f if line.strip()]
+def clean_non_standard_chars(text):
+    """Punto 4: Elimina caratteri non standard XMLTV."""
+    # Mantiene solo caratteri stampabili e validi XML
+    return re.sub(r'[^\x09\x0A\x0D\x20-\x7E\xA0-\xFF]', '', text)
 
-def clean_non_standard_symbols(text):
-    """Rimuove simboli non standard e caratteri di controllo."""
-    if not text: return text
-    text = re.sub(r'[^\x20-\x7E\u00A0-\u00FF]', '', text)
-    text = " ".join(text.split()).strip()
-    return text
-
-def aggressive_clean(elem, bad_strings):
-    """Pulisce l'elemento rimuovendo icone e testi indesiderati."""
-    if elem.text:
-        for s in bad_strings:
-            elem.text = elem.text.replace(s, "")
-        elem.text = clean_non_standard_symbols(elem.text)
-    else:
-        elem.text = None
-    if elem.tail: elem.tail = None
-
-    for attr_name, attr_value in elem.attrib.items():
-        if attr_value.lower() == 'de': elem.set(attr_name, 'it')
-        if isinstance(attr_value, str):
-            elem.set(attr_name, clean_non_standard_symbols(attr_value))
-
-    for child in list(elem):
-        if child.tag == 'icon':
-            elem.remove(child)
-            continue
-        aggressive_clean(child, bad_strings)
-
-def normalize_name_for_match(name):
-    """Normalizza per il confronto."""
-    if not name: return ""
-    name = name.lower().replace(".it", "")
-    return re.sub(r'[^a-z0-9]', '', name)
-
-def apply_m3u_mapping(unique_channels, all_programmes, m3u_url):
-    """Sincronizza ID e Nomi con il file M3U."""
+def download_file(url):
+    print(f"Scaricando: {url}")
     try:
-        r = requests.get(m3u_url, timeout=30)
-        r.raise_for_status()
-        m3u_content = r.text
-        m3u_names = set(re.findall(r'tvg-name="([^"]+)"', m3u_content))
-        m3u_mapping_dict = {normalize_name_for_match(n): n for n in m3u_names}
-        
-        final_id_map = {}
-        for old_id, ch_elem in unique_channels.items():
-            norm_id = normalize_name_for_match(old_id)
-            dn_elem = ch_elem.find('display-name')
-            norm_dn = normalize_name_for_match(dn_elem.text) if dn_elem is not None else ""
-            if norm_id in m3u_mapping_dict:
-                final_id_map[old_id] = m3u_mapping_dict[norm_id]
-            elif norm_dn in m3u_mapping_dict:
-                final_id_map[old_id] = m3u_mapping_dict[norm_dn]
-
-        new_unique_channels = {}
-        for old_id, ch_elem in unique_channels.items():
-            if old_id in final_id_map:
-                new_name = final_id_map[old_id]
-                ch_elem.set('id', new_name)
-                for dn in ch_elem.findall('display-name'): ch_elem.remove(dn)
-                new_dn = ET.SubElement(ch_elem, 'display-name')
-                new_dn.text = new_name
-                new_unique_channels[new_name] = ch_elem
-            else:
-                new_unique_channels[old_id] = ch_elem
-
-        for prog in all_programmes:
-            ch_id = prog.get('channel')
-            if ch_id in final_id_map:
-                prog.set('channel', final_id_map[ch_id])
-
-        return new_unique_channels, all_programmes
+        response = urllib.request.urlopen(url)
+        return response.read().decode('utf-8', errors='ignore')
     except Exception as e:
-        print(f"M3U Mapping skip: {e}")
-        return unique_channels, all_programmes
-
-def final_override_ids(root):
-    """
-    Forza la correzione finale per i canali specifici richiesti.
-    Cerca sia per ID esatto che per varianti comuni (case-insensitive).
-    """
-    corrections = {
-        "la7cinema.it": "La7 Cinema",
-        "radioitaliatv.it": "Radio Italia TV"
-    }
-    
-    # Correzione Canali
-    for ch in root.findall('channel'):
-        current_id = ch.get('id', '')
-        if current_id.lower() in corrections:
-            new_id = corrections[current_id.lower()]
-            ch.set('id', new_id)
-            # Aggiorna anche il display-name
-            for dn in ch.findall('display-name'):
-                dn.text = new_id
-    
-    # Correzione Programmi
-    for pr in root.findall('programme'):
-        current_ch = pr.get('channel', '')
-        if current_ch.lower() in corrections:
-            pr.set('channel', corrections[current_ch.lower()])
+        print(f"Errore nello scaricamento di {url}: {e}")
+        return None
 
 def main():
-    print("Inizio Elaborazione EPG...")
-    JOIN_FILE = 'join.txt'
-    STRINGS_FILE = 'stringhe.txt'
-    OUTPUT_FILE = 'join.epg'
-    M3U_URL = "https://drive.google.com/uc?export=download&id=1owM9i05x7pJ03gOG_kA47NJ0GbH7dBgw"
+    # File necessari
+    join_txt = 'join.txt'
+    old_txt = 'old.txt'
+    new_txt = 'new.txt'
+    output_file = 'join.epg'
+    channelid_file = 'channelid.txt'
 
-    if not os.path.exists(JOIN_FILE): return
-    bad_strings = load_bad_strings(STRINGS_FILE)
-    
-    with open(JOIN_FILE, 'r', encoding='utf-8') as f:
-        urls = [line.strip() for line in f if line.strip().startswith('http')]
-    
-    unique_channels = {}
+    # 1. UNIRE LE LISTE EPG
+    print("Fase 1: Unione liste...")
+    if not os.path.exists(join_txt):
+        print(f"Errore: {join_txt} non trovato.")
+        return
+
+    combined_xml_content = ""
+    with open(join_txt, 'r') as f:
+        urls = [line.strip() for line in f if line.strip()]
+
+    all_channels = []
     all_programmes = []
 
     for url in urls:
-        try:
-            r = requests.get(url, timeout=45)
-            r.raise_for_status()
-            root = ET.fromstring(r.content)
-            for ch in root.findall('channel'):
-                cid = ch.get('id')
-                if cid and cid not in unique_channels:
-                    aggressive_clean(ch, bad_strings)
-                    unique_channels[cid] = ch
-            for pr in root.findall('programme'):
-                if pr.get('channel') and pr.get('start'):
-                    aggressive_clean(pr, bad_strings)
-                    all_programmes.append(pr)
-            print(f"OK: {url}")
-        except Exception as e: print(f"Errore {url}: {e}")
+        content = download_file(url)
+        if content:
+            try:
+                # Rimuoviamo i tag di apertura/chiusura per estrarre il contenuto
+                # Usiamo ElementTree per parse parziale
+                root = ET.fromstring(content)
+                for channel in root.findall('channel'):
+                    all_channels.append(channel)
+                for programme in root.findall('programme'):
+                    all_programmes.append(programme)
+            except Exception as e:
+                print(f"Errore nel parsing XML di {url}: {e}")
 
-    # Applica mappatura da M3U
-    unique_channels, all_programmes = apply_m3u_mapping(unique_channels, all_programmes, M3U_URL)
-
-    # Costruzione XML Finale
+    # Creiamo un nuovo root XML
     new_root = ET.Element('tv')
-    new_root.set('generator-info-name', 'ccliimpm77-Clean-Symbols-V7')
-    new_root.set('refresh', '720')
-
-    # Aggiunge canali e programmi
-    for cid in sorted(unique_channels.keys(), key=lambda x: x.lower()):
-        new_root.append(unique_channels[cid])
-
-    all_programmes.sort(key=lambda p: (p.get('channel', '').lower(), p.get('start', '')))
-    seen_progs = set()
+    for c in all_channels:
+        new_root.append(c)
     for p in all_programmes:
-        pid = f"{p.get('channel')}_{p.get('start')}"
-        if pid not in seen_progs:
-            new_root.append(p)
-            seen_progs.add(pid)
+        new_root.append(p)
 
-    # --- AGGIUNTA: Correzione Forzata Finale ---
-    final_override_ids(new_root)
-    # -------------------------------------------
+    # Convertiamo in stringa per le sostituzioni testuali
+    xml_str = ET.tostring(new_root, encoding='unicode')
 
-    tree = ET.ElementTree(new_root)
-    try: ET.indent(tree, space="  ", level=0)
-    except AttributeError: pass
+    # 2. SOSTITUZIONE STRINGHE (OLD.TXT -> NEW.TXT)
+    print("Fase 2: Sostituzione stringhe...")
+    if os.path.exists(old_txt) and os.path.exists(new_txt):
+        with open(old_txt, 'r') as f_old, open(new_txt, 'r') as f_new:
+            old_lines = [l.strip() for l in f_old if l.strip()]
+            new_lines = [l.strip() for l in f_new if l.strip()]
+        
+        for old_s, new_s in zip(old_lines, new_lines):
+            xml_str = xml_str.replace(old_s, new_s)
 
-    with open(OUTPUT_FILE, 'wb') as f:
-        tree.write(f, encoding='utf-8', xml_declaration=True)
-    
-    print(f"SUCCESSO: {OUTPUT_FILE} generato con refresh=720 e ID forzati.")
+    # 4. ELIMINARE CARATTERI NON STANDARD (Prima del parsing finale per sicurezza)
+    print("Fase 4: Pulizia caratteri non standard...")
+    xml_str = clean_non_standard_chars(xml_str)
+
+    # Riparsiamo la stringa modificata per le operazioni strutturali (punti 3 e 5)
+    root = ET.fromstring(xml_str)
+
+    # 3. ELIMINARE ICONE e 5. UNIFORMARE DISPLAY-NAME
+    print("Fase 3 e 5: Rimozione icone e reset display-name...")
+    channels_data = []
+
+    for channel in root.findall('channel'):
+        channel_id = channel.get('id')
+        
+        # Punto 3: Rimuovi icone
+        for icon in channel.findall('icon'):
+            channel.remove(icon)
+        
+        # Punto 5: Elimina tutti i display-name e creane uno uguale all'ID
+        for dn in channel.findall('display-name'):
+            channel.remove(dn)
+        
+        new_dn = ET.SubElement(channel, 'display-name')
+        new_dn.text = channel_id
+        
+        channels_data.append(channel_id)
+
+    # Anche i programmi potrebbero avere icone, le rimuoviamo (Punto 3 esteso)
+    for programme in root.findall('programme'):
+        for icon in programme.findall('icon'):
+            programme.remove(icon)
+
+    # Salvataggio finale join.epg
+    print(f"Salvataggio {output_file}...")
+    tree = ET.ElementTree(root)
+    with open(output_file, 'wb') as f:
+        f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+        tree.write(f, encoding='utf-8', xml_declaration=False)
+
+    # 6. CREARE CHANNELID.TXT
+    print(f"Fase 6: Creazione {channelid_file}...")
+    # Rimuoviamo duplicati mantenendo l'ordine
+    unique_channels = list(dict.fromkeys(channels_data))
+    with open(channelid_file, 'w') as f:
+        for cid in unique_channels:
+            f.write(f"{cid}\n")
+
+    print("Procedura completata con successo.")
 
 if __name__ == "__main__":
     main()
