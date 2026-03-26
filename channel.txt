@@ -23,7 +23,6 @@ Italia1.it: Italia1.it | Italia 1 | Italia 1 HD
 Italia2.it: Italia2.it | Italia 2
 LA5.it: LA5.it | La5
 La7.it: La7.it | LA7 | LA7 HD
-La7Cinema.it: La7Cinema.it | LA7D | LA7D HD | LA7d
 MediasetExtra.it: MediasetExtra.it | Mediaset Extra | Mediaset Italia 2
 R101TV.it: R101TV.it | R101 TV
 RTL102.5TV.it: RTL102.5TV.it | RTL 102.5 TV | RTL 102.5 TV HD
