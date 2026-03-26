@@ -2,6 +2,7 @@ Eurosport HD: Eurosport HD
 Eurosport 2: Eurosport 2
 Discovery Channel: Discovery Channel
 Twenty Seven: Twenty Seven
+La 7d: La 7d
 Rai News 24: Rai News 24
 Frisbee: Frisbee
 Food Network: Food Network
@@ -48,9 +49,9 @@ TGCom24.it: TGCom24.it | TGCOM 24
 TV2000.it: TV2000.it | TV 2000
 TopCrime.it: TopCrime.it | TOP Crime | TOPCrime
 Tv8.it: Tv8.it | TV8 | TV8 HD
+RSI.La.1.ch: RSI La 1
 Super!.ch: Super!
+NOVE.ch: NOVE
 Mezzo.ch: Mezzo
 Giallo.ch: Giallo
-NOVE.ch: NOVE
 RSI.LA.2.ch: RSI LA 2
-RSI.La.1.ch: RSI La 1
