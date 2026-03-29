@@ -49,9 +49,9 @@ TGCom24.it: TGCom24.it | TGCOM 24
 TV2000.it: TV2000.it | TV 2000
 TopCrime.it: TopCrime.it | TOP Crime | TOPCrime
 Tv8.it: Tv8.it | TV8 | TV8 HD
-RSI.La.1.ch: RSI La 1
-Mezzo.ch: Mezzo
+RSI.LA.2.ch: RSI LA 2
 NOVE.ch: NOVE
+Mezzo.ch: Mezzo
+RSI.La.1.ch: RSI La 1
 Giallo.ch: Giallo
 Super!.ch: Super!
-RSI.LA.2.ch: RSI LA 2
