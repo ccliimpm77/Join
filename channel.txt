@@ -1,5 +1,3 @@
-Eurosport HD: Eurosport HD
-Eurosport 2: Eurosport 2
 Discovery Channel: Discovery Channel
 Twenty Seven: Twenty Seven
 La 7d: La 7d
@@ -51,7 +49,6 @@ TopCrime.it: TopCrime.it | TOP Crime | TOPCrime
 Tv8.it: Tv8.it | TV8 | TV8 HD
 RSI.LA.2.ch: RSI LA 2
 NOVE.ch: NOVE
-Mezzo.ch: Mezzo
 RSI.La.1.ch: RSI La 1
 Giallo.ch: Giallo
 Super!.ch: Super!
@@ -59,7 +56,6 @@ MEZZO: MEZZO | MEZZO HD | MEZZO FHD | MEZZO PL | MEZZO FHD PL | MEZZO HD PL
 Eurosport 2: Eurosport 2 | Eurosport 2 PL | Eurosport2 HD | PL: Eurosport 2 HD | Eurosport 2 FHD | Eurosport 2 HD | Eurosport 2 FHD PL | Eurosport 2 HD PL | PL: EUROSPORT 2 | PL| EUROSPORT 2 HD | Eurosport 2 [PL] | Eurosport 2 HD [PL] | Eurosport 2 sd | PL: Eurosport 2 FHD
 Eurosport: Eurosport | Eurosport PL | Eurosport.pl | PL: Eurosport 1 HD | Eurosport 1 HD | Eurosport1 HD | Eurosport 1 FHD | Eurosport 1 | Eurosport 1 FHD PL | Eurosport 1 HD PL | Eurosport 1 PL | PL| EUROSPORT 1 | Eurosport HD | PL: EUROSPORT 1FHD | PL: EUROSPORT 1 | PL: EUROSPORT FHD | Eurosport 1 HD [PL] | Eurosport 1 sd | PL: Eurosport 1 FHD
 Sky Sports Premier League: Sky Sports Premier League
-Sky Sports Main Event: Sky Sports Main Event
 Sky Sports Tennis: Sky Sports Tennis
 Sport 1: Sport 1
 Sport 2: Sport 2
