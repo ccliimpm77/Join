@@ -1,2 +1,0 @@
-- EPG by epg-guide.com
-lang="de"
