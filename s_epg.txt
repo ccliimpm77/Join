@@ -48,6 +48,14 @@ MotorTrend.it
 SuperTennis.it
 AlmaTV.it
 SportItalia.it
+
 https://epg.ovh/pl.xml
+Sport 1
+Sport 2
+Sky Sports Tennis
+Sky Sports Premier League
+MEZZO
+Eurosport
+Eurosport 2
 
 https://xtream-masters.com/epg/CH1.xml.gz
