@@ -59,3 +59,8 @@ Eurosport
 Eurosport 2
 
 https://xtream-masters.com/epg/CH1.xml.gz
+Super!.ch
+Giallo.ch
+NOVE.ch
+RSI.La.1.ch
+RSI.LA.2.ch
