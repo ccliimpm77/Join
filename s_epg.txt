@@ -1,5 +1,8 @@
 https://www.epgitalia.tv/gzip
+Twenty Seven
+Discovery Channel
 https://www.epgitalia.tv/guidexz
+
 http://epg-guide.com/dttsat.xml
 https://epg.ovh/pl.xml
 https://xtream-masters.com/epg/CH1.xml.gz
