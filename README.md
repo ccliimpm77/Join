@@ -1,1 +1,0 @@
-vedi ai studio
