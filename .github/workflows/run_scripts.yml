@@ -1,0 +1,44 @@
+name: Esecuzione Script Giornalieri
+
+on:
+  schedule:
+    # Pianificato per ogni giorno alle 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permette di avviare l'automazione manualmente per test
+
+jobs:
+  execute-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v4
+
+      - name: Configura l'ambiente (Esempio: Python)
+        # Se i tuoi script sono in Python, scommenta le righe sotto
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Installa dipendenze (opzionale)
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Esegui gli script elencati in script.txt
+        run: |
+          # Legge il file riga per riga
+          while IFS= read -r line || [ -n "$line" ]; do
+            # Ignora righe vuote o commenti
+            [[ -z "$line" || "$line" =~ ^# ]] && continue
+            
+            echo "------------------------------------------"
+            echo "Eseguendo: $line"
+            echo "------------------------------------------"
+            
+            # Se è uno script shell/python, assicurati che sia eseguibile o invocato correttamente
+            # Usiamo 'eval' per eseguire il comando scritto nel file (es: "python script1.py")
+            eval "$line"
+            
+          done < script.txt
