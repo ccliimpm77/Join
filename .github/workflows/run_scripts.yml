@@ -41,4 +41,4 @@ jobs:
             # Usiamo 'eval' per eseguire il comando scritto nel file (es: "python script1.py")
             eval "$line"
             
-          done < script.txt
+          done < s_script.txt
