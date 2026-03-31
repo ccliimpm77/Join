@@ -1,7 +1,15 @@
 https://www.epgitalia.tv/gzip
 Twenty Seven
 Discovery Channel
-https://www.epgitalia.tv/guidexz
+
+https://www.epgitalia.tv/guide2
+Rai News 24
+Motor Trend
+Food Network
+Frisbee
+Real Time
+La 7d
+K2
 
 http://epg-guide.com/dttsat.xml
 Rai1.it
@@ -41,4 +49,5 @@ SuperTennis.it
 AlmaTV.it
 SportItalia.it
 https://epg.ovh/pl.xml
+
 https://xtream-masters.com/epg/CH1.xml.gz
