@@ -1,8 +1,8 @@
 import os
 
 def main():
-    # 1. Cancella epg.old se esiste
-    file_da_eliminare = "epg.old"
+    # 1. Cancella join.old se esiste
+    file_da_eliminare = "join.old"
     if os.path.exists(file_da_eliminare):
         os.remove(file_da_eliminare)
         print(f"File {file_da_eliminare} eliminato con successo.")
