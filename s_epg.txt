@@ -1,9 +1,7 @@
 https://www.epgitalia.tv/gzip
-TwentySeven.it
 DiscoveryChannel.it
 Eurosport.1.it
 Eurosport.2.it
-CNN.it
 
 https://www.epgitalia.tv/guide2
 Rai News 24
@@ -51,6 +49,7 @@ MotorTrend.it
 SuperTennis.it
 AlmaTV.it
 SportItalia.it
+TwentySeven.it
 
 https://epg.ovh/pl.xml
 Sport 1
@@ -58,6 +57,7 @@ Sport 2
 Sky Sports Tennis
 Sky Sports Premier League
 MEZZO
+CNN
 
 https://xtream-masters.com/epg/CH1.xml.gz
 Super!.ch
