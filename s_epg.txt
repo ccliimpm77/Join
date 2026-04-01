@@ -1,6 +1,9 @@
 https://www.epgitalia.tv/gzip
-Twenty Seven
-Discovery Channel
+TwentySeven.it
+DiscoveryChannel.it
+Eurosport1.it
+Eurosport2.it
+CNN.it
 
 https://www.epgitalia.tv/guide2
 Rai News 24
@@ -55,8 +58,6 @@ Sport 2
 Sky Sports Tennis
 Sky Sports Premier League
 MEZZO
-Eurosport
-Eurosport 2
 
 https://xtream-masters.com/epg/CH1.xml.gz
 Super!.ch
