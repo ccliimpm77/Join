@@ -64,4 +64,4 @@ NOVE.ch
 RSI.La.1.ch
 RSI.LA.2.ch
 Mezzo.ch
-Motor.Trend.ch
+Motor.trend.ch
