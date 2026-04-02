@@ -56,7 +56,6 @@ Sport 1
 Sport 2
 Sky Sports Tennis
 Sky Sports Premier League
-MEZZO
 CNN
 
 https://xtream-masters.com/epg/CH1.xml.gz
@@ -65,3 +64,4 @@ Giallo.ch
 NOVE.ch
 RSI.La.1.ch
 RSI.LA.2.ch
+Mezzo.ch
