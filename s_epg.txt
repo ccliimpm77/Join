@@ -6,7 +6,6 @@ Twenty Seven
 
 https://www.epgitalia.tv/guide2
 Rai News 24
-Motor Trend
 Food Network
 Frisbee
 Real Time
@@ -64,4 +63,4 @@ NOVE.ch
 RSI.La.1.ch
 RSI.LA.2.ch
 Mezzo.ch
-Motor.trend.ch
+Motor.Trend.ch
