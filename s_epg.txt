@@ -2,7 +2,6 @@ https://www.epgitalia.tv/gzip
 Discovery Channel
 eurosport 1
 eurosport2
-Twenty Seven
 
 https://www.epgitalia.tv/guide2
 Rai News 24
@@ -48,6 +47,7 @@ RaiSport.it
 SuperTennis.it
 AlmaTV.it
 SportItalia.it
+WarnerTV.it
 
 https://epg.ovh/pl.xml
 Sport 1
