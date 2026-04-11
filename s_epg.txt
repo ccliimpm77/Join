@@ -47,7 +47,7 @@ RaiSport.it
 SuperTennis.it
 AlmaTV.it
 SportItalia.it
-TwentySeven.it
+27Mediaset.it
 
 https://epg.ovh/pl.xml
 Sky Sports Tennis
