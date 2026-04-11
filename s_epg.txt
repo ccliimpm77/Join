@@ -50,8 +50,6 @@ SportItalia.it
 WarnerTV.it
 
 https://epg.ovh/pl.xml
-Sport 1
-Sport 2
 Sky Sports Tennis
 Sky Sports Premier League
 CNN
