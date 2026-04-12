@@ -4,12 +4,7 @@ eurosport 1
 eurosport2
 
 https://www.epgitalia.tv/guide2
-Rai News 24
 Food Network
-Frisbee
-Real Time
-La 7d
-K2
 
 http://epg-guide.com/dttsat.xml
 Rai1.it
@@ -62,3 +57,9 @@ RSI.La.1.ch
 RSI.LA.2.ch
 Mezzo.ch
 Motor.Trend.ch
+Rai.News.24.ch
+Frisbee.ch
+Real.Time.ch
+La.7d.ch
+K2.ch
+
