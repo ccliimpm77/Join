@@ -1,2 +1,3 @@
 python s_delete.py
 python s_filter.py
+python c_clean.py
