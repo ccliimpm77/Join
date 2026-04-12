@@ -1,0 +1,21 @@
+sei un esperto di epg per iptv.
+ho un file epg sul repo github: join.epg.
+il file join.epg va modificato.
+nel repo ci sono anche: c_old.txt e c_new.txt.
+
+crea uno script che chiami c_clean.py senza automazione che faccia:
+
+1.legga file c_old.txt e c_new.txt: ogni riga  di c_old.txt devi cercarla in ogni riga di join.epg, se presente sostituiscila con la stringa che trovi in c_new.txt, cioé leggi una riga di c_old.txt la cerchi in ogni riga di join.epg se  trovi la stringa nella riga di join.epg la sostituisci con la stringa corrispondente di c_new.txt.
+
+2. cerca in ogni riga join.epg la stringa: 
+"icon src" se presente nella riga elimina la riga
+
+3. cerca in ogni riga join.epg la stringa: 
+"display-name" se presente nella riga elimina la riga
+
+4.  cerca in ogni riga di join.epg la stringa "channel id" se presente memorizza il valore del channel id cioé la stringa che é contenuta tra le virgolette esempio:
+ <channel id="Discovery Channel">
+devi memorizzare Discovery Channel.
+scrivi una riga subito dopo quella che contiene channel id cosí composta:
+ <display-name lang="it">XXXX</display-name>
+dove XXXX é il valore memorizzato di channel id.
